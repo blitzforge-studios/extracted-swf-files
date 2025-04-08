@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="1004.75px" width="1778.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 288.95, 235.1)">
+    <use ffdec:characterId="414" height="0.0" id="am_HighlighterCharacterInfo" transform="matrix(1.0, 0.0, 0.0, 1.0, 174.0, 565.0)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="422" height="59.8" id="am_HighlighterQuestGiver" transform="matrix(1.0, 0.0, 0.0, 1.0, 399.75, 208.3)" width="333.3" xlink:href="#sprite1"/>
+    <use ffdec:characterId="429" height="56.8" id="am_HighlighterExitHome" transform="matrix(1.0, 0.0, 0.0, 1.0, 241.95, 24.4)" width="337.9" xlink:href="#sprite5"/>
+    <use ffdec:characterId="435" height="105.75" id="am_HighlighterHome" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="438" height="105.75" id="am_HighlighterTome" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite11"/>
+    <use ffdec:characterId="441" height="105.75" id="am_HighlighterBarn" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite13"/>
+    <use ffdec:characterId="444" height="105.75" id="am_HighlighterForge" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite15"/>
+    <use ffdec:characterId="447" height="105.75" id="am_HighlighterTrove" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite17"/>
+    <use ffdec:characterId="450" height="105.75" id="am_HighlighterDye" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite19"/>
+    <use ffdec:characterId="453" height="105.75" id="am_HighlighterSigil" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite21"/>
+    <use ffdec:characterId="456" height="105.75" id="am_HighlighterLeaveKeep" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite23"/>
+    <use ffdec:characterId="459" height="105.75" id="am_HighlighterTower" transform="matrix(1.0, 0.0, 0.0, 1.0, 432.75, 562.4)" width="260.0" xlink:href="#sprite25"/>
+    <use ffdec:characterId="460" height="0.0" id="am_HighlighterCurrencies" transform="matrix(1.0, 0.0, 0.0, 1.0, 135.55, 27.0)" width="0.0" xlink:href="#sprite27"/>
+    <use ffdec:characterId="461" height="0.0" id="am_HighlighterXPBar" transform="matrix(1.0, 0.0, 0.0, 1.0, 127.95, -2.5)" width="0.0" xlink:href="#sprite28"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabArmory" transform="matrix(1.0, 0.0, 0.0, 1.0, 556.9, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabMaterial" transform="matrix(1.0, 0.0, 0.0, 1.0, 646.9, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabCharms" transform="matrix(1.0, 0.0, 0.0, 1.0, 737.4, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabSkills" transform="matrix(1.0, 0.0, 0.0, 1.0, 827.4, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabFeats" transform="matrix(1.0, 0.0, 0.0, 1.0, 916.9, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="462" height="0.0" id="am_HighlighterTabLook" transform="matrix(1.0, 0.0, 0.0, 1.0, 1006.9, 38.45)" width="0.0" xlink:href="#sprite29"/>
+    <use ffdec:characterId="468" height="58.35" id="am_HighlighterOptions" transform="matrix(0.7836, 0.0, 0.0, 0.7836, 1176.7797, 10.2066)" width="399.4" xlink:href="#sprite30"/>
+    <use ffdec:characterId="469" height="0.0" id="am_HighlighterChat" transform="matrix(1.0, 0.0, 0.0, 1.0, 743.95, 769.65)" width="0.0" xlink:href="#sprite33"/>
+    <use ffdec:characterId="470" height="0.0" id="am_HighlighterCombatAreaFull" transform="matrix(1.0, 0.0, 0.0, 1.0, 206.55, 723.2)" width="0.0" xlink:href="#sprite34"/>
+    <use ffdec:characterId="480" height="90.5" id="am_HighlighterEmote" transform="matrix(1.0, 0.0, 0.0, 1.0, 563.6, 560.25)" width="411.85" xlink:href="#sprite35"/>
+    <use ffdec:characterId="488" height="128.75" id="am_HighlighterQuestTracker" transform="matrix(1.0, 0.0, 0.0, 1.0, 362.2, 525.55)" width="380.0" xlink:href="#sprite38"/>
+    <use ffdec:characterId="489" height="128.75" id="am_HighlighterMap" transform="matrix(1.0, 0.0, 0.0, 1.0, 360.4, 533.55)" width="380.0" xlink:href="#sprite42"/>
+    <use ffdec:characterId="499" height="71.0" id="am_HighlighterBreakChains" transform="matrix(1.0, 0.0, 0.0, 1.0, 764.85, 407.2)" width="335.3" xlink:href="#sprite43"/>
+    <use ffdec:characterId="502" height="668.8" id="am_WhiteOut" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.6, 0.5)" width="1154.9" xlink:href="#sprite46"/>
+    <use ffdec:characterId="507" height="61.35" id="am_HighlighterMove" transform="matrix(1.0, 0.0, 0.0, 1.0, 380.6, 242.05)" width="314.8" xlink:href="#sprite48"/>
+    <use ffdec:characterId="515" height="75.0" id="am_HighlighterRanged" transform="matrix(1.0, 0.0, 0.0, 1.0, 359.95, 241.1)" width="364.8" xlink:href="#sprite50"/>
+    <use ffdec:characterId="522" height="73.0" id="am_HighlighterMelee" transform="matrix(1.0, 0.0, 0.0, 1.0, 409.95, 221.1)" width="350.8" xlink:href="#sprite53"/>
+    <use ffdec:characterId="527" height="60.8" id="am_HighlighterDoors" transform="matrix(1.0, 0.0, 0.0, 1.0, 804.15, 380.15)" width="331.3" xlink:href="#sprite55"/>
+    <use ffdec:characterId="532" height="60.8" id="am_HighlighterJumping" transform="matrix(1.0, 0.0, 0.0, 1.0, 234.3, 361.65)" width="328.3" xlink:href="#sprite57"/>
+    <use ffdec:characterId="537" height="60.8" id="am_HighlighterJumping" transform="matrix(1.0, 0.0, 0.0, 1.0, 114.65, 503.65)" width="331.3" xlink:href="#sprite59"/>
+    <use ffdec:characterId="544" height="73.0" id="am_HighlighterPower4" transform="matrix(1.0, 0.0, 0.0, 1.0, 230.1, 591.25)" width="343.8" xlink:href="#sprite61"/>
+    <use ffdec:characterId="544" height="73.0" id="am_HighlighterPower2" transform="matrix(1.0, 0.0, 0.0, 1.0, 115.1, 591.25)" width="343.8" xlink:href="#sprite61"/>
+    <use ffdec:characterId="552" height="61.35" id="am_HighlighterPower1" transform="matrix(1.0, 0.0, 0.0, 1.0, 69.6, 581.25)" width="330.3" xlink:href="#sprite63"/>
+    <use ffdec:characterId="562" height="91.0" id="am_HighlighterManaBar" transform="matrix(1.0, 0.0, 0.0, 1.0, 88.65, 559.25)" width="346.85" xlink:href="#sprite66"/>
+    <use ffdec:characterId="569" height="73.0" id="am_HighlighterHealthBar" transform="matrix(1.0, 0.0, 0.0, 1.0, 39.6, 523.55)" width="321.85" xlink:href="#sprite69"/>
+    <use ffdec:characterId="592" height="148.1" id="am_HighlighterQuestInfo" transform="matrix(1.0, 0.0, 0.0, 1.0, -65.8, -53.5)" width="602.65" xlink:href="#sprite71"/>
+    <use ffdec:characterId="599" height="148.1" id="am_HighlighterAcceptQuests" transform="matrix(1.0, 0.0, 0.0, 1.0, -206.45, -235.1)" width="420.3" xlink:href="#sprite72"/>
+    <use ffdec:characterId="605" height="197.4" id="am_HighlighterCompleteQuest" transform="matrix(1.0, 0.0, 0.0, 1.0, -267.0, -185.0)" width="470.3" xlink:href="#sprite73"/>
+    <use ffdec:characterId="611" height="190.55" id="am_HighlighterTalkToRistas" transform="matrix(1.0, 0.0, 0.0, 1.0, -267.55, -148.3)" width="471.4" xlink:href="#sprite74"/>
+    <use ffdec:characterId="615" height="202.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -24.55, 19.3)" width="481.4" xlink:href="#sprite75"/>
+    <use ffdec:characterId="615" height="202.55" id="am_HighlighterAcceptRistasQuest" transform="matrix(1.0, 0.0, 0.0, 1.0, -278.55, -160.3)" width="481.4" xlink:href="#sprite75"/>
+    <use ffdec:characterId="615" height="202.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -24.55, 19.3)" width="481.4" xlink:href="#sprite75"/>
+    <use ffdec:characterId="621" height="209.4" id="am_HighlighterAcceptAnnaQuest" transform="matrix(1.0, 0.0, 0.0, 1.0, -288.95, -167.15)" width="491.8" xlink:href="#sprite76"/>
+    <use ffdec:characterId="624" height="176.65" id="am_HighlighterBarnArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite77"/>
+    <use ffdec:characterId="627" height="176.65" id="am_HighlighterTomeArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite78"/>
+    <use ffdec:characterId="630" height="176.65" id="am_HighlighterForgeArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite79"/>
+    <use ffdec:characterId="633" height="176.65" id="am_HighlighterTowerArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite80"/>
+    <use ffdec:characterId="636" height="176.65" id="am_HighlighterSigilArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite81"/>
+    <use ffdec:characterId="639" height="176.65" id="am_HighlighterTroveArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite82"/>
+    <use ffdec:characterId="642" height="176.65" id="am_HighlighterDyeArrow" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.45, 45.2)" width="320.0" xlink:href="#sprite83"/>
+    <use ffdec:characterId="643" height="138.25" id="am_ArrowGoRight" transform="matrix(0.0, -1.0, 1.0, 0.0, 1006.0, 332.3)" width="66.2" xlink:href="#sprite84"/>
+    <use ffdec:characterId="643" height="138.25" id="am_ArrowGoLeft" transform="matrix(0.0, -1.0, -1.0, 0.0, 146.0, 332.3)" width="66.2" xlink:href="#sprite84"/>
+  </g>
+  <defs>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 166.85, 178.85)">
+      <filter id="filter0">
+        <feColorMatrix in="SourceGraphic" result="filterResult0" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="415" filter="url(#filter0)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.15, -119.05)" width="0.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="417" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -128.05, -178.4)" width="267.05" xlink:href="#sprite3"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -166.8297, -178.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter12">
+        <feColorMatrix in="SourceGraphic" result="filterResult1" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult1" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult2"/>
+        <feComposite in="SourceGraphic" in2="filterResult2" operator="over" result="filterResult3"/>
+      </filter>
+      <use ffdec:characterId="416" filter="url(#filter12)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text0"/>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_Q0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 14.7, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 25.7, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 36.7, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 46.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 58.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_G0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 73.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 78.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 87.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 98.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 105.55, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_Q0">
+      <path d="M213.0 -378.0 Q212.5 -306.5 231.0 -247.5 249.5 -189.0 294.5 -153.5 339.5 -118.5 418.0 -117.5 456.0 -117.5 485.5 -126.5 L428.0 -180.0 Q422.0 -185.5 418.5 -193.0 414.5 -200.0 414.5 -209.0 415.5 -231.5 432.0 -251.0 449.0 -270.0 472.0 -271.5 490.0 -271.0 500.0 -265.5 510.0 -260.0 520.0 -250.0 L578.5 -196.5 Q601.5 -231.5 612.0 -278.0 622.5 -324.5 622.5 -378.0 622.5 -449.5 600.0 -503.5 577.5 -558.0 532.0 -588.5 486.5 -619.5 418.0 -620.0 349.0 -619.5 303.5 -588.5 258.0 -558.0 235.5 -503.5 213.0 -449.5 213.0 -378.0 M45.0 -378.0 Q45.0 -487.0 88.0 -572.0 130.5 -656.5 213.5 -705.5 296.5 -754.0 418.0 -755.0 539.0 -754.0 622.0 -705.5 705.0 -656.5 747.5 -572.0 790.5 -487.0 790.5 -378.0 790.5 -295.5 765.5 -221.5 740.5 -147.5 689.0 -93.0 L753.5 -32.5 Q760.0 -27.0 763.5 -20.0 767.0 -12.5 767.0 -4.0 766.0 18.5 749.5 38.0 732.5 57.0 709.5 58.5 692.0 58.5 681.5 52.5 671.5 47.0 661.5 37.0 L597.0 -23.5 Q559.5 -3.5 514.5 7.0 470.0 17.5 418.0 17.5 286.0 16.5 203.5 -35.5 121.5 -87.0 83.0 -176.0 44.5 -265.0 45.0 -378.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_u0">
+      <path d="M566.5 -474.0 L566.5 -61.5 Q566.5 -27.0 550.5 -7.0 534.0 13.0 499.0 13.5 464.0 13.0 447.5 -7.0 431.0 -27.0 431.5 -61.5 L431.5 -81.0 429.5 -81.0 Q398.5 -38.5 355.0 -13.0 311.0 12.5 248.0 13.5 202.0 14.0 159.0 -4.0 116.0 -21.5 88.5 -65.0 60.5 -108.0 59.5 -183.0 L59.5 -474.0 Q58.5 -505.0 75.0 -526.5 91.5 -548.0 134.5 -549.0 177.0 -548.0 193.5 -526.5 210.0 -505.0 209.0 -474.0 L209.0 -213.0 Q209.0 -167.0 232.0 -138.5 255.0 -110.0 303.5 -109.5 330.0 -109.5 356.0 -123.5 382.0 -137.0 399.0 -163.5 416.5 -190.0 417.0 -227.5 L417.0 -474.0 Q416.0 -505.0 432.5 -526.5 449.0 -548.0 492.0 -549.0 534.5 -548.0 551.0 -526.5 567.5 -505.0 566.5 -474.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_e0">
+      <path d="M186.5 -325.5 L448.5 -325.5 Q441.5 -378.0 407.5 -411.0 373.5 -443.5 322.5 -444.5 266.5 -444.0 232.5 -412.5 198.5 -380.5 186.5 -325.5 M524.5 -239.5 L186.5 -239.5 Q187.0 -179.0 223.0 -141.5 259.0 -104.0 324.5 -103.0 366.0 -103.5 390.5 -114.5 415.0 -125.5 431.0 -140.0 446.5 -154.5 461.0 -165.5 476.0 -176.5 497.5 -177.0 525.0 -176.0 542.0 -158.0 558.5 -140.0 559.0 -118.5 558.5 -84.5 535.0 -60.0 512.0 -35.0 475.5 -18.5 439.5 -2.5 399.5 5.5 359.5 13.5 324.5 13.5 246.5 13.0 191.5 -10.5 136.5 -34.0 102.5 -73.5 68.5 -112.5 52.5 -160.5 37.0 -208.5 37.0 -258.0 37.5 -345.5 71.0 -411.0 104.5 -476.0 167.5 -512.0 230.5 -548.5 319.5 -549.0 406.0 -548.0 466.0 -513.0 526.5 -478.0 558.0 -422.0 589.5 -366.5 590.0 -304.0 590.5 -266.5 576.0 -252.5 561.5 -239.0 524.5 -239.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_s0">
+      <path d="M36.0 -382.0 Q36.5 -427.5 56.5 -459.5 76.5 -491.5 109.5 -511.0 142.0 -531.0 181.5 -540.0 221.0 -549.0 260.0 -549.0 318.0 -549.0 370.0 -535.0 421.5 -521.0 454.5 -495.5 487.5 -470.0 488.5 -435.5 488.0 -408.5 471.5 -389.5 455.5 -370.5 426.0 -370.0 404.5 -370.5 390.5 -380.5 376.0 -391.0 362.0 -404.0 348.0 -417.5 327.0 -428.0 306.0 -438.0 271.5 -438.5 232.0 -438.5 209.0 -427.5 186.0 -416.0 185.5 -392.5 186.0 -367.0 208.0 -356.5 230.0 -346.0 265.5 -339.0 L327.5 -324.5 Q371.5 -315.5 413.5 -298.0 456.0 -280.0 484.5 -248.5 513.0 -216.5 514.0 -165.0 513.0 -104.0 479.5 -64.5 445.5 -25.0 393.5 -5.5 341.0 13.5 283.5 13.5 215.5 13.0 159.5 -5.0 103.5 -23.0 70.0 -53.0 37.0 -83.5 36.0 -120.5 36.0 -146.0 50.5 -164.5 65.0 -182.5 96.5 -183.0 120.0 -182.5 136.5 -169.0 153.0 -155.0 169.5 -137.0 186.5 -119.0 211.5 -105.5 237.0 -91.5 277.5 -91.0 318.0 -91.5 341.0 -106.5 364.0 -121.5 364.5 -145.5 364.0 -172.5 341.5 -183.0 319.0 -194.0 278.5 -202.5 L190.5 -224.5 Q146.5 -234.5 112.0 -252.5 77.0 -270.5 57.0 -301.5 36.5 -332.5 36.0 -382.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_t0">
+      <path d="M98.5 -119.5 L98.5 -437.0 73.0 -437.0 Q41.5 -437.0 27.5 -449.5 13.5 -461.5 13.5 -486.5 13.5 -511.0 27.5 -523.0 41.5 -535.5 73.0 -535.5 L98.5 -535.5 98.5 -626.5 Q99.0 -663.5 119.0 -682.5 139.0 -701.0 173.5 -701.5 207.5 -701.0 227.5 -682.5 247.5 -663.5 248.0 -626.5 L248.0 -535.5 293.0 -535.5 Q326.0 -535.5 343.5 -524.5 360.5 -513.0 360.5 -486.5 360.5 -459.5 343.5 -448.0 326.0 -437.0 293.0 -437.0 L248.0 -437.0 248.0 -138.0 Q248.0 -121.0 257.5 -112.0 267.0 -103.0 287.0 -103.0 L308.5 -103.0 Q333.0 -103.0 347.0 -90.0 360.5 -77.0 360.5 -53.0 360.5 -20.5 333.0 -3.5 306.0 13.5 252.0 13.5 171.5 13.5 134.5 -20.0 98.0 -53.5 98.5 -119.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_G0">
+      <path d="M762.0 -320.5 L762.0 -43.0 Q761.5 -19.0 746.0 -3.0 730.5 13.0 704.5 13.5 669.5 13.5 654.5 -9.5 640.0 -33.0 633.0 -82.0 597.5 -36.0 544.5 -9.5 491.5 17.0 413.5 17.5 316.5 17.0 247.5 -14.0 179.0 -44.5 136.0 -98.0 93.5 -151.5 73.5 -221.0 54.0 -290.5 54.0 -368.5 55.0 -493.5 103.0 -579.5 151.0 -665.5 237.0 -710.0 323.0 -754.5 438.5 -755.0 508.5 -754.5 561.5 -736.5 615.0 -718.5 651.0 -691.0 687.5 -663.5 705.5 -633.5 724.0 -603.0 724.0 -578.0 723.5 -549.0 711.5 -532.5 699.5 -516.5 681.5 -510.0 664.0 -503.5 645.5 -504.0 615.5 -505.0 599.5 -522.0 584.0 -539.5 567.5 -562.0 551.5 -584.5 520.5 -602.0 489.5 -619.0 429.0 -620.0 370.5 -620.5 324.0 -593.5 277.5 -566.5 250.0 -508.5 222.5 -450.5 222.0 -357.0 222.0 -284.0 245.5 -229.0 269.5 -174.0 316.0 -143.0 362.5 -112.0 431.0 -111.5 476.5 -112.0 514.5 -130.5 552.5 -149.0 577.0 -183.0 602.0 -216.5 606.5 -262.0 L497.0 -262.0 Q478.5 -262.0 461.0 -267.5 444.0 -273.0 432.5 -287.0 421.5 -301.0 421.0 -326.5 421.0 -357.5 438.0 -374.0 455.0 -391.0 486.5 -391.0 L693.5 -391.0 Q730.0 -391.0 746.0 -373.0 762.5 -355.0 762.0 -320.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_i0">
+      <path d="M64.5 -677.5 Q65.5 -710.5 87.5 -732.0 109.0 -754.0 142.0 -755.0 175.5 -754.0 197.0 -732.0 219.0 -710.5 220.0 -677.5 219.0 -644.0 197.0 -622.5 175.5 -600.5 142.0 -599.5 109.0 -600.5 87.5 -622.5 65.5 -644.0 64.5 -677.5 M67.5 -61.5 L67.5 -474.0 Q66.5 -505.0 83.0 -526.5 99.5 -548.0 142.5 -549.0 185.0 -548.0 201.5 -526.5 218.0 -505.0 217.0 -474.0 L217.0 -61.5 Q218.0 -30.5 201.5 -9.0 185.0 12.5 142.5 13.5 99.5 12.5 83.0 -9.0 66.5 -30.5 67.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_v0">
+      <path d="M158.0 -40.0 L16.5 -433.0 Q13.5 -443.0 10.5 -453.5 7.5 -464.0 7.5 -471.0 8.5 -511.0 30.5 -530.0 52.0 -549.0 80.0 -549.0 108.0 -548.0 123.5 -536.0 139.5 -524.0 146.0 -509.5 153.0 -495.0 155.0 -486.5 L255.0 -148.5 257.5 -148.5 357.5 -486.5 Q359.5 -495.0 366.5 -509.5 373.0 -524.0 389.0 -536.0 404.5 -548.0 432.5 -549.0 460.5 -549.0 482.0 -530.0 504.0 -511.0 505.0 -471.0 505.0 -464.0 502.0 -453.5 499.0 -443.0 496.0 -433.0 L354.5 -40.0 Q348.0 -20.0 339.5 -8.0 330.5 3.5 311.5 8.5 293.0 13.5 256.0 13.5 219.5 13.5 201.0 8.5 182.0 3.5 173.0 -8.0 164.5 -20.0 158.0 -40.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_r0">
+      <path d="M67.5 -61.5 L67.5 -479.5 Q68.0 -513.5 87.0 -531.0 106.0 -549.0 135.0 -549.0 164.0 -549.0 183.0 -531.0 202.0 -513.5 202.5 -479.5 L202.5 -422.0 204.5 -422.0 Q213.0 -454.0 228.5 -482.5 243.5 -511.5 268.0 -530.0 292.5 -548.5 328.5 -549.0 364.5 -548.5 387.0 -528.5 410.0 -508.5 410.5 -476.5 409.5 -435.5 387.5 -418.0 365.5 -401.0 337.0 -401.5 L310.0 -401.5 Q264.5 -403.0 241.0 -365.0 217.0 -327.5 217.0 -235.5 L217.0 -61.5 Q218.0 -30.5 201.5 -9.0 185.0 12.5 142.5 13.5 99.5 12.5 83.0 -9.0 66.5 -30.5 67.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 29.8, 29.8)">
+      <use ffdec:characterId="418" height="59.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -29.8, -29.8)" width="59.55" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 29.8, 29.8)">
+      <path d="M29.75 -0.05 Q29.75 12.3 21.1 21.05 L21.05 21.1 Q12.3 29.75 -0.05 29.75 -12.35 29.75 -21.05 21.05 -29.8 12.3 -29.8 -0.05 -29.8 -12.35 -21.05 -21.05 -12.35 -29.8 -0.05 -29.8 12.3 -29.8 21.05 -21.05 29.75 -12.35 29.75 -0.05" fill="#000000" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, -174.15, 12.4)">
+      <filter id="filter13">
+        <feColorMatrix in="SourceGraphic" result="filterResult4" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="424" filter="url(#filter13)" height="33.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 195.6, 10.9)" width="221.65" xlink:href="#sprite6"/>
+      <use ffdec:characterId="426" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 213.95, -12.4)" width="267.05" xlink:href="#sprite7"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, 174.1703, -11.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 153.55, 35.05)">
+      <use ffdec:characterId="423" height="33.5" transform="matrix(1.0, 0.0, 0.0, 1.0, -153.55, -35.05)" width="221.65" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 153.55, 35.05)">
+      <path d="M65.65 -2.2 L64.85 -1.55 -147.2 -1.55 -147.75 -1.85 -148.5 -2.2 -150.05 -2.55 -151.5 -2.85 -152.0 -2.95 -152.95 -3.05 -153.55 -3.1 -153.55 -33.8 -151.7 -34.35 -151.5 -34.45 Q-150.8 -34.75 -150.4 -35.05 L65.5 -35.05 Q66.75 -34.5 68.1 -34.2 L68.1 -4.3 67.15 -3.65 Q65.9 -3.15 65.9 -2.4 L65.65 -2.2" fill="#000000" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter23">
+        <feColorMatrix in="SourceGraphic" result="filterResult5" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult5" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult6"/>
+        <feComposite in="SourceGraphic" in2="filterResult6" operator="over" result="filterResult7"/>
+      </filter>
+      <use ffdec:characterId="425" filter="url(#filter23)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text1"/>
+    </g>
+    <g id="text1" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_L0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 11.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 22.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 33.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 42.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 58.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_H0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 72.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 83.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 100.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_L0">
+      <path d="M78.0 -98.5 L78.0 -667.0 Q78.5 -705.0 101.0 -728.0 123.0 -750.5 162.0 -751.0 201.0 -750.5 223.0 -728.0 245.5 -705.0 246.0 -667.0 L246.0 -141.5 526.5 -141.5 Q563.5 -141.5 588.0 -123.5 612.5 -105.5 613.5 -71.0 612.5 -36.0 588.0 -18.0 563.5 0.0 526.5 0.0 L176.5 0.0 Q131.0 1.0 105.0 -21.0 78.5 -43.0 78.0 -98.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_a0">
+      <path d="M406.5 -193.5 L406.5 -252.0 Q393.5 -241.0 374.5 -236.0 356.0 -230.5 342.0 -228.5 L287.5 -220.5 Q240.5 -214.0 216.0 -197.0 191.5 -180.0 191.5 -146.5 192.0 -120.5 213.5 -103.0 235.5 -85.5 274.5 -85.0 315.5 -85.5 345.0 -101.0 374.5 -116.0 390.5 -141.0 406.5 -165.5 406.5 -193.5 M556.0 -395.5 L556.0 -144.5 Q556.5 -113.5 560.0 -96.0 563.5 -78.0 567.5 -66.5 571.0 -55.0 571.5 -44.0 570.5 -18.0 551.0 -2.5 531.5 13.0 504.0 13.5 456.0 12.5 436.5 -13.0 416.5 -38.0 415.5 -73.5 372.0 -26.0 321.0 -6.0 270.0 14.0 211.0 13.5 167.5 13.0 129.5 -5.0 91.0 -23.5 67.0 -58.0 43.0 -92.0 42.0 -139.5 42.5 -200.5 70.5 -236.0 98.5 -271.5 146.0 -288.5 193.0 -305.5 251.0 -311.5 L342.0 -321.5 Q369.5 -323.5 387.5 -334.5 406.0 -345.5 406.5 -377.0 405.5 -409.0 378.0 -424.0 351.0 -438.5 312.5 -438.5 271.5 -438.0 247.0 -425.5 222.5 -413.5 206.5 -397.5 190.5 -381.5 176.0 -369.5 161.0 -357.0 139.5 -356.5 110.5 -357.0 93.5 -373.5 76.0 -390.0 76.0 -414.0 76.0 -444.5 103.5 -475.5 130.5 -506.0 183.5 -527.0 236.5 -548.0 313.5 -549.0 385.5 -549.0 440.0 -533.0 494.5 -517.0 525.0 -483.0 555.5 -449.0 556.0 -395.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_H0">
+      <path d="M78.0 -70.5 L78.0 -667.0 Q78.5 -705.0 101.0 -728.0 123.0 -750.5 162.0 -751.0 201.0 -750.5 223.0 -728.0 245.5 -705.0 246.0 -667.0 L246.0 -458.0 551.0 -458.0 551.0 -667.0 Q551.5 -705.0 574.0 -728.0 596.0 -750.5 635.0 -751.0 674.0 -750.5 696.0 -728.0 718.5 -705.0 719.0 -667.0 L719.0 -70.5 Q718.5 -32.5 696.0 -9.5 674.0 13.0 635.0 13.5 596.0 13.0 574.0 -9.5 551.5 -32.5 551.0 -70.5 L551.0 -316.5 246.0 -316.5 246.0 -70.5 Q245.5 -32.5 223.0 -9.5 201.0 13.0 162.0 13.5 123.0 13.0 101.0 -9.5 78.5 -32.5 78.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_o0">
+      <path d="M37.0 -268.5 Q37.0 -348.0 68.5 -411.0 100.0 -474.5 161.5 -511.5 223.5 -548.0 313.5 -549.0 403.5 -548.0 465.5 -511.5 527.0 -474.5 558.5 -411.0 590.0 -348.0 590.0 -268.5 590.5 -192.5 563.5 -128.5 536.5 -65.0 476.0 -26.5 415.0 12.5 313.5 13.5 212.0 12.5 151.0 -26.5 90.5 -65.0 63.5 -128.5 36.5 -192.5 37.0 -268.5 M186.5 -268.5 Q186.5 -222.0 199.5 -183.5 213.0 -144.5 241.0 -121.0 269.0 -97.5 313.5 -97.0 358.0 -97.5 386.0 -121.0 414.0 -144.5 427.5 -183.5 440.5 -222.0 440.5 -268.5 440.5 -317.5 427.0 -355.5 413.5 -394.0 385.0 -416.0 357.0 -438.0 313.5 -438.5 270.0 -438.0 242.0 -416.0 213.5 -394.0 200.0 -355.5 186.5 -317.5 186.5 -268.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_m0">
+      <path d="M59.5 -61.5 L59.5 -474.0 Q60.0 -508.5 78.5 -528.5 97.0 -548.5 130.0 -549.0 163.5 -548.5 182.0 -528.5 200.5 -508.5 201.0 -474.0 L201.0 -454.5 203.0 -454.5 Q232.5 -499.5 279.0 -524.0 326.0 -548.5 383.0 -549.0 409.0 -549.0 437.0 -540.0 464.5 -531.5 488.5 -510.5 512.0 -490.0 526.5 -454.5 557.5 -499.0 600.0 -523.5 642.5 -548.5 702.5 -549.0 755.0 -549.5 797.0 -532.0 839.0 -514.0 863.5 -474.5 888.5 -434.5 889.0 -367.5 L889.0 -61.5 Q890.0 -30.5 873.5 -9.0 857.0 12.5 814.5 13.5 771.5 12.5 755.0 -9.0 738.5 -30.5 739.5 -61.5 L739.5 -330.0 Q740.0 -370.5 720.5 -398.0 701.0 -425.0 657.5 -426.0 628.5 -426.0 604.0 -411.5 579.5 -397.0 564.5 -371.5 549.5 -345.5 549.0 -310.5 L549.0 -61.5 Q550.0 -30.5 533.5 -9.0 517.0 12.5 474.5 13.5 431.5 12.5 415.0 -9.0 398.5 -30.5 399.5 -61.5 L399.5 -330.0 Q400.0 -370.5 380.5 -398.0 361.0 -425.0 317.5 -426.0 288.5 -426.0 264.0 -411.5 239.5 -397.0 224.5 -371.5 209.5 -345.5 209.0 -310.5 L209.0 -61.5 Q210.0 -30.5 193.5 -9.0 177.0 12.5 134.5 13.5 91.5 12.5 75.0 -9.0 58.5 -30.5 59.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter47">
+        <feColorMatrix in="SourceGraphic" result="filterResult11" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="434" filter="url(#filter47)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite9"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter46">
+        <feColorMatrix in="SourceGraphic" result="filterResult8" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult8" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult9"/>
+        <feComposite in="SourceGraphic" in2="filterResult9" operator="over" result="filterResult10"/>
+      </filter>
+      <use ffdec:characterId="431" filter="url(#filter46)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -134.6, 30.25)" width="217.6" xlink:href="#text2"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <path d="M84.45 33.5 L84.75 37.2 84.75 47.25 84.7 47.25 Q83.7 58.7 71.25 58.7 L-12.5 58.7 -12.5 58.55 -15.4 58.55 -15.4 58.35 -19.4 58.35 -19.4 58.3 -27.8 58.3 -42.6 73.1 -57.4 58.3 -64.05 58.3 -64.05 58.7 -155.75 58.7 Q-168.2 58.7 -169.15 47.25 L-169.25 47.25 -169.25 37.2 Q-169.25 23.7 -155.75 23.7 L71.25 23.7 Q82.75 23.7 84.45 33.5" fill="#333333" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+      <path d="M84.45 33.5 Q82.75 23.7 71.25 23.7 L-155.75 23.7 Q-169.25 23.7 -169.25 37.2 L-169.25 47.25 -169.15 47.25 Q-168.2 58.7 -155.75 58.7 L-64.05 58.7 -64.05 58.3 -57.4 58.3 -42.6 73.1 -27.8 58.3 -19.4 58.3 -19.4 58.35 -15.4 58.35 -15.4 58.55 -12.5 58.55 -12.5 58.7 71.25 58.7 Q83.7 58.7 84.7 47.25 L84.75 47.25 84.75 37.2 84.45 33.5 M87.55 33.5 L87.75 37.2 87.75 47.25 87.7 47.25 Q86.7 61.7 71.25 61.7 L-27.25 61.7 -41.6 76.05 Q-42.05 76.45 -42.6 76.45 -43.15 76.45 -43.55 76.05 L-57.9 61.7 -155.75 61.7 Q-171.2 61.7 -172.15 47.25 L-172.25 47.25 -172.25 37.2 Q-172.25 20.7 -155.75 20.7 L71.25 20.7 Q85.8 20.7 87.55 33.5" fill="#00b4e1" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text2" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_Y0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 9.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 18.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 27.55, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 38.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 47.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 56.6, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_w0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 72.85, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 82.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 91.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 100.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 108.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 122.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 126.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 139.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 150.65, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 159.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 163.95, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 173.15, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 181.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 189.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 198.45, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_Y0">
+      <path d="M229.5 -70.5 L229.5 -288.0 23.5 -630.0 Q17.5 -640.0 13.5 -651.5 9.5 -662.5 9.5 -674.0 10.0 -702.5 24.0 -719.5 38.0 -736.5 58.0 -744.0 77.5 -751.0 94.5 -751.0 123.5 -751.0 140.5 -738.5 157.5 -726.5 170.0 -702.0 L316.5 -432.5 462.0 -702.0 Q476.0 -729.0 492.5 -740.0 509.0 -751.5 534.5 -751.0 550.5 -751.0 570.0 -744.0 589.0 -736.5 603.0 -719.5 617.0 -702.5 617.5 -674.0 617.5 -662.5 613.5 -651.5 609.5 -640.0 603.5 -630.0 L397.5 -288.0 397.5 -70.5 Q397.0 -32.5 374.5 -9.5 352.5 13.0 313.5 13.5 274.5 13.0 252.5 -9.5 230.0 -32.5 229.5 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_n0">
+      <path d="M59.5 -61.5 L59.5 -474.0 Q59.5 -508.5 75.5 -528.5 92.0 -548.5 127.0 -549.0 162.0 -548.5 178.5 -528.5 195.0 -508.5 194.5 -474.0 L194.5 -454.5 196.5 -454.5 Q227.5 -497.0 271.0 -522.5 315.0 -548.0 378.0 -549.0 424.0 -549.5 467.0 -531.5 510.0 -514.0 537.5 -470.5 565.5 -427.5 566.5 -352.5 L566.5 -61.5 Q567.5 -30.5 551.0 -9.0 534.5 12.5 492.0 13.5 449.0 12.5 432.5 -9.0 416.0 -30.5 417.0 -61.5 L417.0 -322.5 Q417.0 -368.5 394.0 -397.0 371.0 -425.5 322.5 -426.0 296.0 -426.0 270.0 -412.0 244.0 -398.5 227.0 -372.0 209.5 -345.5 209.0 -308.0 L209.0 -61.5 Q210.0 -30.5 193.5 -9.0 177.0 12.5 134.5 13.5 91.5 12.5 75.0 -9.0 58.5 -30.5 59.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_w0">
+      <path d="M133.5 -67.5 L24.0 -424.0 Q20.0 -436.0 16.5 -449.5 13.5 -462.5 13.5 -479.5 14.5 -509.0 35.5 -528.5 57.0 -548.5 86.0 -549.0 113.5 -549.0 127.5 -539.5 142.0 -530.5 148.5 -514.0 155.5 -498.0 160.0 -476.0 L239.0 -148.5 241.0 -148.5 304.5 -446.5 Q310.0 -476.0 318.5 -499.5 327.5 -523.0 346.0 -536.5 364.0 -549.5 398.5 -549.0 433.5 -549.5 452.5 -536.5 471.5 -523.5 481.0 -500.0 490.5 -476.5 497.0 -446.5 L561.5 -148.5 563.5 -148.5 637.0 -476.0 Q641.0 -498.0 648.0 -514.0 654.5 -530.5 669.0 -539.5 683.5 -549.0 711.0 -549.0 740.0 -548.5 761.5 -528.5 782.5 -509.0 783.5 -479.5 783.5 -462.5 780.5 -449.5 777.0 -436.0 773.0 -424.0 L663.5 -67.5 Q653.5 -32.5 642.0 -15.0 631.0 2.5 613.0 8.0 595.5 14.0 566.5 13.5 535.5 13.5 518.0 6.5 500.0 -0.5 490.5 -18.0 480.5 -35.0 473.0 -64.5 L399.5 -358.5 397.5 -358.5 324.0 -64.5 Q316.5 -35.0 306.5 -18.0 297.0 -0.5 279.0 6.5 261.5 13.5 230.5 13.5 201.5 14.0 184.0 8.0 166.0 2.5 155.0 -15.0 143.5 -32.5 133.5 -67.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_h0">
+      <path d="M59.5 -61.5 L59.5 -676.0 Q60.0 -713.0 80.0 -732.0 100.0 -751.0 134.5 -751.0 168.5 -751.0 188.5 -732.0 208.5 -713.0 209.0 -676.0 L209.0 -470.0 211.0 -470.0 Q226.0 -490.0 248.5 -508.0 271.5 -525.5 303.5 -537.0 335.5 -548.5 378.0 -549.0 424.0 -549.5 467.0 -531.5 510.0 -514.0 537.5 -470.5 565.5 -427.5 566.5 -352.5 L566.5 -61.5 Q567.5 -30.5 551.0 -9.0 534.5 12.5 492.0 13.5 449.0 12.5 432.5 -9.0 416.0 -30.5 417.0 -61.5 L417.0 -322.5 Q417.0 -368.5 394.0 -397.0 371.0 -425.5 322.5 -426.0 296.0 -426.0 270.0 -412.0 244.0 -398.5 227.0 -372.0 209.5 -345.5 209.0 -308.0 L209.0 -61.5 Q210.0 -30.5 193.5 -9.0 177.0 12.5 134.5 13.5 91.5 12.5 75.0 -9.0 58.5 -30.5 59.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_U0">
+      <path d="M78.0 -276.5 L78.0 -667.0 Q78.5 -705.0 101.0 -728.0 123.0 -750.5 162.0 -751.0 201.0 -750.5 223.0 -728.0 245.5 -705.0 246.0 -667.0 L246.0 -263.0 Q246.5 -188.0 286.0 -152.5 326.0 -117.0 398.5 -117.5 471.0 -117.0 511.0 -152.5 550.5 -188.0 551.0 -263.0 L551.0 -667.0 Q551.5 -705.0 574.0 -728.0 596.0 -750.5 635.0 -751.0 674.0 -750.5 696.0 -728.0 718.5 -705.0 719.0 -667.0 L719.0 -276.5 Q718.5 -175.0 679.5 -110.0 640.0 -45.0 568.5 -13.5 497.0 17.5 398.5 17.5 300.0 17.5 228.5 -13.5 157.0 -45.0 117.5 -110.0 78.5 -175.0 78.0 -276.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_l0">
+      <path d="M67.5 -61.5 L67.5 -676.0 Q68.0 -713.0 88.0 -732.0 108.0 -751.0 142.5 -751.0 176.5 -751.0 196.5 -732.0 216.5 -713.0 217.0 -676.0 L217.0 -61.5 Q216.5 -24.5 196.5 -5.5 176.5 13.5 142.5 13.5 108.0 13.5 88.0 -5.5 68.0 -24.5 67.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_c0">
+      <path d="M30.5 -257.0 Q30.5 -344.0 62.5 -409.5 94.5 -475.0 157.0 -511.5 219.5 -548.5 311.0 -549.0 374.0 -548.5 423.0 -528.0 472.0 -508.0 500.5 -476.0 528.5 -444.5 529.0 -409.0 528.5 -376.5 508.5 -360.5 488.5 -344.0 459.5 -344.0 434.0 -345.0 421.0 -358.0 408.0 -371.0 397.0 -388.5 386.0 -405.5 366.0 -418.5 346.5 -432.0 307.0 -432.5 277.0 -433.0 248.0 -417.0 219.0 -401.0 200.0 -362.5 180.5 -324.0 180.0 -257.0 180.0 -186.0 212.0 -145.0 244.5 -104.0 306.0 -103.0 344.0 -103.5 364.0 -118.0 384.0 -132.5 396.0 -151.0 408.0 -170.0 423.0 -184.5 438.0 -198.5 466.5 -199.5 495.5 -198.5 512.0 -182.0 529.0 -165.0 529.0 -142.0 529.0 -108.0 504.5 -72.5 479.5 -37.0 429.0 -12.5 378.5 12.5 302.0 13.5 210.0 13.0 149.5 -21.5 89.5 -56.5 60.0 -117.0 30.5 -178.0 30.5 -257.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_k0">
+      <path d="M59.5 -61.5 L59.5 -676.0 Q60.0 -713.0 80.0 -732.0 100.0 -751.0 134.5 -751.0 168.5 -751.0 188.5 -732.0 208.5 -713.0 209.0 -676.0 L209.0 -336.0 375.0 -520.5 Q386.5 -533.0 401.0 -541.0 415.5 -548.5 432.0 -549.0 459.0 -548.5 480.0 -529.5 501.5 -510.5 503.0 -481.5 502.5 -462.0 496.5 -452.0 490.5 -442.0 480.5 -432.0 L369.5 -316.5 525.5 -107.5 Q529.5 -102.0 535.0 -90.0 540.5 -77.5 540.5 -59.5 540.0 -30.0 520.5 -8.5 500.5 12.5 470.0 13.5 442.5 13.0 426.5 2.0 410.5 -8.5 402.5 -21.5 L261.0 -221.0 209.0 -175.0 209.0 -61.5 Q208.5 -24.5 188.5 -5.5 168.5 13.5 134.5 13.5 100.0 13.5 80.0 -5.5 60.0 -24.5 59.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_d0">
+      <path d="M186.5 -266.0 Q186.5 -221.5 199.5 -185.0 212.5 -148.5 239.0 -126.5 265.5 -104.5 305.5 -103.0 348.5 -103.5 375.0 -126.5 401.5 -149.0 413.5 -186.0 425.5 -223.0 425.0 -266.0 425.5 -305.5 414.5 -344.0 403.5 -382.0 377.0 -407.0 350.5 -432.0 305.5 -432.5 258.0 -431.5 232.0 -405.0 206.0 -378.5 196.0 -340.5 186.0 -302.5 186.5 -266.0 M566.5 -676.0 L566.5 -57.0 Q566.5 -22.5 550.0 -4.5 533.5 13.5 499.0 13.5 466.0 13.5 448.5 -4.5 431.5 -22.5 431.5 -57.0 L431.5 -80.5 429.5 -80.5 Q410.0 -33.0 368.5 -10.0 327.0 13.5 271.5 13.5 208.0 13.5 155.0 -17.5 102.0 -48.0 70.0 -111.5 38.0 -174.5 37.0 -271.5 37.0 -344.5 61.5 -407.0 86.5 -470.0 137.5 -509.0 188.5 -548.0 267.5 -549.0 317.5 -548.5 355.0 -529.0 392.5 -509.5 415.0 -473.5 L417.0 -473.5 417.0 -676.0 Q417.5 -713.0 437.5 -732.0 457.5 -751.0 492.0 -751.0 526.0 -751.0 546.0 -732.0 566.0 -713.0 566.5 -676.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="432" height="41.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="41.95" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M33.7 8.25 Q28.45 3.0 20.95 3.0 13.5 3.0 8.25 8.2 L8.2 8.25 Q3.0 13.5 3.0 20.95 3.0 28.45 8.25 33.7 13.5 38.95 20.95 38.95 28.45 38.95 33.7 33.7 38.95 28.45 38.95 20.95 38.95 13.5 33.7 8.25 M35.8 6.1 Q41.95 12.25 41.95 20.95 41.95 29.7 35.8 35.8 29.7 41.95 20.95 41.95 12.25 41.95 6.1 35.8 0.0 29.7 0.0 20.95 0.0 12.25 6.1 6.1 12.25 0.0 20.95 0.0 29.7 0.0 35.8 6.1" fill="#00647d" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+      <path d="M31.9 10.0 Q27.4 5.5 20.95 5.5 14.6 5.5 10.1 9.9 L10.0 10.0 9.9 10.1 Q5.5 14.6 5.5 20.95 5.5 27.4 10.0 31.9 14.55 36.45 20.95 36.45 27.35 36.45 31.8 32.05 L31.9 31.95 31.95 31.9 32.05 31.8 Q36.45 27.35 36.45 20.95 36.45 14.55 31.9 10.0 M33.7 8.25 Q38.95 13.5 38.95 20.95 38.95 28.45 33.7 33.7 28.45 38.95 20.95 38.95 13.5 38.95 8.25 33.7 3.0 28.45 3.0 20.95 3.0 13.5 8.2 8.25 L8.25 8.2 Q13.5 3.0 20.95 3.0 28.45 3.0 33.7 8.25" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M31.9 10.0 Q36.45 14.55 36.45 20.95 36.45 27.35 32.05 31.8 L31.95 31.9 31.9 31.95 31.8 32.05 Q27.35 36.45 20.95 36.45 14.55 36.45 10.0 31.9 5.5 27.4 5.5 20.95 5.5 14.6 9.9 10.1 L10.0 10.0 10.1 9.9 Q14.6 5.5 20.95 5.5 27.4 5.5 31.9 10.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+      <path d="M18.55 33.3 Q17.65 32.5 17.55 31.25 17.65 29.9 18.55 29.15 19.6 28.25 20.9 28.25 22.35 28.25 23.35 29.15 24.15 29.9 24.15 31.25 24.15 32.5 23.35 33.3 22.35 34.25 20.9 34.25 19.6 34.25 18.55 33.3 M20.9 7.45 Q22.5 7.45 23.35 8.05 24.1 8.75 24.1 10.1 L24.1 14.35 24.1 15.2 23.95 16.1 22.7 24.6 22.1 25.65 20.9 25.95 19.7 25.65 Q19.25 25.35 19.15 24.6 L17.85 16.1 17.85 15.2 17.65 14.35 17.65 10.1 Q17.65 8.75 18.55 8.05 19.4 7.45 20.9 7.45" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0219, -0.0219, 0.0, 20.95, 20.95)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#00ccff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#00809f" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(1.0E-4, -0.0189, 0.0189, 1.0E-4, 20.95, 20.95)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#00ccff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#00809f" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter70">
+        <feColorMatrix in="SourceGraphic" result="filterResult15" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="437" filter="url(#filter70)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite12"/>
+    </g>
+    <g id="sprite12" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter69">
+        <feColorMatrix in="SourceGraphic" result="filterResult12" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult12" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult13"/>
+        <feComposite in="SourceGraphic" in2="filterResult13" operator="over" result="filterResult14"/>
+      </filter>
+      <use ffdec:characterId="436" filter="url(#filter69)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -134.6, 30.25)" width="217.6" xlink:href="#text3"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text3" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 10.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 19.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 33.1, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 46.9, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 56.1, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_f0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 66.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_P0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 76.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 86.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_w0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 97.65, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 106.85, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 117.55, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 121.7, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 134.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 146.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 155.15, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 159.3, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 168.5, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 176.55, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 184.6, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 193.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_T0">
+      <path d="M258.0 -70.5 L258.0 -596.0 99.5 -596.0 Q62.5 -596.0 37.5 -614.0 13.0 -632.0 12.5 -667.0 13.0 -701.5 37.5 -719.5 62.5 -737.5 99.5 -737.5 L584.5 -737.5 Q621.5 -737.5 646.5 -719.5 671.0 -701.5 671.5 -667.0 671.0 -632.0 646.5 -614.0 621.5 -596.0 584.5 -596.0 L426.0 -596.0 426.0 -70.5 Q425.5 -32.5 403.0 -9.5 381.0 13.0 342.0 13.5 303.0 13.0 281.0 -9.5 258.5 -32.5 258.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_f0">
+      <path d="M106.5 -61.5 L106.5 -437.0 72.5 -437.0 Q41.5 -437.0 27.5 -449.5 13.0 -461.5 13.5 -486.5 13.0 -511.0 27.5 -523.0 41.5 -535.5 72.5 -535.5 L106.5 -535.5 106.5 -610.5 Q107.0 -657.5 130.0 -690.0 152.5 -722.0 190.0 -738.5 227.0 -755.0 271.5 -755.0 313.0 -755.0 341.0 -738.0 368.5 -720.5 369.5 -683.5 369.0 -662.0 355.5 -647.5 342.0 -632.5 321.5 -632.0 313.0 -632.5 305.0 -633.5 297.0 -635.0 288.5 -635.0 272.5 -635.0 264.5 -625.5 256.0 -616.0 256.0 -600.0 L256.0 -535.5 302.0 -535.5 Q335.0 -535.5 352.5 -524.5 369.5 -513.0 369.5 -486.5 369.5 -459.5 352.5 -448.0 335.0 -437.0 302.0 -437.0 L256.0 -437.0 256.0 -61.5 Q255.5 -24.5 235.5 -5.5 215.5 13.5 181.5 13.5 147.0 13.5 127.0 -5.5 107.0 -24.5 106.5 -61.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_P0">
+      <path d="M246.0 -608.5 L246.0 -399.5 402.5 -399.5 Q454.0 -400.0 486.5 -428.0 519.0 -456.0 520.0 -504.0 519.5 -559.0 483.5 -584.0 448.0 -609.0 385.0 -608.5 L246.0 -608.5 M78.0 -70.5 L78.0 -639.0 Q78.5 -694.5 105.0 -716.5 131.0 -738.5 176.5 -737.5 L433.0 -737.5 Q504.5 -737.5 562.0 -713.5 619.5 -689.0 653.5 -637.5 687.0 -585.5 688.0 -504.0 688.0 -436.5 658.0 -384.0 628.0 -331.5 570.5 -301.0 513.5 -271.0 432.0 -270.5 L246.0 -270.5 246.0 -70.5 Q245.5 -32.5 223.0 -9.5 201.0 13.0 162.0 13.5 123.0 13.0 101.0 -9.5 78.5 -32.5 78.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite13" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter93">
+        <feColorMatrix in="SourceGraphic" result="filterResult19" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="440" filter="url(#filter93)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite14"/>
+    </g>
+    <g id="sprite14" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter92">
+        <feColorMatrix in="SourceGraphic" result="filterResult16" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult16" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult17"/>
+        <feComposite in="SourceGraphic" in2="filterResult17" operator="over" result="filterResult18"/>
+      </filter>
+      <use ffdec:characterId="439" filter="url(#filter92)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -134.6, 30.25)" width="217.6" xlink:href="#text4"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text4" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 10.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 19.15, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 32.95, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_H0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 44.6, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 53.75, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 59.3, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 67.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 76.5, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 85.7, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 91.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_y0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 103.9, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 108.05, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 120.7, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 132.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 141.5, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 145.65, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 154.85, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 162.9, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 170.95, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 180.15, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_y0">
+      <path d="M162.0 -492.5 L258.5 -143.5 260.5 -143.5 351.5 -482.5 Q359.0 -511.5 376.0 -530.0 393.0 -548.5 423.0 -549.0 452.5 -548.0 469.5 -535.5 486.5 -523.0 493.5 -507.0 500.0 -491.5 500.0 -481.5 500.0 -472.0 497.0 -460.5 494.0 -449.0 488.5 -434.0 L315.5 56.5 Q298.0 107.5 276.5 142.0 254.5 177.0 223.0 194.5 191.5 212.0 144.5 212.0 95.0 211.0 72.5 191.0 50.0 171.0 50.5 143.5 51.0 113.5 70.0 98.5 88.5 83.0 119.0 83.0 L134.5 83.0 Q144.0 83.5 154.0 81.0 164.0 78.5 172.5 68.5 181.0 58.5 186.5 36.0 L31.0 -407.5 Q22.0 -434.0 17.0 -449.5 12.5 -465.0 12.5 -477.5 13.5 -508.5 34.0 -528.5 54.5 -548.5 85.0 -549.0 115.5 -548.5 135.0 -533.5 155.0 -518.5 162.0 -492.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite15" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter113">
+        <feColorMatrix in="SourceGraphic" result="filterResult23" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="443" filter="url(#filter113)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite16"/>
+    </g>
+    <g id="sprite16" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+      <filter id="filter112">
+        <feColorMatrix in="SourceGraphic" result="filterResult20" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult20" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult21"/>
+        <feComposite in="SourceGraphic" in2="filterResult21" operator="over" result="filterResult22"/>
+      </filter>
+      <use ffdec:characterId="442" filter="url(#filter112)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -150.95, 30.25)" width="233.95" xlink:href="#text5"/>
+    </g>
+    <g id="text5" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 34.6, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_M0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 47.9, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 57.05, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 66.2, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 70.35, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 83.0, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_F0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 92.45, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 101.65, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 107.75, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 116.9, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 130.7, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 142.35, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 151.5, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 155.65, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 164.85, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 172.9, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 180.95, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 190.15, 11.45)" width="233.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_M0">
+      <path d="M75.0 -68.5 L75.0 -668.0 Q75.5 -701.5 88.5 -719.5 102.0 -737.5 122.5 -744.5 143.0 -751.5 166.0 -751.0 L215.5 -751.0 Q254.0 -751.5 275.5 -733.5 297.0 -716.0 309.5 -674.0 L456.0 -200.5 458.0 -200.5 602.0 -674.0 Q614.5 -716.0 636.0 -733.5 658.0 -751.5 696.5 -751.0 L743.5 -751.0 Q766.5 -751.5 787.0 -744.5 807.5 -737.5 821.0 -719.5 834.0 -701.5 834.5 -668.0 L834.5 -68.5 Q835.0 -36.0 817.5 -12.0 800.0 12.5 760.0 13.5 719.5 12.5 702.0 -12.0 684.5 -36.0 685.0 -68.5 L685.0 -525.5 683.0 -525.5 526.5 -35.5 Q518.0 -10.0 499.5 2.0 481.0 13.5 455.0 13.5 428.5 13.5 410.0 2.0 391.5 -10.0 383.0 -35.5 L226.5 -525.5 224.5 -525.5 224.5 -68.5 Q225.0 -36.0 207.5 -12.0 190.0 12.5 150.0 13.5 109.5 12.5 92.0 -12.0 74.5 -36.0 75.0 -68.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_g0">
+      <path d="M566.5 -478.5 L566.5 -44.0 Q566.0 46.0 532.0 104.5 498.0 163.0 438.5 191.5 378.5 219.5 300.0 219.5 242.5 219.0 191.0 203.5 140.0 188.0 108.0 160.0 76.0 132.5 75.0 95.5 75.5 67.5 93.5 50.0 111.0 32.5 136.5 32.0 159.5 32.5 175.5 44.0 192.0 55.5 207.5 70.5 223.0 85.5 243.5 97.0 264.0 108.5 295.0 109.0 363.0 110.0 393.0 71.0 423.5 32.5 423.0 -55.5 L423.0 -86.0 421.0 -86.0 Q400.0 -56.0 361.0 -35.5 322.0 -15.5 276.5 -14.5 197.5 -15.0 144.5 -46.5 91.0 -78.0 64.0 -134.0 37.0 -190.0 37.0 -264.5 38.0 -361.0 70.0 -424.5 102.0 -487.5 154.5 -518.0 207.5 -549.0 271.5 -549.0 326.5 -548.5 367.0 -525.0 408.0 -502.0 429.0 -460.0 L431.5 -460.0 431.5 -478.5 Q431.5 -513.0 448.5 -531.0 465.5 -549.0 499.0 -549.0 533.5 -549.0 550.0 -531.0 566.5 -513.0 566.5 -478.5 M186.5 -269.5 Q186.5 -234.5 198.5 -201.5 210.5 -168.5 236.5 -147.0 263.0 -125.5 305.5 -125.0 356.5 -124.5 389.0 -160.5 422.0 -196.5 423.0 -275.5 422.5 -357.0 394.0 -395.0 365.0 -433.0 312.5 -432.5 264.5 -432.0 237.0 -411.0 209.5 -389.5 197.5 -353.0 186.0 -316.0 186.5 -269.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_F0">
+      <path d="M82.0 -70.5 L82.0 -639.5 Q82.5 -694.5 109.0 -716.5 135.0 -738.5 180.5 -737.5 L550.0 -737.5 Q587.5 -738.0 611.0 -723.5 634.5 -709.0 635.0 -670.0 634.5 -631.0 611.0 -616.5 587.5 -602.0 550.0 -602.5 L250.0 -602.5 250.0 -430.0 504.0 -430.0 Q537.5 -431.0 560.0 -417.5 582.0 -404.0 583.0 -365.5 582.0 -327.0 560.0 -313.5 537.5 -300.0 504.0 -301.0 L250.0 -301.0 250.0 -70.5 Q249.5 -32.5 227.0 -9.5 205.0 13.0 166.0 13.5 127.0 13.0 105.0 -9.5 82.5 -32.5 82.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite17" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter136">
+        <feColorMatrix in="SourceGraphic" result="filterResult27" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="446" filter="url(#filter136)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite18"/>
+    </g>
+    <g id="sprite18" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter135">
+        <feColorMatrix in="SourceGraphic" result="filterResult24" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult24" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult25"/>
+        <feComposite in="SourceGraphic" in2="filterResult25" operator="over" result="filterResult26"/>
+      </filter>
+      <use ffdec:characterId="445" filter="url(#filter135)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -128.95, 30.25)" width="211.95" xlink:href="#text6"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text6" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 10.0, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 16.1, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 25.3, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 34.45, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 42.5, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 51.65, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 57.75, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 71.55, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 81.55, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 87.65, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 96.85, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 104.35, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 118.15, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 129.8, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 138.95, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 143.1, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 152.3, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 160.35, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 168.4, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 177.6, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="sprite19" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter158">
+        <feColorMatrix in="SourceGraphic" result="filterResult31" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="449" filter="url(#filter158)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite20"/>
+    </g>
+    <g id="sprite20" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter157">
+        <feColorMatrix in="SourceGraphic" result="filterResult28" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult28" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult29"/>
+        <feComposite in="SourceGraphic" in2="filterResult29" operator="over" result="filterResult30"/>
+      </filter>
+      <use ffdec:characterId="448" filter="url(#filter157)" height="36.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -115.95, 30.25)" width="198.95" xlink:href="#text7"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text7" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_D0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 11.4, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_y0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 18.9, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 28.1, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 32.25, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 41.4, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 55.15, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_G0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 67.4, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 76.6, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 85.75, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 96.45, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 105.6, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 113.1, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 122.25, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 126.4, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 130.55, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 139.7, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_b0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 148.85, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 153.0, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 162.2, 11.45)" width="198.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd__1"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_D0">
+      <path d="M246.0 -602.5 L246.0 -135.0 387.0 -135.0 Q453.5 -136.0 492.5 -170.5 531.5 -204.5 548.0 -257.5 564.5 -310.5 564.0 -369.0 564.5 -479.0 521.0 -540.0 477.5 -601.5 386.0 -602.5 L246.0 -602.5 M78.0 -98.0 L78.0 -639.5 Q78.5 -694.5 105.0 -716.5 131.0 -738.5 176.5 -737.5 L381.0 -737.5 Q450.0 -738.0 513.0 -720.5 576.0 -703.0 625.0 -661.5 674.5 -620.0 703.0 -548.5 731.5 -476.5 732.0 -369.0 731.0 -192.5 639.0 -96.5 547.0 -1.0 378.0 0.0 L176.5 0.0 Q131.0 1.0 105.0 -21.0 78.5 -43.0 78.0 -98.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_b0">
+      <path d="M439.5 -266.0 Q440.0 -302.5 430.0 -340.5 420.0 -378.5 394.0 -405.0 368.0 -431.5 320.5 -432.5 275.5 -432.0 249.0 -407.0 222.5 -382.0 211.5 -344.0 200.5 -305.5 201.0 -266.0 200.5 -223.0 212.5 -186.0 224.5 -149.0 251.0 -126.5 277.5 -103.5 320.5 -103.0 360.5 -104.5 387.0 -126.5 413.5 -148.5 426.5 -185.0 439.5 -221.5 439.5 -266.0 M59.5 -57.0 L59.5 -676.0 Q60.0 -713.0 80.0 -732.0 100.0 -751.0 134.5 -751.0 168.5 -751.0 188.5 -732.0 208.5 -713.0 209.0 -676.0 L209.0 -473.5 211.0 -473.5 Q233.5 -509.5 271.0 -529.0 308.5 -548.5 358.5 -549.0 437.5 -548.0 488.5 -509.0 539.5 -470.0 564.5 -407.0 589.0 -344.5 589.0 -271.5 588.0 -174.5 556.0 -111.5 524.0 -48.0 471.0 -17.5 418.0 13.5 354.5 13.5 299.0 13.5 257.5 -10.0 216.0 -33.0 196.5 -80.5 L194.5 -80.5 194.5 -57.0 Q194.5 -22.5 177.5 -4.5 160.0 13.5 127.0 13.5 92.5 13.5 76.0 -4.5 59.5 -22.5 59.5 -57.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd__1">
+      <path d="M78.0 -76.5 Q79.0 -112.0 102.5 -136.0 126.5 -159.5 162.0 -160.5 197.5 -159.5 221.5 -136.0 245.0 -112.0 246.0 -76.5 245.0 -41.0 221.5 -17.0 197.5 6.5 162.0 7.5 126.5 6.5 102.5 -17.0 79.0 -41.0 78.0 -76.5 M243.0 -672.0 L243.0 -553.0 Q243.0 -541.5 241.5 -529.5 240.5 -517.5 239.0 -505.0 L207.0 -265.0 Q204.0 -243.0 193.0 -235.0 182.0 -226.5 162.0 -227.0 142.0 -226.5 131.0 -235.0 120.0 -243.0 117.0 -265.0 L85.0 -505.0 Q83.5 -517.5 82.5 -529.5 81.0 -541.5 81.0 -553.0 L81.0 -672.0 Q81.5 -711.5 102.5 -731.0 123.5 -751.0 162.0 -751.0 200.5 -751.0 221.5 -731.0 242.5 -711.5 243.0 -672.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite21" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter183">
+        <feColorMatrix in="SourceGraphic" result="filterResult35" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="452" filter="url(#filter183)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite22"/>
+    </g>
+    <g id="sprite22" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter182">
+        <feColorMatrix in="SourceGraphic" result="filterResult32" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult32" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult33"/>
+        <feComposite in="SourceGraphic" in2="filterResult33" operator="over" result="filterResult34"/>
+      </filter>
+      <use ffdec:characterId="451" filter="url(#filter182)" height="36.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -128.95, 30.25)" width="211.95" xlink:href="#text8"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text8" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_R0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 11.1, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 20.3, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_y0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 27.8, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 36.95, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 45.7, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_S0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 55.95, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 60.1, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 69.25, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 73.4, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 82.15, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_S0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 92.4, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 97.95, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 107.15, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 113.25, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 127.05, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 138.7, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 147.85, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 152.0, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 161.2, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 169.25, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 177.3, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="36.3" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 186.5, 11.45)" width="211.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_R0">
+      <path d="M246.0 -608.5 L246.0 -410.0 413.5 -410.0 Q446.0 -409.5 475.0 -417.5 503.5 -425.0 521.5 -446.5 540.0 -468.0 540.5 -509.0 540.0 -567.0 507.5 -588.5 475.0 -609.5 419.0 -608.5 L246.0 -608.5 M78.0 -70.5 L78.0 -639.0 Q78.5 -694.5 105.0 -716.5 131.0 -738.5 176.5 -737.5 L455.5 -737.5 Q554.5 -736.5 610.0 -705.5 665.0 -675.0 687.5 -628.0 709.5 -581.5 708.5 -533.0 708.5 -492.5 693.5 -455.5 678.5 -418.5 650.0 -392.0 621.5 -365.5 581.5 -355.5 L581.5 -353.5 Q624.0 -347.0 646.0 -326.0 668.0 -305.0 676.0 -273.5 683.5 -242.0 683.0 -204.0 683.5 -162.0 689.0 -134.5 694.0 -107.0 699.5 -88.0 705.0 -69.0 705.5 -52.0 705.0 -32.5 693.5 -18.0 682.5 -3.0 664.5 5.0 646.5 13.5 626.5 13.5 592.5 13.0 572.5 -1.0 552.5 -15.0 542.5 -35.0 533.0 -55.0 530.0 -74.5 527.0 -94.0 527.5 -105.5 528.0 -170.0 518.0 -210.0 508.0 -250.0 482.5 -268.5 457.5 -287.5 411.5 -287.0 L246.0 -287.0 246.0 -70.5 Q245.5 -32.5 223.0 -9.5 201.0 13.0 162.0 13.5 123.0 13.0 101.0 -9.5 78.5 -32.5 78.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_S0">
+      <path d="M323.5 -459.0 L464.0 -427.0 Q540.0 -409.0 582.0 -376.0 624.0 -342.5 640.5 -300.5 657.0 -258.5 656.5 -215.0 656.5 -148.0 623.0 -95.5 589.5 -43.5 522.0 -13.0 454.5 17.0 353.5 17.5 247.0 16.0 178.5 -13.0 110.5 -42.5 77.5 -85.0 45.0 -128.0 45.0 -169.0 45.5 -200.0 65.0 -219.0 84.5 -238.0 115.5 -238.5 148.5 -237.5 167.5 -218.0 186.0 -198.0 205.0 -172.0 224.0 -146.0 257.5 -126.5 291.0 -106.5 353.5 -105.5 397.0 -106.0 427.0 -119.5 457.0 -133.5 473.0 -155.5 488.5 -178.0 488.5 -203.0 489.5 -226.0 474.0 -247.0 459.0 -268.0 417.0 -279.5 L227.5 -328.0 Q152.0 -348.0 113.0 -380.0 73.5 -412.0 60.0 -451.0 46.0 -490.0 47.0 -529.5 47.5 -591.0 73.0 -634.0 98.5 -677.0 140.5 -704.0 183.0 -730.5 235.0 -743.0 287.0 -755.0 341.0 -755.0 391.0 -755.0 441.0 -742.0 491.0 -729.0 533.0 -706.0 575.0 -682.5 600.5 -651.5 626.0 -620.0 627.0 -583.0 626.0 -551.5 603.5 -534.0 581.5 -516.5 550.0 -516.5 522.0 -517.0 505.0 -533.5 487.5 -550.0 469.5 -571.0 451.0 -592.5 419.5 -609.0 387.5 -625.0 330.0 -626.0 271.0 -625.5 240.0 -601.5 209.0 -578.0 209.0 -539.0 209.5 -513.5 227.0 -498.0 244.0 -482.5 270.0 -474.0 296.5 -465.0 323.5 -459.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite23" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter197">
+        <feColorMatrix in="SourceGraphic" result="filterResult39" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="455" filter="url(#filter197)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite24"/>
+    </g>
+    <g id="sprite24" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+      <filter id="filter196">
+        <feColorMatrix in="SourceGraphic" result="filterResult36" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult36" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult37"/>
+        <feComposite in="SourceGraphic" in2="filterResult37" operator="over" result="filterResult38"/>
+      </filter>
+      <use ffdec:characterId="454" filter="url(#filter196)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -169.0, 30.25)" width="252.0" xlink:href="#text9"/>
+    </g>
+    <g id="text9" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 68.45, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_L0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 77.6, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 86.8, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 95.95, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 103.45, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 117.25, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 122.8, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 131.95, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 145.75, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_K0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 156.0, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 165.2, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 174.4, 11.45)" width="252.0" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_K0">
+      <path d="M78.0 -70.5 L78.0 -667.0 Q78.5 -705.0 101.0 -728.0 123.0 -750.5 162.0 -751.0 201.0 -750.5 223.0 -728.0 245.5 -705.0 246.0 -667.0 L246.0 -423.0 510.0 -714.0 Q524.5 -730.0 539.5 -740.0 555.0 -750.5 576.5 -751.0 608.0 -751.0 631.5 -733.5 655.5 -716.0 656.5 -683.5 656.0 -664.5 648.0 -650.5 640.0 -636.5 629.0 -626.0 L457.0 -444.5 660.5 -134.0 Q673.0 -116.5 682.5 -100.0 692.0 -83.5 692.5 -67.5 692.0 -36.5 679.0 -18.5 666.0 -1.0 646.5 6.5 627.0 13.5 606.5 13.5 581.5 14.0 565.0 5.0 548.0 -4.5 531.5 -30.5 L338.0 -330.0 246.0 -237.5 246.0 -70.5 Q245.5 -32.5 223.0 -9.5 201.0 13.0 162.0 13.5 123.0 13.0 101.0 -9.5 78.5 -32.5 78.0 -70.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_p0">
+      <path d="M439.5 -269.5 Q439.5 -314.0 426.5 -350.5 413.5 -387.0 387.0 -409.0 360.5 -431.0 320.5 -432.5 277.5 -432.0 251.0 -409.0 224.5 -386.5 212.5 -349.5 200.5 -312.5 201.0 -269.5 200.5 -230.0 211.5 -191.5 222.5 -153.5 249.0 -128.5 275.5 -103.5 320.5 -103.0 368.0 -104.0 394.0 -130.5 420.0 -157.0 430.0 -195.0 440.0 -233.0 439.5 -269.5 M59.5 137.5 L59.5 -478.5 Q59.5 -513.0 76.0 -531.0 92.5 -549.0 127.0 -549.0 160.0 -549.0 177.5 -531.0 194.5 -513.0 194.5 -478.5 L194.5 -455.0 196.5 -455.0 Q216.0 -502.5 257.5 -525.5 299.0 -549.0 354.5 -549.0 418.0 -549.0 471.0 -518.0 524.0 -487.5 556.0 -424.0 588.0 -361.0 589.0 -264.0 589.0 -191.0 564.5 -128.5 539.5 -65.5 488.5 -26.5 437.5 12.5 358.5 13.5 307.0 13.0 269.5 -6.5 232.0 -26.0 211.0 -62.0 L209.0 -62.0 209.0 137.5 Q208.5 174.0 188.5 193.0 168.5 212.0 134.5 212.0 100.0 212.0 80.0 193.0 60.0 174.0 59.5 137.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite25" transform="matrix(1.0, 0.0, 0.0, 1.0, -364.95, -526.6)">
+      <filter id="filter223">
+        <feColorMatrix in="SourceGraphic" result="filterResult43" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="458" filter="url(#filter223)" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 364.95, 526.6)" width="260.0" xlink:href="#sprite26"/>
+    </g>
+    <g id="sprite26" transform="matrix(1.0, 0.0, 0.0, 1.0, 172.25, -20.7)">
+      <use ffdec:characterId="430" height="55.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -172.25, 20.7)" width="260.0" xlink:href="#shape2"/>
+      <filter id="filter222">
+        <feColorMatrix in="SourceGraphic" result="filterResult40" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult40" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult41"/>
+        <feComposite in="SourceGraphic" in2="filterResult41" operator="over" result="filterResult42"/>
+      </filter>
+      <use ffdec:characterId="457" filter="url(#filter222)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -134.6, 30.25)" width="217.6" xlink:href="#text10"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, -162.95, 28.55)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text10" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_D0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 11.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 15.55, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 23.6, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 31.65, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 35.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 44.95, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 49.1, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 53.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 62.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 76.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 86.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 95.4, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_w0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 107.05, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 116.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 122.35, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 135.0, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_U0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 146.65, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 155.8, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 159.95, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 169.15, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 177.2, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 185.25, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 194.45, 11.45)" width="217.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="sprite30" transform="matrix(1.0, 0.0, 0.0, 1.0, -39.15, -10.6)">
+      <filter id="filter224">
+        <feColorMatrix in="SourceGraphic" result="filterResult44" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="463" filter="url(#filter224)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 214.15, 68.95)" width="0.0" xlink:href="#sprite31"/>
+      <use ffdec:characterId="465" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 78.95, 10.6)" width="267.05" xlink:href="#sprite32"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, 39.1703, 11.1703)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite32" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter237">
+        <feColorMatrix in="SourceGraphic" result="filterResult45" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult45" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult46"/>
+        <feComposite in="SourceGraphic" in2="filterResult46" operator="over" result="filterResult47"/>
+      </filter>
+      <use ffdec:characterId="464" filter="url(#filter237)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text11"/>
+    </g>
+    <g id="text11" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_T0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 12.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 23.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 39.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_H0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 53.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 64.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 81.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 92.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 101.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 108.45, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 119.45, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 130.45, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+    </g>
+    <g id="sprite35" transform="matrix(1.0, 0.0, 0.0, 1.0, 138.85, 208.9)">
+      <filter id="filter238">
+        <feColorMatrix in="SourceGraphic" result="filterResult48" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="471" filter="url(#filter238)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.15, -147.05)" width="0.0" xlink:href="#sprite36"/>
+      <use ffdec:characterId="473" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -102.55, -208.9)" width="267.05" xlink:href="#sprite37"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -138.8297, -205.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite37" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter259">
+        <feColorMatrix in="SourceGraphic" result="filterResult49" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult49" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult50"/>
+        <feComposite in="SourceGraphic" in2="filterResult50" operator="over" result="filterResult51"/>
+      </filter>
+      <use ffdec:characterId="472" filter="url(#filter259)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text12"/>
+    </g>
+    <g id="text12" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_E0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 12.3, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 28.95, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 39.95, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 46.6, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 57.6, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 72.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 83.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 94.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 111.25, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_C0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 124.25, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 135.25, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 146.25, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 158.4, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_O0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 173.1, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 184.1, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 190.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 195.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 206.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 217.75, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_E0">
+      <path d="M82.0 -98.0 L82.0 -639.5 Q82.5 -694.5 109.0 -716.5 135.0 -738.5 180.5 -737.5 L574.5 -737.5 Q612.0 -738.0 635.5 -723.5 659.0 -709.0 659.5 -670.0 659.0 -631.0 635.5 -616.5 612.0 -602.0 574.5 -602.5 L250.0 -602.5 250.0 -442.5 534.5 -442.5 Q568.5 -443.5 590.5 -430.0 612.5 -416.5 613.5 -378.0 612.5 -339.5 590.5 -326.0 568.5 -312.5 534.5 -313.5 L250.0 -313.5 250.0 -135.0 583.0 -135.0 Q620.5 -135.5 643.5 -121.0 667.0 -106.5 668.0 -67.5 667.0 -28.5 643.5 -14.0 620.5 0.5 583.0 0.0 L180.5 0.0 Q135.0 1.0 109.0 -21.0 82.5 -43.0 82.0 -98.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_C0">
+      <path d="M54.0 -369.0 Q54.0 -447.5 77.0 -517.0 100.0 -586.5 145.0 -640.0 190.5 -693.5 258.0 -724.0 325.5 -754.5 414.5 -755.0 486.5 -754.5 542.5 -735.0 598.0 -715.5 635.5 -685.5 673.5 -655.5 693.0 -623.0 712.5 -590.0 712.5 -562.5 712.5 -527.0 693.5 -507.0 674.5 -487.0 636.5 -486.5 601.5 -487.5 582.5 -507.5 563.5 -527.5 546.5 -553.5 530.0 -579.5 500.5 -599.0 471.0 -619.0 414.5 -620.0 361.0 -620.0 317.5 -590.5 274.5 -561.0 248.5 -505.0 222.5 -449.0 222.0 -369.0 221.5 -300.5 241.0 -244.0 260.5 -187.0 304.5 -153.0 348.5 -118.5 420.5 -117.5 469.5 -118.5 498.0 -139.5 526.0 -160.5 545.0 -188.0 563.5 -216.0 582.0 -237.0 601.0 -258.0 630.5 -259.0 651.5 -259.0 670.0 -251.5 688.5 -244.0 700.5 -229.5 712.0 -215.0 712.5 -194.5 711.5 -140.0 673.0 -92.0 634.5 -44.0 568.5 -14.0 503.0 16.5 420.5 17.5 305.0 17.5 223.0 -26.0 141.5 -69.5 98.0 -155.5 54.5 -241.5 54.0 -369.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_O0">
+      <path d="M213.0 -378.0 Q212.5 -306.5 231.0 -247.5 249.5 -189.0 294.5 -153.5 339.5 -118.5 418.0 -117.5 493.5 -118.5 538.5 -153.5 583.5 -189.0 603.5 -247.5 623.0 -306.5 622.5 -378.0 622.5 -449.5 600.0 -503.5 577.5 -558.0 532.0 -588.5 486.5 -619.5 418.0 -620.0 349.0 -619.5 303.5 -588.5 258.0 -558.0 235.5 -503.5 213.0 -449.5 213.0 -378.0 M45.0 -378.0 Q45.0 -487.0 88.0 -572.0 130.5 -656.5 213.5 -705.5 296.5 -754.0 418.0 -755.0 539.0 -754.0 622.0 -705.5 705.0 -656.5 747.5 -572.0 790.5 -487.0 790.5 -378.0 790.5 -299.5 767.5 -228.5 745.0 -157.5 698.5 -102.0 652.5 -47.0 582.5 -15.0 512.0 17.0 418.0 17.5 286.0 16.5 203.5 -35.5 121.5 -87.0 83.0 -176.0 44.5 -265.0 45.0 -378.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite38" transform="matrix(1.0, 0.0, 0.0, 1.0, 197.05, 206.4)">
+      <filter id="filter324">
+        <feColorMatrix in="SourceGraphic" result="filterResult58" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="487" filter="url(#filter324)" height="78.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -197.05, -206.4)" width="380.0" xlink:href="#sprite39"/>
+    </g>
+    <g id="sprite39" transform="matrix(1.0, 0.0, 0.0, 1.0, 242.25, 2.3)">
+      <use ffdec:characterId="481" height="78.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -242.25, -2.3)" width="380.0" xlink:href="#shape4"/>
+      <use ffdec:characterId="486" height="48.25" transform="matrix(1.0, 0.0, 0.0, 1.0, -232.95, 5.55)" width="360.95" xlink:href="#sprite40"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, 242.25, 2.3)">
+      <path d="M134.45 10.5 L134.75 14.2 134.75 47.25 134.7 47.25 Q133.7 58.7 121.25 58.7 L-21.5 58.7 -21.5 58.55 -24.4 58.55 -24.4 58.35 -28.4 58.35 -28.4 58.3 -36.8 58.3 -51.6 73.1 -66.4 58.3 -73.05 58.3 -73.05 58.7 -225.75 58.7 Q-238.2 58.7 -239.15 47.25 L-239.25 47.25 -239.25 14.2 Q-239.25 0.7 -225.75 0.7 L121.25 0.7 Q132.75 0.7 134.45 10.5" fill="#333333" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+      <path d="M-225.75 -2.3 L121.25 -2.3 Q135.8 -2.3 137.55 10.5 L137.75 14.2 137.75 47.25 137.7 47.25 Q136.7 61.7 121.25 61.7 L-36.25 61.7 -50.6 76.05 Q-51.05 76.45 -51.6 76.45 -52.15 76.45 -52.55 76.05 L-66.9 61.7 -225.75 61.7 Q-241.2 61.7 -242.15 47.25 L-242.25 47.25 -242.25 14.2 Q-242.25 -2.3 -225.75 -2.3 M134.45 10.5 Q132.75 0.7 121.25 0.7 L-225.75 0.7 Q-239.25 0.7 -239.25 14.2 L-239.25 47.25 -239.15 47.25 Q-238.2 58.7 -225.75 58.7 L-73.05 58.7 -73.05 58.3 -66.4 58.3 -51.6 73.1 -36.8 58.3 -28.4 58.3 -28.4 58.35 -24.4 58.35 -24.4 58.55 -21.5 58.55 -21.5 58.7 121.25 58.7 Q133.7 58.7 134.7 47.25 L134.75 47.25 134.75 14.2 134.45 10.5" fill="#00b4e1" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite40" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter297">
+        <feColorMatrix in="SourceGraphic" result="filterResult52" type="matrix" values="0 0 0 0 0.19215687,0 0 0 0 0.15686275,0 0 0 0 0.050980393,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult52" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult53"/>
+        <feComposite in="SourceGraphic" in2="filterResult53" operator="over" result="filterResult54"/>
+      </filter>
+      <use ffdec:characterId="482" filter="url(#filter297)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 26.6)" width="358.95" xlink:href="#text13"/>
+      <use ffdec:characterId="484" height="41.95" transform="matrix(0.1897, 0.0, 0.0, 0.1897, 4.05, 34.0)" width="41.95" xlink:href="#sprite41"/>
+      <filter id="filter323">
+        <feColorMatrix in="SourceGraphic" result="filterResult55" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult55" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult56"/>
+        <feComposite in="SourceGraphic" in2="filterResult56" operator="over" result="filterResult57"/>
+      </filter>
+      <use ffdec:characterId="485" filter="url(#filter323)" height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 28.35, 1.7)" width="282.6" xlink:href="#text14"/>
+      <use ffdec:characterId="433" height="41.95" transform="matrix(0.6181, 0.0, 0.0, 0.6181, 0.0, 0.0)" width="41.95" xlink:href="#sprite10"/>
+    </g>
+    <g id="text13" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_-0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 10.7, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_C0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 21.55, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 25.7, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 29.85, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 37.9, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 50.55, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 56.1, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 65.25, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 79.05, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_q0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 88.2, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 97.35, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 106.55, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 114.6, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 124.75, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 130.3, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 136.4, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 145.55, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 153.6, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 161.65, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 170.85, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 181.55, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 187.1, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 200.9, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 210.1, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 219.25, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 228.45, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 242.2, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_y0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 249.7, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 258.9, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 268.05, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 278.75, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 287.9, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 297.1, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_w0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 313.35, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 327.25, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#eee2bc" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 336.4, 14.45)" width="358.95" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_-0">
+      <path d="M124.0 -353.5 L293.0 -353.5 Q328.5 -354.0 351.5 -337.5 375.0 -321.5 376.0 -283.0 375.0 -244.0 351.5 -228.0 328.5 -211.5 293.0 -212.0 L124.0 -212.0 Q88.5 -211.5 65.5 -228.0 42.0 -244.0 41.0 -283.0 42.0 -321.5 65.5 -337.5 88.5 -354.0 124.0 -353.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_q0">
+      <path d="M186.5 -269.5 Q186.0 -233.0 196.0 -195.0 206.0 -157.0 232.0 -130.5 258.0 -104.0 305.5 -103.0 350.5 -103.5 377.0 -128.5 403.5 -153.5 414.5 -191.5 425.5 -230.0 425.0 -269.5 425.5 -312.5 413.5 -349.5 401.5 -386.5 375.0 -409.0 348.5 -432.0 305.5 -432.5 265.5 -431.0 239.0 -409.0 212.5 -387.0 199.5 -350.5 186.5 -314.0 186.5 -269.5 M566.5 -478.5 L566.5 137.5 Q566.0 174.0 546.0 193.0 526.0 212.0 492.0 212.0 457.5 212.0 437.5 193.0 417.5 174.0 417.0 137.5 L417.0 -62.0 415.0 -62.0 Q394.0 -26.0 356.5 -6.5 319.0 13.0 267.5 13.5 188.5 12.5 137.5 -26.5 86.5 -65.5 61.5 -128.5 37.0 -191.0 37.0 -264.0 38.0 -361.0 70.0 -424.0 102.0 -487.5 155.0 -518.0 208.0 -549.0 271.5 -549.0 327.0 -549.0 368.5 -525.5 410.0 -502.5 429.5 -455.0 L431.5 -455.0 431.5 -478.5 Q431.5 -513.0 448.5 -531.0 466.0 -549.0 499.0 -549.0 533.5 -549.0 550.0 -531.0 566.5 -513.0 566.5 -478.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite41" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="483" height="41.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="41.95" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M33.7 8.25 Q28.45 3.0 20.95 3.0 13.5 3.0 8.25 8.2 L8.2 8.25 Q3.0 13.5 3.0 20.95 3.0 28.45 8.25 33.7 13.5 38.95 20.95 38.95 28.45 38.95 33.7 33.7 38.95 28.45 38.95 20.95 38.95 13.5 33.7 8.25 M35.8 6.1 Q41.95 12.25 41.95 20.95 41.95 29.7 35.8 35.8 29.7 41.95 20.95 41.95 12.25 41.95 6.1 35.8 0.0 29.7 0.0 20.95 0.0 12.25 6.1 6.1 12.25 0.0 20.95 0.0 29.7 0.0 35.8 6.1" fill="#00647d" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+      <path d="M31.9 10.0 Q27.4 5.5 20.95 5.5 14.6 5.5 10.1 9.9 L10.0 10.0 9.9 10.1 Q5.5 14.6 5.5 20.95 5.5 27.4 10.0 31.9 14.55 36.45 20.95 36.45 27.35 36.45 31.8 32.05 L31.9 31.95 31.95 31.9 32.05 31.8 Q36.45 27.35 36.45 20.95 36.45 14.55 31.9 10.0 M33.7 8.25 Q38.95 13.5 38.95 20.95 38.95 28.45 33.7 33.7 28.45 38.95 20.95 38.95 13.5 38.95 8.25 33.7 3.0 28.45 3.0 20.95 3.0 13.5 8.2 8.25 L8.25 8.2 Q13.5 3.0 20.95 3.0 28.45 3.0 33.7 8.25" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+      <path d="M31.9 10.0 Q36.45 14.55 36.45 20.95 36.45 27.35 32.05 31.8 L31.95 31.9 31.9 31.95 31.8 32.05 Q27.35 36.45 20.95 36.45 14.55 36.45 10.0 31.9 5.5 27.4 5.5 20.95 5.5 14.6 9.9 10.1 L10.0 10.0 10.1 9.9 Q14.6 5.5 20.95 5.5 27.4 5.5 31.9 10.0" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0219, -0.0219, 0.0, 20.95, 20.95)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#00ccff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#00809f" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(1.0E-4, -0.0189, 0.0189, 1.0E-4, 20.95, 20.95)" gradientUnits="userSpaceOnUse" id="gradient3" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#00ccff" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#00809f" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="text14" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 0.0, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_C0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 10.85, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 20.0, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 29.15, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 34.7, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 43.85, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 48.0, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 61.75, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_F0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 71.2, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 75.35, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 84.5, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 97.15, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 106.3, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 110.45, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 117.95, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 127.15, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 139.8, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_y0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 147.3, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 156.5, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 170.25, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 179.4, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 183.55, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 196.2, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 210.1, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="21.65" transform="matrix(0.0146, 0.0, 0.0, 0.0146, 219.25, 11.45)" width="282.6" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+      </g>
+    </g>
+    <g id="sprite42" transform="matrix(1.0, 0.0, 0.0, 1.0, 111.05, 170.4)">
+      <filter id="filter325">
+        <feColorMatrix in="SourceGraphic" result="filterResult59" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="487" filter="url(#filter325)" height="78.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -111.05, -170.4)" width="380.0" xlink:href="#sprite39"/>
+    </g>
+    <g id="sprite43" transform="matrix(1.0, 0.0, 0.0, 1.0, 140.85, 121.4)">
+      <filter id="filter326">
+        <feColorMatrix in="SourceGraphic" result="filterResult60" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="490" filter="url(#filter326)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.15, -63.05)" width="0.0" xlink:href="#sprite44"/>
+      <use ffdec:characterId="492" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -103.05, -121.4)" width="267.05" xlink:href="#sprite45"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -140.8297, -120.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter343">
+        <feColorMatrix in="SourceGraphic" result="filterResult61" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult61" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult62"/>
+        <feComposite in="SourceGraphic" in2="filterResult62" operator="over" result="filterResult63"/>
+      </filter>
+      <use ffdec:characterId="491" filter="url(#filter343)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text15"/>
+    </g>
+    <g id="text15" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_B0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 13.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 20.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 31.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 42.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 52.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 63.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_b0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 74.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 79.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 95.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_O0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 110.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_b0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 121.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_j0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 126.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 137.2, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 146.85, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 153.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_B0">
+      <path d="M246.0 -614.5 L246.0 -434.0 384.0 -434.0 Q443.0 -434.0 472.0 -457.0 500.5 -480.0 500.5 -524.5 500.0 -559.5 483.0 -579.0 465.5 -599.0 438.0 -607.0 410.5 -615.0 379.0 -614.5 L246.0 -614.5 M246.0 -327.5 L246.0 -129.0 387.5 -129.0 Q421.0 -128.5 452.5 -135.5 484.0 -142.5 505.0 -164.0 526.0 -185.5 526.5 -227.0 526.0 -271.0 503.5 -293.0 481.0 -314.5 444.5 -321.5 408.5 -328.0 367.0 -327.5 L246.0 -327.5 M78.0 -98.5 L78.0 -639.0 Q78.5 -694.5 105.0 -716.5 131.0 -738.5 176.5 -737.5 L399.5 -737.5 Q446.0 -738.0 493.0 -730.5 540.5 -723.5 580.0 -703.5 619.5 -683.0 643.5 -645.5 668.0 -607.5 668.5 -547.0 668.5 -499.5 643.0 -459.0 617.5 -419.0 565.5 -397.5 L565.5 -395.5 Q624.5 -380.5 659.0 -337.0 693.5 -294.0 694.5 -218.0 693.5 -141.0 656.5 -93.0 619.5 -44.5 558.0 -22.0 497.0 0.0 423.0 0.0 L176.5 0.0 Q131.0 1.0 105.0 -21.0 78.5 -43.0 78.0 -98.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_j0">
+      <path d="M64.5 -677.5 Q65.5 -710.5 87.5 -732.0 109.0 -754.0 142.0 -755.0 175.5 -754.0 197.0 -732.0 219.0 -710.5 220.0 -677.5 219.0 -644.0 197.0 -622.5 175.5 -600.5 142.0 -599.5 109.0 -600.5 87.5 -622.5 65.5 -644.0 64.5 -677.5 M67.5 69.0 L67.5 -474.0 Q66.5 -505.0 83.0 -526.5 99.5 -548.0 142.5 -549.0 185.0 -548.0 201.5 -526.5 218.0 -505.0 217.0 -474.0 L217.0 53.5 Q218.0 134.0 182.5 173.0 147.0 212.0 64.5 212.0 21.5 212.0 2.0 196.0 -17.5 180.0 -17.5 147.5 -17.5 119.5 -6.0 107.5 6.0 95.0 29.5 95.5 L46.0 95.5 Q57.0 95.0 62.0 87.5 67.5 80.0 67.5 69.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite46" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.6, -0.5)">
+      <use ffdec:characterId="501" height="668.8" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.6, 0.5)" width="1154.9" xlink:href="#sprite47"/>
+    </g>
+    <g id="sprite47" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.6, -0.5)">
+      <use ffdec:characterId="500" height="668.8" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.6, 0.5)" width="1154.9" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.6, -0.5)">
+      <path d="M1137.9 9.25 L1137.85 9.25 1141.1 12.75 1142.7 14.55 1150.7 22.4 Q1151.5 22.15 1152.0 23.0 L1152.25 23.6 1152.35 24.05 1152.75 24.45 1152.45 24.5 1152.6 26.0 1152.6 26.05 1152.65 26.6 1152.0 54.15 1152.0 246.0 1152.15 283.4 1152.0 356.2 1152.3 356.5 1152.3 363.65 1152.0 363.9 1152.0 386.4 1152.3 386.95 1152.0 460.75 1152.3 461.0 1152.3 468.15 1152.0 468.4 1152.0 590.3 1152.3 590.35 1152.3 596.05 1152.0 596.15 1152.65 640.55 1152.65 640.7 1152.6 641.15 1152.6 641.2 1152.45 642.85 1153.3 643.05 1153.3 644.55 1152.0 644.7 1151.85 644.7 Q1151.4 645.35 1150.7 645.1 L1144.55 650.75 1144.55 650.7 1141.05 653.95 1139.25 655.55 1129.2 665.75 1129.15 666.0 1129.1 666.35 1128.95 666.75 1128.9 667.75 1128.05 668.0 Q1127.35 668.4 1126.95 669.3 L1124.95 669.3 1124.95 668.8 1124.4 668.85 1096.3 668.15 1065.4 668.15 1058.55 668.0 1057.5 668.0 1036.85 668.0 1036.85 668.05 881.4 668.0 880.95 668.0 878.5 668.0 877.45 668.0 870.8 668.15 870.55 668.15 831.9 668.15 793.75 668.85 793.05 668.8 793.0 668.8 791.05 668.65 790.35 668.55 754.8 668.15 749.5 668.0 729.1 668.0 728.35 668.85 727.9 669.3 722.4 669.3 721.2 668.1 721.15 668.0 625.55 668.05 625.55 668.0 614.15 668.0 612.25 668.0 608.7 668.0 603.35 668.15 599.35 668.15 599.25 669.3 593.95 669.3 593.5 668.15 549.1 668.85 548.5 668.8 548.45 668.8 546.8 668.65 546.65 668.65 546.5 668.65 545.0 668.8 544.95 668.8 544.4 668.85 514.75 668.15 484.75 668.15 484.55 668.15 479.4 668.0 355.5 668.05 355.5 668.0 347.05 668.0 345.65 668.0 338.65 668.0 333.3 668.15 309.3 668.15 287.45 668.85 287.05 668.8 287.0 668.8 285.9 668.65 Q285.0 668.45 284.6 668.0 L222.5 668.05 222.5 668.0 211.1 668.0 209.2 668.0 205.65 668.0 200.3 668.15 176.3 668.15 154.45 668.85 154.05 668.8 154.0 668.8 152.9 668.65 151.75 668.15 151.6 668.0 90.85 668.05 90.85 668.0 79.9 668.0 78.05 668.0 74.6 668.0 69.5 668.15 46.4 668.15 25.35 668.85 25.0 668.8 24.95 668.8 24.65 668.8 Q24.15 668.15 23.3 668.0 L22.95 667.95 22.0 667.85 22.0 667.6 15.9 660.9 15.95 660.9 12.7 657.4 11.1 655.6 0.9 645.55 0.85 645.55 0.65 645.5 0.0 645.35 -0.1 645.3 -0.85 645.3 Q-1.0 645.0 -1.6 644.7 L-1.2 594.8 -1.0 587.8 -1.05 572.6 -1.1 572.6 -1.0 471.9 -1.0 467.7 -1.0 460.5 -1.0 459.3 -1.0 450.35 -1.1 447.5 -1.2 443.55 -1.2 443.35 -1.6 381.1 Q-1.4 380.25 -1.0 379.85 L-1.0 335.85 -1.2 329.05 -1.2 328.85 -1.55 283.65 -1.6 283.45 -1.25 236.05 -1.6 235.95 -1.6 230.25 -1.25 230.2 -1.25 226.2 -1.05 219.2 -1.1 204.0 -1.15 204.0 -1.05 108.45 -1.2 108.35 -1.6 108.05 -1.6 100.9 -1.05 100.4 -1.05 81.75 -1.25 74.75 -1.6 23.15 7.1 14.55 8.7 12.75 16.5 4.45 16.5 4.4 16.85 3.95 16.05 3.7 16.0 3.7 Q16.75 2.95 17.15 1.7 L17.25 1.35 911.35 1.35 911.35 1.0 937.4 1.0 937.6 1.0 944.4 1.2 1066.65 1.1 1066.65 1.15 1081.85 1.2 1088.85 1.0 1112.85 1.0 1129.2 0.5 1129.7 1.0 Q1132.15 3.4 1134.55 4.3 L1133.8 4.3 1133.6 4.3 1133.25 4.3 1133.55 4.7 1137.9 9.25" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite48" transform="matrix(1.0, 0.0, 0.0, 1.0, 166.85, 180.4)">
+      <filter id="filter344">
+        <feColorMatrix in="SourceGraphic" result="filterResult64" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="415" filter="url(#filter344)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.15, -119.05)" width="0.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="504" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -131.05, -180.4)" width="267.05" xlink:href="#sprite49"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -166.8297, -177.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite49" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter351">
+        <feColorMatrix in="SourceGraphic" result="filterResult65" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult65" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult66"/>
+        <feComposite in="SourceGraphic" in2="filterResult66" operator="over" result="filterResult67"/>
+      </filter>
+      <use ffdec:characterId="503" filter="url(#filter351)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text16"/>
+    </g>
+    <g id="text16" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_M0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 16.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 27.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_v0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 36.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 41.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 52.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+      </g>
+    </g>
+    <g id="sprite50" transform="matrix(1.0, 0.0, 0.0, 1.0, 190.85, 104.4)">
+      <filter id="filter352">
+        <feColorMatrix in="SourceGraphic" result="filterResult68" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="508" filter="url(#filter352)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -16.85, -43.05)" width="0.0" xlink:href="#sprite51"/>
+      <use ffdec:characterId="510" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -156.05, -104.4)" width="267.05" xlink:href="#sprite52"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -190.8297, -100.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite52" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter366">
+        <feColorMatrix in="SourceGraphic" result="filterResult69" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult69" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult70"/>
+        <feComposite in="SourceGraphic" in2="filterResult70" operator="over" result="filterResult71"/>
+      </filter>
+      <use ffdec:characterId="509" filter="url(#filter366)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text17"/>
+    </g>
+    <g id="text17" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_R0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 13.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 24.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 35.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 46.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 57.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 73.85, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_A0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 85.85, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 92.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 99.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 110.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 119.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 129.45, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_A0">
+      <path d="M439.5 -272.5 L344.5 -568.5 342.5 -568.5 243.0 -272.5 439.5 -272.5 M26.0 -125.0 L243.0 -699.5 Q253.5 -728.0 274.0 -739.5 294.0 -751.5 325.0 -751.0 L365.0 -751.0 Q393.5 -752.0 417.0 -740.0 440.5 -727.5 455.0 -689.5 L657.5 -125.0 Q662.5 -112.0 668.0 -93.5 673.5 -75.0 674.0 -60.5 673.0 -29.0 650.5 -8.0 628.5 12.5 595.0 13.5 567.5 13.5 548.0 2.5 528.5 -8.5 519.5 -33.0 L476.5 -156.0 206.0 -156.0 162.0 -33.0 Q154.0 -8.5 135.5 2.5 117.0 13.5 87.5 13.5 52.0 13.0 31.0 -6.5 10.0 -26.0 9.5 -60.5 10.0 -75.0 15.5 -93.5 21.0 -112.0 26.0 -125.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite53" transform="matrix(1.0, 0.0, 0.0, 1.0, 140.85, 124.4)">
+      <filter id="filter367">
+        <feColorMatrix in="SourceGraphic" result="filterResult72" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="490" filter="url(#filter367)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.15, -63.05)" width="0.0" xlink:href="#sprite44"/>
+      <use ffdec:characterId="517" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -105.05, -124.4)" width="267.05" xlink:href="#sprite54"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -140.8297, -120.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite54" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter380">
+        <feColorMatrix in="SourceGraphic" result="filterResult73" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult73" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult74"/>
+        <feComposite in="SourceGraphic" in2="filterResult74" operator="over" result="filterResult75"/>
+      </filter>
+      <use ffdec:characterId="516" filter="url(#filter380)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text18"/>
+    </g>
+    <g id="text18" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_M0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 16.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 27.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 32.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 43.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 59.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_A0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 71.5, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 78.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 84.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 95.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_c0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 105.45, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_k0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 115.1, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="sprite55" transform="matrix(1.0, 0.0, 0.0, 1.0, 139.85, 125.85)">
+      <filter id="filter381">
+        <feColorMatrix in="SourceGraphic" result="filterResult76" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="415" filter="url(#filter381)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.15, -65.05)" width="0.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="524" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -101.05, -125.4)" width="267.05" xlink:href="#sprite56"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -139.8297, -125.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite56" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter387">
+        <feColorMatrix in="SourceGraphic" result="filterResult77" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult77" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult78"/>
+        <feComposite in="SourceGraphic" in2="filterResult78" operator="over" result="filterResult79"/>
+      </filter>
+      <use ffdec:characterId="523" filter="url(#filter387)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text19"/>
+    </g>
+    <g id="text19" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_D0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 13.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 24.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 35.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 43.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="sprite57" transform="matrix(1.0, 0.0, 0.0, 1.0, 139.85, 125.85)">
+      <filter id="filter388">
+        <feColorMatrix in="SourceGraphic" result="filterResult80" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="415" filter="url(#filter388)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.15, -65.05)" width="0.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="529" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -101.05, -125.4)" width="267.05" xlink:href="#sprite58"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -139.8297, -125.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite58" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter397">
+        <feColorMatrix in="SourceGraphic" result="filterResult81" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult81" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult82"/>
+        <feComposite in="SourceGraphic" in2="filterResult82" operator="over" result="filterResult83"/>
+      </filter>
+      <use ffdec:characterId="528" filter="url(#filter397)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text20"/>
+    </g>
+    <g id="text20" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_D0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 13.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 21.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_o0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 32.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 43.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 54.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 59.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 70.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+      </g>
+    </g>
+    <g id="sprite59" transform="matrix(1.0, 0.0, 0.0, 1.0, 139.85, 125.85)">
+      <filter id="filter398">
+        <feColorMatrix in="SourceGraphic" result="filterResult84" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="415" filter="url(#filter398)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.15, -65.05)" width="0.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="534" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -101.05, -125.4)" width="267.05" xlink:href="#sprite60"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -139.8297, -125.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite60" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter406">
+        <feColorMatrix in="SourceGraphic" result="filterResult85" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult85" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult86"/>
+        <feComposite in="SourceGraphic" in2="filterResult86" operator="over" result="filterResult87"/>
+      </filter>
+      <use ffdec:characterId="533" filter="url(#filter406)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text21"/>
+    </g>
+    <g id="text21" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_J0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 10.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_u0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 21.35, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_m0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 38.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_p0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 49.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 54.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#0099ff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 65.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_g0"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_J0">
+      <path d="M510.0 -667.0 L510.0 -230.5 Q510.0 -113.5 446.0 -48.5 382.5 16.5 258.0 17.5 183.0 16.5 135.5 -4.5 88.0 -26.0 62.5 -58.5 37.0 -91.5 27.5 -126.5 18.0 -161.5 18.5 -189.5 18.5 -237.0 39.0 -264.0 60.0 -291.5 98.5 -292.0 128.0 -291.5 144.5 -278.0 161.5 -264.0 168.0 -242.0 174.0 -220.0 174.0 -194.5 173.5 -157.5 192.5 -135.0 212.0 -112.0 256.0 -111.5 297.5 -111.5 319.5 -142.0 342.0 -172.5 342.0 -232.5 L342.0 -667.0 Q342.5 -705.0 365.0 -728.0 387.0 -750.5 426.0 -751.0 465.0 -750.5 487.0 -728.0 509.5 -705.0 510.0 -667.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite61" transform="matrix(1.0, 0.0, 0.0, 1.0, 70.85, 145.4)">
+      <filter id="filter407">
+        <feColorMatrix in="SourceGraphic" result="filterResult88" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="490" filter="url(#filter407)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 103.15, -84.05)" width="0.0" xlink:href="#sprite44"/>
+      <use ffdec:characterId="539" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.05, -145.4)" width="267.05" xlink:href="#sprite62"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -70.8297, -141.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite62" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter424">
+        <feColorMatrix in="SourceGraphic" result="filterResult89" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult89" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult90"/>
+        <feComposite in="SourceGraphic" in2="filterResult90" operator="over" result="filterResult91"/>
+      </filter>
+      <use ffdec:characterId="538" filter="url(#filter424)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text22"/>
+    </g>
+    <g id="text22" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_A0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 12.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_b0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 23.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 28.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 33.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 38.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 44.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 49.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 60.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 75.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 86.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 97.8, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_d0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 114.3, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_M0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 130.3, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 141.3, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 152.3, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+      </g>
+    </g>
+    <g id="sprite63" transform="matrix(1.0, 0.0, 0.0, 1.0, 59.85, 155.4)">
+      <filter id="filter425">
+        <feColorMatrix in="SourceGraphic" result="filterResult92" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="545" filter="url(#filter425)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 113.15, -94.05)" width="0.0" xlink:href="#sprite64"/>
+      <use ffdec:characterId="547" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -23.05, -155.4)" width="267.05" xlink:href="#sprite65"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -59.8297, -151.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter435">
+        <feColorMatrix in="SourceGraphic" result="filterResult93" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult93" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult94"/>
+        <feComposite in="SourceGraphic" in2="filterResult94" operator="over" result="filterResult95"/>
+      </filter>
+      <use ffdec:characterId="546" filter="url(#filter435)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text23"/>
+    </g>
+    <g id="text23" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_A0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 12.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_b0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 23.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 28.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 33.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 38.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 44.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_i0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 49.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 60.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_s0"/>
+      </g>
+    </g>
+    <g id="sprite66" transform="matrix(1.0, 0.0, 0.0, 1.0, 130.85, 135.4)">
+      <filter id="filter436">
+        <feColorMatrix in="SourceGraphic" result="filterResult96" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="553" filter="url(#filter436)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 43.15, -75.05)" width="0.0" xlink:href="#sprite67"/>
+      <use ffdec:characterId="555" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -94.05, -135.4)" width="267.05" xlink:href="#sprite68"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, -130.8297, -132.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite68" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter441">
+        <feColorMatrix in="SourceGraphic" result="filterResult97" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult97" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult98"/>
+        <feComposite in="SourceGraphic" in2="filterResult98" operator="over" result="filterResult99"/>
+      </filter>
+      <use ffdec:characterId="554" filter="url(#filter441)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text24"/>
+    </g>
+    <g id="text24" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_M0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 16.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 27.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_n0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 38.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+      </g>
+    </g>
+    <g id="sprite69" transform="matrix(1.0, 0.0, 0.0, 1.0, -2.15, 196.4)">
+      <filter id="filter442">
+        <feColorMatrix in="SourceGraphic" result="filterResult100" type="matrix" values="1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0"/>
+      </filter>
+      <use ffdec:characterId="490" filter="url(#filter442)" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 176.15, -135.05)" width="0.0" xlink:href="#sprite44"/>
+      <use ffdec:characterId="564" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 37.95, -196.4)" width="267.05" xlink:href="#sprite70"/>
+      <use ffdec:characterId="419" height="59.55" transform="matrix(0.6, 0.0, 0.0, 0.6, 2.1703, -194.8297)" width="59.55" xlink:href="#sprite4"/>
+    </g>
+    <g id="sprite70" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <filter id="filter452">
+        <feColorMatrix in="SourceGraphic" result="filterResult101" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.1764706,0 0 0 0 0.21568628,0 0 0 1 0"/>
+        <feConvolveMatrix divisor="16.0" in="filterResult101" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult102"/>
+        <feComposite in="SourceGraphic" in2="filterResult102" operator="over" result="filterResult103"/>
+      </filter>
+      <use ffdec:characterId="563" filter="url(#filter452)" height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="267.05" xlink:href="#text25"/>
+    </g>
+    <g id="text25" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 0.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_H0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 14.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_e0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 25.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 36.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_l0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 41.0, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_t0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 47.65, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_h0"/>
+      </g>
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 64.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_B0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 77.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_a0"/>
+        <use fill="#00ccff" fill-opacity="0.0" height="25.45" transform="matrix(0.0176, 0.0, 0.0, 0.0176, 88.15, 17.35)" width="267.05" xlink:href="#font_HelveticaRounded_LT_Std_Bd_r0"/>
+      </g>
+    </g>
+  </defs>
+</svg>
