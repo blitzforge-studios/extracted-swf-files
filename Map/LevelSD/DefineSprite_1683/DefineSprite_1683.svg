@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="2305.0px" width="5324.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 3962.5, 1662.5)">
+    <use ffdec:characterId="1681" height="985.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -1922.5, -1002.5)" width="3005.0" xlink:href="#shape0"/>
+    <use ffdec:characterId="1675" ffdec:characterName="a_CameraZone_Cove" height="845.0" id="am_CameraZone_2" transform="matrix(1.0, 0.0, 0.0, 1.0, -3962.5, -202.5)" width="4704.9" xlink:href="#sprite0"/>
+    <use ffdec:characterId="1673" ffdec:characterName="a_CameraZone_UpperCove" height="1145.0" id="am_CameraZone" transform="matrix(1.0, 0.0, 0.0, 1.0, -2082.5, -1662.5)" width="2545.0" xlink:href="#sprite1"/>
+    <use ffdec:characterId="1682" height="2065.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -2442.6, -1542.5)" width="3805.0" xlink:href="#shape3"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1922.5, 1002.5)">
+      <path d="M1020.0 -160.0 L1020.0 -100.0 M1020.0 -160.0 L1020.0 -1000.0" fill="none" stroke="#ffff00" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M1020.0 -160.0 L1080.0 -160.0 M-1920.0 -20.0 L120.0 -20.0 740.0 -160.0 1020.0 -160.0" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1422.5, -57.5)">
+      <use ffdec:characterId="1674" height="845.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -1422.5, 57.5)" width="4704.9" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1422.5, -57.5)">
+      <path d="M2660.05 240.1 L3279.9 100.05" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M2020.0 100.0 L2820.0 60.0 2060.0 820.0 0.0 820.0 -800.0 60.0 100.0 100.0 100.0 200.0 2020.0 200.0 2020.0 100.0 Z" fill="none" stroke="#006600" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M2660.0 240.0 L2020.0 900.0 60.0 900.0 -780.0 240.0 -1420.0 100.0" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 242.5, 302.5)">
+      <use ffdec:characterId="1672" height="1145.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -242.5, -302.5)" width="2545.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 242.5, 302.5)">
+      <path d="M2100.0 380.0 L860.0 460.0 500.0 680.0 420.0 760.0 300.0 820.0 160.0 800.0 80.0 600.0 80.0 -260.0 2100.0 -260.0 2100.0 380.0 Z" fill="none" stroke="#006600" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M2300.0 500.0 L2300.0 440.0 2300.0 -300.0 M-240.0 840.0 L-240.0 -200.0" fill="none" stroke="#ffff00" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M2300.0 440.0 L2120.0 440.0 920.0 560.0 560.0 840.0 -240.0 840.0" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 2442.6, 1542.5)">
+      <path d="M-1920.0 -680.0 L-1760.0 -760.0 -1760.0 -1160.0 -1540.0 -1300.0 -840.0 -1500.0 240.0 -1540.0 240.0 -1020.0 -240.0 -1000.0 -800.0 -960.0 -1140.0 -900.0 -1340.0 -680.0 -1340.1 -539.95 -1140.0 -680.0 -380.0 -700.0 120.0 -760.0 760.0 -780.0 760.0 -240.0 280.0 -200.0 -40.0 -120.0 -700.0 520.0 -1780.0 520.0 -1920.0 480.0 M-520.0 -160.0 L-520.05 -160.0 -520.1 -60.1 -2440.1 -60.1 -2440.1 -160.15 M-520.05 -160.0 L-1920.0 -140.0 M1359.9 -1319.95 L1359.9 359.95" fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M280.0 -200.0 L-520.0 -160.0 M-1340.0 -680.0 L-1420.0 -600.0 -1540.0 -540.0 -1400.0 -500.0 -1719.9 -440.0 -1319.95 -399.95 M-1639.95 -380.1 L-1300.1 -340.15 M-1540.0 -540.0 L-1680.0 -560.0 M-1219.9 -219.95 L-1600.0 -220.0 M-1620.1 -280.05 L-1240.05 -259.95 M-1259.9 -299.9 L-1639.95 -340.15" fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+  </defs>
+</svg>
