@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="461.7px" width="561.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 21.4, 51.0)">
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.6702, 0.7349, 1.1926, 0.145, 44.6173, 118.0564)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.6702, 0.662, 1.1926, 0.7243, 260.8673, 85.2383)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.0767, 0.8334, 0.8334, -0.0766, 208.0602, 77.7741)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.0767, 0.8334, 0.8334, -0.0766, 40.7602, 104.1241)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.1348, 0.9885, 0.9885, -0.1348, 322.4112, 116.6683)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.1348, 0.9885, 0.9885, -0.1348, 126.5112, 147.4683)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.868, 0.226, 0.1494, 0.4261, 84.4555, 135.2624)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.897, 0.5428, 0.7488, 0.3388, 81.7308, 139.2007)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9294, 0.3723, 0.4104, 0.4134, 80.962, 110.6086)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8722, 0.5814, 0.8312, 0.3118, 60.1577, 137.8225)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.7956, 0.6366, 0.9624, 0.2495, 87.9721, 127.1462)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.868, -0.0931, 0.1494, 0.6249, 300.7055, 125.7868)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.897, 0.3087, 0.7488, 0.7792, 297.9808, 129.647)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9294, 0.0709, 0.4104, 0.7253, 297.212, 91.8288)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8722, 0.3704, 0.8312, 0.7808, 276.4077, 118.1973)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.7956, 0.4771, 0.9624, 0.7581, 304.2221, 116.6486)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(1.1186, -0.1363, -0.3442, -1.2227, 151.3799, 196.9674)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.0289, -0.9767, -1.141, -1.2862, 162.4684, 190.4002)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.1406, -0.5312, -0.7308, -1.3212, 160.8692, 263.729)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.9868, -1.0753, -1.2284, -1.2598, 189.2707, 206.6964)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.7158, -0.9896, -1.0941, -0.9537, 147.1187, 195.8462)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.1078, -0.3199, -0.0923, 0.8749, 233.4235, 104.8337)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.3105, 0.2285, 0.6417, 1.2013, 220.6168, 104.8525)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.2639, -0.0853, 0.2407, 1.0748, 247.1909, 60.407)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.3043, 0.3042, 0.7337, 1.2166, 200.7227, 85.1503)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.018, 0.3494, 0.7112, 0.9802, 237.0533, 107.0683)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.906, 0.2649, 0.2649, 0.906, 194.7007, 25.8188)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8427, 0.9084, 0.9084, 0.8427, 185.7031, 32.5211)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9281, 0.5764, 0.5764, 0.9281, 187.7799, -24.9801)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8096, 0.9794, 0.9794, 0.8096, 164.1573, 23.5732)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.5896, 0.8742, 0.8742, 0.5896, 198.1867, 26.1431)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.3869, 0.3437, 0.3438, 0.3869, 245.0794, 88.9992)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2444, 0.635, 0.635, 0.2445, 250.5017, 92.761)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.3505, 0.472, 0.472, 0.3505, 227.3921, 67.2188)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2064, 0.6734, 0.6734, 0.2065, 236.2, 95.3491)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.1352, 0.828, 0.828, 0.1353, 241.0624, 74.4805)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.3869, 0.3437, 0.3438, 0.3869, 77.7794, 115.3492)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2444, 0.635, 0.635, 0.2445, 83.2017, 119.111)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.3505, 0.472, 0.472, 0.3505, 60.0921, 93.5688)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2064, 0.6734, 0.6734, 0.2065, 68.9, 121.6991)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.1352, 0.828, 0.828, 0.1353, 73.7624, 100.8305)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0608, 0.3426, 0.3102, 0.4989, 179.2849, 179.1143)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9867, 0.7219, 1.0637, 0.3317, 168.7295, 185.007)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.0867, 0.5368, 0.6749, 0.4501, 171.1101, 149.6019)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.948, 0.7586, 1.1469, 0.2973, 143.4806, 183.9205)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.6904, 0.6505, 1.0236, 0.1844, 183.2777, 178.6433)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0608, -0.0268, 0.3102, 0.7924, 432.4349, 166.2823)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9867, 0.5032, 1.0637, 0.911, 421.8795, 169.2219)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.0867, 0.2159, 0.6749, 0.8919, 424.2601, 123.8914)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.948, 0.5685, 1.1469, 0.9034, 396.6306, 156.449)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.6904, 0.5423, 1.0236, 0.7002, 436.4277, 167.3929)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(1.3409, -0.3721, -0.6148, -1.5053, 262.7202, 269.0115)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.1028, -1.3644, -1.5304, -1.4388, 281.2525, 257.4106)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.287, -0.8893, -1.1053, -1.5458, 278.2707, 348.1025)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.0539, -1.457, -1.6108, -1.404, 312.1276, 275.1144)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.6138, -0.9991, -1.0838, -0.8463, 249.9534, 241.7387)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.3994, -0.2553, 0.0676, 1.146, 354.9778, 137.8846)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.5133, 0.4399, 0.9589, 1.4354, 333.4617, 138.3476)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.5254, 0.0817, 0.519, 1.3478, 367.3303, 83.7018)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.4987, 0.5144, 1.047, 1.4431, 310.2399, 116.3034)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.9244, 0.392, 0.7382, 0.9106, 357.7753, 159.2165)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0883, 0.4806, 0.4806, 1.0883, 305.9059, 45.2639)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.9066, 1.2216, 1.2216, 0.9066, 290.7684, 56.8775)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.0504, 0.8768, 0.8768, 1.0504, 294.2093, -14.3287)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8681, 1.287, 1.287, 0.8681, 266.0009, 47.42)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.5072, 0.8671, 0.8671, 0.5072, 315.8904, 64.6444)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.4391, 0.4687, 0.4687, 0.4392, 366.0251, 126.0127)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.1924, 0.8301, 0.8301, 0.1924, 367.3112, 131.0987)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.36, 0.6476, 0.6476, 0.3601, 342.5255, 99.3171)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.1416, 0.8671, 0.8671, 0.1417, 350.5511, 134.8919)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.0394, 0.9098, 0.9098, 0.0394, 361.6755, 115.9911)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.4391, 0.4687, 0.4687, 0.4392, 170.1251, 156.8127)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.1924, 0.8301, 0.8301, 0.1924, 171.4112, 161.8987)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.36, 0.6476, 0.6476, 0.3601, 146.6255, 130.1171)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.1416, 0.8671, 0.8671, 0.1417, 154.6511, 165.6919)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.0394, 0.9098, 0.9098, 0.0394, 165.7755, 146.7911)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0914, 0.4862, 0.5761, 0.4694, 120.2455, 171.3281)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8681, 0.8178, 1.287, 0.2318, 104.2509, 181.6042)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.0212, 0.6808, 0.9732, 0.3651, 107.162, 142.9773)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8302, 0.8372, 1.3367, 0.2036, 80.148, 181.2363)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.4612, 0.5058, 0.8207, 0.0998, 133.8936, 182.9793)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0914, 0.1474, 0.5761, 0.8729, 373.3955, 153.6939)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8681, 0.6819, 1.287, 0.8803, 357.4009, 159.9269)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.0212, 0.4338, 0.9732, 0.9142, 360.312, 110.6125)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8302, 0.7242, 1.3367, 0.8657, 333.298, 148.755)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.4612, 0.4556, 0.8207, 0.4985, 387.0436, 175.1339)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(1.3171, -0.7543, -0.9803, -1.5523, 222.0788, 289.3692)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.9722, -1.5823, -1.7166, -1.3404, 238.9837, 264.8593)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(1.1555, -1.2591, -1.4384, -1.4752, 240.5311, 364.9639)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.9487, -1.6162, -1.745, -1.3217, 267.2253, 279.8424)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.5077, -0.012, 0.3982, 1.3067, 297.6285, 119.3445)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.4641, 0.6208, 1.1692, 1.4422, 273.1655, 128.2257)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.5273, 0.3562, 0.8592, 1.4246, 305.957, 66.2316)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.4534, 0.6501, 1.2025, 1.4409, 251.5227, 108.8253)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.0732, 0.7756, 0.7756, 1.0732, 243.0745, 29.2961)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.8034, 1.3733, 1.3733, 0.8034, 229.1656, 50.8506)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.948, 1.1469, 1.1469, 0.948, 229.0306, -27.1262)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.7847, 1.3964, 1.3964, 0.7847, 206.5217, 43.1016)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.3874, 0.5998, 0.5998, 0.3875, 306.924, 119.254)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.04, 0.9259, 0.9259, 0.0401, 303.8834, 128.8417)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2417, 0.7885, 0.7885, 0.2417, 279.5535, 93.2921)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.0086, 0.9474, 0.9474, -0.0086, 287.6959, 133.4464)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.0631, 0.6863, 0.6863, -0.0631, 314.1423, 121.9657)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.3874, 0.5998, 0.5998, 0.3875, 111.024, 150.054)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.04, 0.9259, 0.9259, 0.0401, 107.9834, 159.6417)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.2417, 0.7885, 0.7885, 0.2417, 83.6535, 124.0921)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.0086, 0.9474, 0.9474, -0.0086, 91.7959, 164.2464)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.0631, 0.6863, 0.6863, -0.0631, 118.2423, 152.7657)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.8833, 0.5888, 0.8418, 0.3158, 124.5712, 225.0649)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.6746, 0.7466, 1.2136, 0.1437, 118.5341, 239.0816)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.7508, 0.7074, 1.1131, 0.2005, 113.6178, 203.031)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.8833, 0.3752, 0.8418, 0.7907, 343.5212, 201.7787)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.6746, 0.6753, 1.2136, 0.7321, 337.4841, 217.428)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.7508, 0.5898, 1.1131, 0.7614, 332.5678, 167.9984)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(0.9994, -1.089, -1.2441, -1.2759, 245.8351, 352.4229)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.8408, -1.3685, -1.4847, -1.1593, 256.0502, 409.1641)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-1.3209, 0.3081, 0.7431, 1.2321, 280.1036, 166.8804)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-1.2663, 0.5369, 1.0113, 1.2473, 289.8472, 128.3701)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.82, 0.9919, 0.9919, 0.82, 229.1927, 95.427)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.6948, 1.1877, 1.1877, 0.6948, 221.5818, 52.5697)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.209, 0.682, 0.682, 0.2091, 288.2636, 181.0772)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.1011, 0.8511, 0.851, -0.101, 289.342, 194.8241)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.0346, 0.8008, 0.8008, 0.0347, 263.8983, 161.4227)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.1166, 0.8549, 0.8549, -0.1165, 277.0645, 198.8585)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="22" ffdec:characterName="Animation_Environmentals_fla.a_SpirePuff_194" height="89.05" transform="matrix(-0.209, 0.682, 0.682, 0.2091, 118.8136, 207.7272)" width="79.85" xlink:href="#sprite0"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.1011, 0.8511, 0.851, -0.101, 119.892, 221.4741)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(-0.0346, 0.8008, 0.8008, 0.0347, 94.4483, 188.0727)" width="92.05" xlink:href="#sprite1"/>
+    <use ffdec:characterId="24" height="76.85" transform="matrix(0.1166, 0.8549, 0.8549, -0.1165, 107.6145, 225.5085)" width="92.05" xlink:href="#sprite1"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 79.85, 89.05)">
+      <use ffdec:characterId="7" height="16.45" transform="matrix(5.4133, 0.0, 0.0, 5.4133, -79.8455, -89.048)" width="14.75" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 14.75, 16.45)">
+      <path d="M-12.7 -14.8 Q-12.75 -15.2 -13.05 -15.45 -13.35 -15.75 -13.8 -15.75 -14.25 -15.75 -14.55 -15.5 L-14.6 -15.45 Q-14.55 -15.7 -14.35 -15.95 -14.05 -16.3 -13.6 -16.4 -13.15 -16.5 -12.8 -16.3 -12.45 -16.1 -12.45 -15.55 -12.45 -15.25 -12.7 -14.8 M-14.7 -7.45 Q-14.55 -9.25 -12.95 -10.85 -11.2 -12.6 -8.95 -13.0 -6.55 -13.45 -5.0 -11.9 -3.25 -10.15 -3.2 -6.25 -1.95 -6.35 -1.0 -5.75 0.0 -5.05 0.0 -3.95 0.0 -3.25 -0.85 -2.2 -1.0 -2.7 -1.35 -3.15 -2.3 -4.35 -4.65 -4.1 -4.2 -5.9 -5.9 -7.4 -7.45 -8.8 -9.85 -9.05 -12.4 -9.3 -14.05 -8.05 -14.45 -7.8 -14.7 -7.45" fill="#eff2cd" fill-opacity="0.007843138" fill-rule="evenodd" stroke="none"/>
+      <path d="M-14.6 -15.45 L-14.55 -15.5 Q-14.25 -15.75 -13.8 -15.75 -13.35 -15.75 -13.05 -15.45 -12.75 -15.2 -12.7 -14.8 L-12.9 -14.5 Q-13.35 -13.85 -13.75 -13.85 -14.3 -13.85 -14.55 -14.4 -14.7 -14.7 -14.7 -15.05 L-14.6 -15.45 M-0.85 -2.2 L-1.35 -1.65 Q-2.85 0.0 -4.35 0.0 -5.7 0.0 -6.2 -0.8 -7.55 -0.15 -9.5 -0.15 -12.65 -0.15 -14.0 -3.65 -14.4 -4.75 -14.6 -6.05 L-14.75 -7.05 -14.7 -7.45 Q-14.45 -7.8 -14.05 -8.05 -12.4 -9.3 -9.85 -9.05 -7.45 -8.8 -5.9 -7.4 -4.2 -5.9 -4.65 -4.1 -2.3 -4.35 -1.35 -3.15 -1.0 -2.7 -0.85 -2.2" fill="#c8cd99" fill-opacity="0.007843138" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 92.05, 76.85)">
+      <use ffdec:characterId="23" height="14.2" transform="matrix(5.4133, 0.0, 0.0, 5.4133, -92.0253, -76.8682)" width="17.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 17.0, 14.2)">
+      <path d="M-16.9 -2.8 L-16.85 -2.85 Q-16.2 -3.35 -15.3 -3.4 -14.4 -3.45 -13.75 -3.0 L-13.65 -2.95 -13.65 -3.1 Q-13.65 -4.25 -12.8 -4.9 -12.0 -5.5 -10.85 -5.45 -9.7 -5.35 -8.9 -4.7 -8.05 -3.95 -8.05 -2.75 L-8.05 -2.7 Q-8.3 -2.25 -8.75 -1.7 -10.05 -0.2 -11.2 -0.2 -12.4 -0.2 -13.1 -0.75 L-13.2 -1.05 -13.3 -0.85 Q-14.15 -0.2 -15.2 -0.2 -16.2 -0.2 -16.7 -1.2 -16.85 -1.55 -16.95 -1.95 L-17.0 -2.3 -17.0 -2.35 -16.9 -2.8 M-8.7 -10.3 L-8.5 -10.6 Q-7.6 -11.6 -5.85 -11.6 -3.8 -11.6 -2.5 -9.75 -1.5 -8.35 -1.5 -7.1 -1.5 -6.2 -1.65 -5.85 -2.0 -5.15 -3.15 -5.15 -3.45 -5.15 -3.65 -5.0 L-3.75 -4.85 -3.95 -4.85 Q-7.35 -4.85 -8.45 -6.9 -8.8 -7.5 -8.85 -8.3 L-8.85 -9.05 Q-8.85 -9.7 -8.7 -10.3 M-4.2 -0.05 L-4.55 0.0 Q-5.2 0.0 -5.55 -0.8 L-5.75 -1.6 Q-5.75 -2.15 -5.2 -2.6 L-5.2 -2.65 -5.05 -2.65 Q-4.4 -2.75 -3.95 -2.5 -3.45 -2.2 -3.45 -1.5 -3.45 -1.05 -4.1 -0.2 L-4.2 -0.05" fill="#c8cd99" fill-opacity="0.7294118" fill-rule="evenodd" stroke="none"/>
+      <path d="M-8.05 -2.7 L-8.05 -2.75 Q-8.05 -3.95 -8.9 -4.7 -9.7 -5.35 -10.85 -5.45 -12.0 -5.5 -12.8 -4.9 -13.65 -4.25 -13.65 -3.1 L-13.65 -2.95 -13.75 -3.0 Q-14.4 -3.45 -15.3 -3.4 -16.2 -3.35 -16.85 -2.85 L-16.9 -2.8 Q-16.7 -3.25 -16.2 -3.65 -15.5 -4.25 -14.45 -4.55 L-13.55 -4.65 Q-13.3 -5.4 -12.9 -6.0 -12.05 -7.15 -10.75 -7.25 -9.5 -7.35 -8.65 -6.45 -7.65 -5.45 -7.65 -3.7 -7.65 -3.35 -8.05 -2.7 M-3.75 -4.85 L-3.65 -5.0 Q-3.45 -5.15 -3.15 -5.15 -2.0 -5.15 -1.65 -5.85 -1.5 -6.2 -1.5 -7.1 -1.5 -8.35 -2.5 -9.75 -3.8 -11.6 -5.85 -11.6 -7.6 -11.6 -8.5 -10.6 L-8.7 -10.3 Q-8.4 -11.45 -7.5 -12.45 -6.2 -13.85 -4.45 -14.15 -2.6 -14.45 -1.4 -13.35 0.0 -12.05 0.0 -9.25 0.0 -8.05 -0.75 -6.75 -1.8 -4.9 -3.75 -4.85 M-5.2 -2.65 Q-4.75 -3.05 -4.1 -3.2 -3.45 -3.35 -3.0 -3.1 -2.5 -2.85 -2.5 -2.15 -2.5 -1.75 -3.15 -0.9 -3.65 -0.25 -4.2 -0.05 L-4.1 -0.2 Q-3.45 -1.05 -3.45 -1.5 -3.45 -2.2 -3.95 -2.5 -4.4 -2.75 -5.05 -2.65 L-5.2 -2.65" fill="#eff2cd" fill-opacity="0.7294118" fill-rule="evenodd" stroke="none"/>
+      <path d="M-13.3 -0.85 L-13.2 -1.05 -13.1 -0.75 -13.25 -0.9 -13.3 -0.85" fill="#f2f2f2" fill-opacity="0.7294118" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
