@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="410.7px" width="520.6px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -33.85, 89.55)">
+    <use ffdec:characterId="4210" height="183.1" transform="matrix(0.8172, 0.0, 0.0, 0.8172, 72.0157, 144.9184)" width="542.2" xlink:href="#shape0"/>
+    <use ffdec:characterId="4191" height="394.3" transform="matrix(1.9272, 0.0, 0.0, 0.8172, 33.9036, -1.05)" width="270.1" xlink:href="#sprite0"/>
+    <use ffdec:characterId="4193" height="392.65" transform="matrix(0.8172, 0.0, 0.0, 0.8172, 175.4, -89.55)" width="270.05" xlink:href="#sprite1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 293.8, 81.05)">
+      <path d="M63.6 -79.65 Q63.45 -79.2 62.7 -79.05 L62.55 -79.35 62.4 -79.95 62.55 -81.05 63.15 -81.05 63.6 -79.65 M39.45 -14.35 L39.75 -12.8 39.7 -11.3 39.6 -10.95 39.2 -10.8 38.55 -10.5 37.65 -11.1 Q37.35 -11.6 37.35 -12.65 L37.5 -13.5 Q37.8 -14.5 38.85 -15.15 L39.45 -14.35 M248.4 -34.3 Q248.25 -33.85 247.5 -33.7 L247.35 -34.0 247.2 -34.6 247.35 -35.7 247.95 -35.7 248.4 -34.3 M222.15 76.8 L222.3 75.95 Q222.6 74.95 223.65 74.3 L224.25 75.1 224.55 76.65 224.5 78.15 224.4 78.5 224.0 78.65 223.35 78.95 222.45 78.35 Q222.15 77.85 222.15 76.8 M-119.35 -57.55 Q-119.15 -57.5 -119.15 -56.55 -119.15 -55.65 -119.55 -55.25 L-120.05 -54.75 -120.8 -54.6 -121.15 -54.75 -121.25 -55.7 -120.6 -56.55 -119.6 -57.45 -119.35 -57.55 M-95.65 -12.8 L-95.4 -11.1 Q-95.45 -11.1 -95.8 -10.85 L-96.65 -10.35 -97.55 -10.95 Q-97.85 -11.45 -97.85 -12.5 -97.85 -13.55 -97.55 -14.0 L-96.65 -14.6 Q-95.9 -13.65 -95.65 -12.8 M-64.85 47.6 Q-65.0 48.05 -65.75 48.2 L-65.9 47.9 -66.05 47.3 -65.9 46.2 -65.3 46.2 Q-64.85 46.95 -64.85 47.6 M-177.2 98.2 Q-176.9 98.75 -176.9 99.75 L-176.95 101.25 -177.05 101.6 -177.45 101.75 -178.1 102.05 -179.0 101.45 -179.3 99.9 -179.15 99.05 Q-178.85 98.05 -177.8 97.4 L-177.2 98.2 M-268.2 13.0 L-267.95 14.7 -268.35 14.95 -269.2 15.45 -270.1 14.85 Q-270.4 14.35 -270.4 13.3 -270.4 12.25 -270.1 11.8 -269.85 11.45 -269.2 11.2 -268.45 12.15 -268.2 13.0 M-293.8 15.65 L-293.15 14.8 -292.15 13.9 -291.9 13.8 Q-291.7 13.85 -291.7 14.8 -291.7 15.7 -292.1 16.1 L-292.6 16.6 -293.35 16.75 -293.7 16.6 -293.8 15.65" fill="#ffffff" fill-opacity="0.9882353" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <use ffdec:characterId="4190" height="394.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)" width="270.1" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <path d="M270.05 9.6 L270.05 330.5 Q269.5 362.5 227.2 379.9 189.45 395.4 134.4 394.2 80.05 392.95 41.9 376.35 22.2 367.8 11.5 356.35 0.0 344.05 0.05 329.45 -0.2 319.65 0.1 9.6 0.1 5.15 42.3 2.45 80.35 0.05 135.1 0.0 190.05 -0.05 227.85 2.3 270.05 4.95 270.05 9.6" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0945, 0.1648, 0.0, 135.0, 307.1)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.34901962"/>
+      <stop offset="1.0" stop-color="#fff298" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="4192" height="392.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="270.05" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M270.05 9.6 L270.05 369.15 Q269.5 380.45 227.2 386.95 189.25 392.75 134.4 392.65 79.85 392.5 41.95 386.55 0.0 380.0 0.1 369.15 L0.0 190.4 0.1 9.6 Q0.1 5.15 42.3 2.45 80.35 0.05 135.1 0.0 190.05 -0.05 227.85 2.3 270.05 4.95 270.05 9.6" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0945, 0.1648, 0.0, 135.0, 307.1)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.34901962"/>
+      <stop offset="1.0" stop-color="#fff298" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+</svg>

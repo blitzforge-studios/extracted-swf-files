@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="410.7px" width="520.6px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -33.85, 89.55)">
+    <use ffdec:characterId="4207" height="129.8" transform="matrix(0.8172, 0.0, 0.0, 0.8172, 71.1985, 166.41)" width="542.9" xlink:href="#shape0"/>
+    <use ffdec:characterId="4191" height="394.3" transform="matrix(1.9272, 0.0, 0.0, 0.8172, 33.9036, -1.05)" width="270.1" xlink:href="#sprite0"/>
+    <use ffdec:characterId="4193" height="392.65" transform="matrix(0.8172, 0.0, 0.0, 0.8172, 175.4, -89.55)" width="270.05" xlink:href="#sprite1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 294.8, 54.75)">
+      <path d="M63.3 -53.4 Q63.05 -52.4 61.95 -52.4 L61.75 -52.2 Q61.5 -52.2 61.5 -53.15 61.5 -54.75 62.55 -54.75 L63.3 -53.4 M248.1 -8.05 Q247.85 -7.05 246.75 -7.05 L246.55 -6.85 Q246.3 -6.85 246.3 -7.8 246.3 -9.4 247.35 -9.4 L248.1 -8.05 M-122.25 -28.2 Q-122.25 -29.15 -121.5 -30.15 L-120.2 -31.2 -119.65 -30.55 -119.45 -29.1 Q-119.45 -28.35 -120.1 -27.45 L-121.1 -26.25 -122.0 -26.75 -122.25 -28.2 M-65.15 73.85 Q-65.4 74.85 -66.5 74.85 L-66.7 75.05 Q-66.95 75.05 -66.95 74.1 -66.95 72.5 -65.9 72.5 -65.45 72.95 -65.15 73.85 M-96.35 9.2 Q-96.05 9.55 -96.05 10.55 -96.05 12.05 -96.2 12.2 L-96.6 12.35 -97.25 12.65 -98.2 12.15 Q-98.55 11.7 -98.55 10.7 -98.55 9.05 -97.25 8.7 -96.55 9.0 -96.35 9.2 M-268.6 36.35 Q-268.6 37.85 -268.75 38.0 L-269.15 38.15 -269.8 38.45 -270.75 37.95 Q-271.1 37.5 -271.1 36.5 -271.1 34.85 -269.8 34.5 -269.1 34.8 -268.9 35.0 -268.6 35.35 -268.6 36.35 M-292.2 40.8 Q-292.0 41.25 -292.0 42.25 -292.0 43.0 -292.65 43.9 L-293.65 45.1 -294.55 44.6 -294.8 43.15 Q-294.8 42.2 -294.05 41.2 -293.4 40.4 -292.75 40.15 -292.3 40.6 -292.2 40.8" fill="#ffffff" fill-opacity="0.9882353" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <use ffdec:characterId="4190" height="394.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)" width="270.1" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <path d="M270.05 9.6 L270.05 330.5 Q269.5 362.5 227.2 379.9 189.45 395.4 134.4 394.2 80.05 392.95 41.9 376.35 22.2 367.8 11.5 356.35 0.0 344.05 0.05 329.45 -0.2 319.65 0.1 9.6 0.1 5.15 42.3 2.45 80.35 0.05 135.1 0.0 190.05 -0.05 227.85 2.3 270.05 4.95 270.05 9.6" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0945, 0.1648, 0.0, 135.0, 307.1)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.4392157"/>
+      <stop offset="1.0" stop-color="#fff298" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="4192" height="392.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="270.05" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M270.05 9.6 L270.05 369.15 Q269.5 380.45 227.2 386.95 189.25 392.75 134.4 392.65 79.85 392.5 41.95 386.55 0.0 380.0 0.1 369.15 L0.0 190.4 0.1 9.6 Q0.1 5.15 42.3 2.45 80.35 0.05 135.1 0.0 190.05 -0.05 227.85 2.3 270.05 4.95 270.05 9.6" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0945, 0.1648, 0.0, 135.0, 307.1)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.4392157"/>
+      <stop offset="1.0" stop-color="#fff298" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+</svg>

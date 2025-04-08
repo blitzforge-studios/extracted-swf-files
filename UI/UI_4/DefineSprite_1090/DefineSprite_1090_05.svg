@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="20.5px" width="205.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 31.95, 3.9)">
+    <use ffdec:characterId="1088" height="16.5" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.5, -2.0)" width="175.25" xlink:href="#shape0"/>
+    <use ffdec:characterId="74" height="12.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.05)" width="5.65" xlink:href="#sprite0"/>
+    <use ffdec:characterId="88" height="12.5" transform="matrix(0.6439, 0.0, 0.0, 1.0, 5.7, 0.0)" width="126.25" xlink:href="#sprite1"/>
+    <use ffdec:characterId="76" height="12.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 86.2, 0.05)" width="5.55" xlink:href="#sprite2"/>
+    <use ffdec:characterId="80" height="5.3" transform="matrix(1.0, 0.0, 0.0, -1.0, 1.15, 11.9)" width="4.75" xlink:href="#sprite3"/>
+    <use ffdec:characterId="94" height="5.1" transform="matrix(1.1108, 0.0, 0.0, -1.0, 5.6, 11.85)" width="72.75" xlink:href="#sprite4"/>
+    <use ffdec:characterId="90" height="5.15" transform="matrix(1.0, 0.0, 0.0, -1.0, 85.5, 11.85)" width="6.2" xlink:href="#sprite5"/>
+    <use ffdec:characterId="84" height="8.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.1, 0.75)" width="4.8" xlink:href="#sprite6"/>
+    <use ffdec:characterId="96" height="8.35" transform="matrix(1.1096, 0.0, 0.0, 1.0, 5.75, 0.75)" width="72.75" xlink:href="#sprite7"/>
+    <use ffdec:characterId="92" height="8.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 85.55, 0.75)" width="6.2" xlink:href="#sprite8"/>
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M170.95 3.35 Q171.45 4.65 171.45 6.3 171.4 8.1 170.85 9.5 169.55 11.4 166.65 12.5 L5.6 12.5 Q0.5 10.55 0.5 6.25 0.5 2.3 5.6 0.0 L166.65 0.0 Q169.7 1.4 170.95 3.35" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use ffdec:characterId="86" height="21.85" transform="matrix(0.5699, 0.0, 0.0, 0.5699, 49.4995, 0.0495)" width="73.95" xlink:href="#sprite9"/>
+    </g>
+    <filter id="filter11">
+      <feColorMatrix in="SourceGraphic" result="filterResult0" type="matrix" values="0 0 0 0 0.2901961,0 0 0 0 0.3137255,0 0 0 0 0.27058825,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="16.0" in="filterResult0" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="4 4" result="filterResult1"/>
+      <feComposite in="SourceGraphic" in2="filterResult1" operator="over" result="filterResult2"/>
+    </filter>
+    <use ffdec:characterId="1089" filter="url(#filter11)" height="20.5" id="am_Time" transform="matrix(1.0, 0.0, 0.0, 1.0, 65.85, -3.9)" width="106.4" xlink:href="#text0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.5, 2.0)">
+      <path d="M166.65 0.0 Q169.7 1.4 170.95 3.35 171.45 4.65 171.45 6.3 171.4 8.1 170.85 9.5 169.55 11.4 166.65 12.5 L5.6 12.5 Q0.5 10.55 0.5 6.25 0.5 2.3 5.6 0.0 L166.65 0.0" fill="#4a5045" fill-rule="evenodd" stroke="none"/>
+      <path d="M166.65 -2.0 Q169.9 -1.1 171.85 1.2 173.75 3.45 173.75 6.25 L173.6 8.05 Q173.05 11.25 170.65 12.85 L170.35 13.05 Q168.75 14.25 166.65 14.5 L5.6 14.5 Q2.5 14.1 0.5 11.7 -1.5 9.35 -1.5 6.25 -1.5 3.45 0.4 1.2 2.35 -1.1 5.6 -2.0 L166.65 -2.0 M166.65 0.0 L5.6 0.0 Q0.5 2.3 0.5 6.25 0.5 10.55 5.6 12.5 L166.65 12.5 Q169.55 11.4 170.85 9.5 171.4 8.1 171.45 6.3 171.45 4.65 170.95 3.35 169.7 1.4 166.65 0.0" fill="#31342e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="73" height="12.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.65" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M5.65 0.0 L5.65 12.45 Q3.45 12.25 1.8 10.65 0.0 8.8 0.0 6.2 0.0 3.65 1.8 1.8 3.45 0.15 5.65 0.0" fill="#00ccff" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="87" height="12.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="126.25" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M124.55 0.0 L126.25 0.25 126.25 12.3 124.55 12.5 0.35 12.5 0.0 12.5 0.0 0.0 0.35 0.0 124.55 0.0" fill="#00ccff" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="75" height="12.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.55" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M3.7 1.8 Q5.55 3.65 5.55 6.2 5.55 8.8 3.7 10.65 2.1 12.2 0.0 12.45 L0.0 0.0 Q2.1 0.2 3.7 1.8" fill="#00ccff" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, -0.15)">
+      <use ffdec:characterId="79" height="5.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.15)" width="4.75" xlink:href="#shape4"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, -0.15)">
+      <path d="M0.05 5.45 Q0.45 1.1 4.8 0.15 L4.8 5.45 0.05 5.45" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0037, -0.0051, 0.0, -49.3, 3.1)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#006882"/>
+      <stop offset="0.596078431372549" stop-color="#006882" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="93" height="5.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="72.75" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M72.75 0.0 L72.75 5.1 0.0 5.1 0.0 0.0 72.75 0.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0037, -0.0051, 0.0, -49.3, 3.1)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#006882"/>
+      <stop offset="0.596078431372549" stop-color="#006882" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="89" height="5.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.2" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M6.2 5.15 L0.0 5.15 0.0 0.0 Q2.8 0.25 4.45 1.4 5.7 2.5 6.1 4.45 L6.1 4.55 6.2 5.15" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0037, -0.0051, 0.0, -49.3, 3.1)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#006882"/>
+      <stop offset="0.596078431372549" stop-color="#006882" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.15)">
+      <use ffdec:characterId="83" height="8.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.15)" width="4.8" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.15)">
+      <path d="M4.8 0.15 L4.8 8.2 0.0 8.2 0.0 6.1 Q0.15 1.2 4.8 0.15" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0035, -0.0051, 0.0, 55.0, 3.0)" gradientUnits="userSpaceOnUse" id="gradient3" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="0.596078431372549" stop-color="#ffffff" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="95" height="8.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="72.75" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M72.75 0.0 L72.75 8.35 0.0 8.35 0.0 0.0 72.75 0.0" fill="url(#gradient4)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0035, -0.0051, 0.0, 44.2, 3.15)" gradientUnits="userSpaceOnUse" id="gradient4" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="0.596078431372549" stop-color="#ffffff" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use ffdec:characterId="91" height="8.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.2" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M6.1 4.55 L6.2 6.15 6.2 8.3 0.0 8.3 0.0 0.0 Q2.8 0.25 4.45 1.4 5.7 2.5 6.1 4.45 L6.1 4.55" fill="url(#gradient5)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0035, -0.0051, 0.0, -49.3, 3.1)" gradientUnits="userSpaceOnUse" id="gradient5" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="0.596078431372549" stop-color="#ffffff" stop-opacity="0.0"/>
+    </linearGradient>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 73.7, -0.35)">
+      <clipPath id="clipPath1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <path d="M-2.35 3.3 L-1.5 4.35 -1.25 4.55 -1.2 4.7 -0.45 6.05 Q0.4 9.0 0.25 12.25 0.1 15.3 -1.85 17.75 L-4.8 21.0 -8.5 21.75 -10.9 22.05 -11.1 22.0 -19.3 21.95 -20.8 22.2 -21.1 22.1 -23.25 21.65 Q-29.65 21.45 -36.4 21.65 L-73.7 22.0 -73.7 0.6 -44.9 0.6 -36.4 0.7 -26.65 0.75 -23.25 0.7 Q-18.25 0.2 -13.2 0.45 L-7.6 0.5 Q-6.55 1.0 -5.4 1.3 L-4.0 2.2 -2.35 3.3" fill="#ff0000" fill-opacity="0.7490196" fill-rule="evenodd" stroke="none"/>
+      </clipPath>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -2.0, -2.0)">
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 25.1, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 33.65, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 42.2, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_:0"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 46.5, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 55.05, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 63.6, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_:0"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 67.9, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 76.45, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 85.0, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_:0"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 89.3, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+        <use fill="#eee2bc" height="20.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 97.85, 13.5)" width="106.4" xlink:href="#font_HelveticaRounded_LT_Std_Bd_00"/>
+      </g>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_00">
+      <path d="M40.0 -366.5 Q40.5 -487.5 74.0 -568.0 107.5 -648.5 169.0 -688.5 230.0 -728.5 313.5 -728.5 397.0 -728.5 458.0 -688.5 519.5 -648.5 553.0 -568.0 586.5 -487.5 587.0 -366.5 587.5 -298.0 574.5 -231.0 562.0 -163.5 531.5 -108.5 500.5 -53.5 447.5 -20.5 394.0 12.5 313.5 13.5 233.0 12.5 179.5 -20.5 126.5 -53.5 95.5 -108.5 65.0 -163.5 52.5 -231.0 39.5 -298.0 40.0 -366.5 M189.5 -357.5 Q189.5 -266.5 204.0 -211.5 218.5 -157.0 246.5 -133.0 274.0 -109.0 313.5 -109.5 353.0 -109.0 380.5 -133.0 408.5 -157.0 423.0 -211.5 437.5 -266.5 437.5 -357.5 438.0 -474.0 409.5 -539.0 380.5 -604.5 313.5 -605.5 246.5 -604.5 217.5 -539.0 189.0 -474.0 189.5 -357.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_HelveticaRounded_LT_Std_Bd_:0">
+      <path d="M72.5 -76.5 Q73.5 -112.0 97.0 -136.0 121.0 -159.5 156.5 -160.5 192.0 -159.5 216.0 -136.0 239.5 -112.0 240.5 -76.5 239.5 -41.0 216.0 -17.0 192.0 6.5 156.5 7.5 121.0 6.5 97.0 -17.0 73.5 -41.0 72.5 -76.5 M72.5 -451.5 Q73.5 -487.0 97.0 -511.0 121.0 -534.5 156.5 -535.5 192.0 -534.5 216.0 -511.0 239.5 -487.0 240.5 -451.5 239.5 -416.0 216.0 -392.0 192.0 -368.5 156.5 -367.5 121.0 -368.5 97.0 -392.0 73.5 -416.0 72.5 -451.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
