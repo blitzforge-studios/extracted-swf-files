@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="985.0px" width="1905.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 42.5, 762.5)">
+    <use ffdec:characterId="1171" height="985.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -42.5, -762.5)" width="1905.0" xlink:href="#shape0"/>
+    <use ffdec:characterId="1173" height="345.0" id="am_RoomAggro" transform="matrix(1.0, 0.0, 0.0, 1.0, 517.5, -322.5)" width="425.0" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 42.5, 762.5)">
+      <path d="M1700.0 -40.0 L1460.0 20.0 1160.0 0.0 760.0 20.0 500.0 60.0 180.0 20.0 180.0 -460.0 600.0 -580.0 980.0 -580.0 1700.0 -520.0 1700.0 -40.0" fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M1860.0 -520.0 L1860.0 20.0 1860.0 100.0 M-40.0 20.0 L-40.0 220.0 M-40.0 -760.0 L-40.0 20.0" fill="none" stroke="#ffff00" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M-40.0 20.0 L380.0 120.0 1460.0 120.0 1860.0 20.0" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 42.5, 362.5)">
+      <use ffdec:characterId="1172" height="345.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -42.5, -362.5)" width="425.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 42.5, 362.5)">
+      <path d="M380.0 -360.0 L360.0 -40.0 -20.0 -20.0 -40.0 -340.0" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+  </defs>
+</svg>

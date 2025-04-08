@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="54.5px" width="10.35px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -72.0, -154.5)">
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.0, 154.5)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.0, 154.5)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.0, 154.5)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.0, 154.5)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="690" ffdec:characterName="ac_CaveVigilFlameUp" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.0, 209.0)" width="0.0" xlink:href="#sprite1"/>
+    <use ffdec:characterId="649" ffdec:characterName="ac_Ember2" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 72.0, 165.45)" width="0.0" xlink:href="#sprite2"/>
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 82.35, 164.45)" width="0.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="648" ffdec:characterName="ac_Ember" height="0.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 82.35, 170.45)" width="0.0" xlink:href="#sprite0"/>
+  </g>
+  <defs/>
+</svg>
