@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="355.7px" width="336.85px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 181.95, 272.85)">
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.9126, 0.0, 0.0, 0.9126, 60.6846, -215.0197)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.1276, 0.0, 0.0, 1.1276, -66.6113, -145.5049)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0547, 0.0, 0.0, 1.0547, -57.7908, -219.888)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.9938, 0.0, 0.0, 0.9938, -35.3226, -191.9729)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0081, 0.0, 0.0, 1.0081, -27.1856, -224.9852)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0324, 0.0, 0.0, 1.0324, 27.8576, -208.6908)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0745, 0.0, 0.0, 1.0745, 44.3724, -221.5739)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.1213, 0.0, 0.0, 1.1213, -22.7338, -218.8777)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.1913, 0.0, 0.0, 1.1913, 45.9084, -157.782)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.7362, 0.0, 0.0, 0.7362, 81.5108, -174.5524)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.4598, -0.7883, 0.7883, -0.4598, -126.556, -82.7315)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5681, -0.974, 0.974, -0.5681, -2.4373, -7.8433)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5314, -0.9111, 0.9111, -0.5314, -71.125, 22.0702)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5007, -0.8584, 0.8584, -0.5007, -58.3811, -11.4951)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5079, -0.8708, 0.8708, -0.5079, -90.9532, -1.8093)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5201, -0.8917, 0.8917, -0.5201, -104.5906, -57.6139)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5413, -0.9281, 0.9281, -0.5413, -124.0054, -65.3615)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5649, -0.9686, 0.9686, -0.5649, -87.9277, -8.7808)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6002, -1.029, 1.029, -0.6002, -69.6854, -98.8116)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.3709, -0.6359, 0.6359, -0.3709, -102.1342, -121.1387)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.664, 0.626, -0.626, -0.664, 44.2947, 33.3839)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8204, 0.7735, -0.7735, -0.8204, 89.2244, -104.5345)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7674, 0.7235, -0.7235, -0.7674, 133.8237, -44.3952)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7231, 0.6817, -0.6817, -0.7231, 98.3968, -49.2041)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7335, 0.6915, -0.6915, -0.7335, 115.1354, -19.602)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7511, 0.7082, -0.7082, -0.7511, 63.8355, 6.2516)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7818, 0.737, -0.737, -0.7818, 60.6959, 26.9077)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8159, 0.7692, -0.7692, -0.8159, 107.6357, -21.0854)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8668, 0.8172, -0.8172, -0.8668, 15.8184, -18.4251)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.5356, 0.505, -0.505, -0.5356, 1.4035, 18.158)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0051, -0.6108, 0.6106, 0.0204, -74.5289, -141.3515)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0063, -0.7547, 0.7545, 0.0253, -28.76, -54.6394)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.006, -0.7059, 0.7057, 0.0236, -78.4462, -62.2469)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0056, -0.6651, 0.665, 0.0223, -59.6672, -76.5705)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0057, -0.6747, 0.6745, 0.0226, -81.7092, -82.8297)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0058, -0.6909, 0.6908, 0.0231, -70.5305, -119.3105)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0061, -0.7191, 0.719, 0.0241, -79.0041, -130.6406)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0063, -0.7505, 0.7503, 0.0251, -77.6416, -85.6073)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0067, -0.7973, 0.7971, 0.0267, -36.347, -130.2081)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0042, -0.4927, 0.4926, 0.0165, -47.3111, -154.4538)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.61, 0.03, -0.0147, -0.6108, -33.1517, -7.675)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7538, 0.0371, -0.0182, -0.7547, 50.7956, -58.3803)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7051, 0.0347, -0.017, -0.7059, 46.1263, -8.3318)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6643, 0.0327, -0.016, -0.6651, 30.6428, -26.2504)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6739, 0.0332, -0.0163, -0.6747, 25.7359, -3.9608)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6901, 0.034, -0.0166, -0.691, -11.3411, -13.0437)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7183, 0.0353, -0.0173, -0.7191, -22.1642, -3.8772)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7496, 0.0369, -0.0181, -0.7505, 22.6768, -7.8976)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7963, 0.0392, -0.0192, -0.7973, -24.1625, -46.554)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.4921, 0.0242, -0.0119, -0.4927, -47.783, -34.1132)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.5922, 0.1494, -0.1642, 0.5885, 62.6084, -147.8671)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.7318, 0.1845, -0.2029, 0.7271, -32.5372, -123.825)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.6845, 0.1726, -0.1898, 0.6801, -13.3862, -170.3682)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.6449, 0.1626, -0.1788, 0.6409, -3.8098, -148.7533)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.6542, 0.165, -0.1814, 0.6501, 7.4104, -168.7038)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.67, 0.169, -0.1858, 0.6657, 40.2102, -149.1894)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.6973, 0.1758, -0.1933, 0.6929, 53.2229, -154.7378)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.7277, 0.1835, -0.2018, 0.7231, 9.1758, -163.953)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.7731, 0.195, -0.2143, 0.7682, 42.7307, -113.3995)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.4778, 0.1205, -0.1325, 0.4747, 68.8741, -118.3452)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.2904, 0.0, 0.0, 1.2904, 85.3721, -157.2134)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.6696, 0.0, 0.0, 1.6696, -9.5961, -101.9626)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.3931, 0.0, 0.0, 1.3931, -73.3294, -133.0598)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.3516, 0.0, 0.0, 1.3516, -13.4469, -124.1794)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.3536, 0.0, 0.0, 1.3536, -4.5557, -171.6881)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.3707, 0.0, 0.0, 1.3707, 29.4188, -147.7627)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.3983, 0.0, 0.0, 1.3983, 25.6475, -157.5325)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.4663, 0.0, 0.0, 1.4663, 20.7482, -151.3284)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.6446, 0.0, 0.0, 1.6446, 9.8137, -116.2041)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.2015, 0.0, 0.0, 1.2015, 62.1634, -154.5265)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6501, -1.1147, 1.1147, -0.6501, -89.0882, -133.2173)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8412, -1.4422, 1.4422, -0.8412, 6.4277, -79.0455)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7018, -1.2033, 1.2033, -0.7018, 11.7537, -8.3524)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6809, -1.1675, 1.1675, -0.6809, -10.8324, -64.551)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6819, -1.1692, 1.1692, -0.6819, -56.3355, -48.239)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6906, -1.184, 1.184, -0.6906, -52.7119, -89.6362)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7045, -1.2078, 1.2078, -0.7045, -59.3044, -81.4711)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.7388, -1.2666, 1.2666, -0.7388, -51.4591, -80.3634)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8286, -1.4206, 1.4206, -0.8286, -15.6339, -88.645)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.6053, -1.0378, 1.0378, -0.6053, -75.1512, -114.5003)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9389, 0.8852, -0.8852, -0.9389, -13.3181, 8.1894)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.2148, 1.1453, -1.1453, -1.2148, 17.8269, -97.1049)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.0136, 0.9556, -0.9556, -1.0136, 85.6166, -118.1956)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9834, 0.9271, -0.9271, -0.9834, 35.91, -83.5516)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9848, 0.9285, -0.9285, -0.9848, 62.0724, -42.9514)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9973, 0.9403, -0.9403, -0.9973, 20.9285, -37.0488)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.0174, 0.9592, -0.9592, -1.0174, 30.3488, -32.4947)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.0669, 1.0058, -1.0058, -1.0669, 29.6697, -40.3848)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.1966, 1.1282, -1.1282, -1.1966, 13.4726, -73.3586)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8742, 0.8242, -0.8242, -0.8742, 1.7817, -9.6737)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0073, -0.8637, 0.8635, 0.0289, -35.7382, -156.5257)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0094, -1.1174, 1.1172, 0.0374, 0.6989, -91.8962)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0078, -0.9323, 0.9321, 0.0312, -20.4393, -49.8335)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0076, -0.9046, 0.9044, 0.0303, -14.1676, -89.7016)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0076, -0.9059, 0.9057, 0.0303, -45.9235, -96.7459)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0077, -0.9174, 0.9172, 0.0307, -29.6738, -118.947)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0079, -0.9358, 0.9356, 0.0313, -36.3047, -116.6687)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0083, -0.9814, 0.9812, 0.0329, -32.2045, -113.1749)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0093, -1.1007, 1.1005, 0.0369, -8.7278, -105.1172)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.0068, -0.8041, 0.804, 0.0269, -34.0771, -141.079)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8626, 0.0424, -0.0208, -0.8637, -50.5638, -45.5796)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.1161, 0.0549, -0.0269, -1.1175, 11.9779, -85.7306)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9312, 0.0458, -0.0225, -0.9324, 55.1452, -67.0457)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9035, 0.0444, -0.0218, -0.9046, 14.9203, -70.9605)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9048, 0.0445, -0.0218, -0.906, 9.7763, -38.8049)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9163, 0.0451, -0.0221, -0.9174, -13.322, -53.8074)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9347, 0.046, -0.0226, -0.9359, -10.6891, -47.3312)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.9802, 0.0482, -0.0237, -0.9814, -7.4842, -51.643)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-1.0994, 0.0541, -0.0265, -1.1008, -0.7972, -75.4497)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(-0.8032, 0.0395, -0.0194, -0.8042, -35.0817, -48.1257)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.8375, 0.2112, -0.2322, 0.8322, 68.2252, -106.4992)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0835, 0.2732, -0.3004, 1.0766, -3.3106, -86.4357)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.9041, 0.228, -0.2507, 0.8983, -39.0875, -116.9609)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.8771, 0.2212, -0.2432, 0.8716, -1.8015, -101.4147)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.8784, 0.2215, -0.2435, 0.8729, 12.4943, -130.5717)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.8896, 0.2243, -0.2466, 0.8839, 30.2588, -109.6322)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.9074, 0.2289, -0.2516, 0.9017, 29.5517, -116.5294)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.9516, 0.24, -0.2638, 0.9456, 25.2607, -113.2691)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(1.0673, 0.2692, -0.2959, 1.0606, 11.8411, -92.3978)" width="8.8" xlink:href="#sprite0"/>
+    <use ffdec:characterId="652" height="8.75" transform="matrix(0.7797, 0.1966, -0.2162, 0.7748, 52.7096, -108.5856)" width="8.8" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.4, 4.35)">
+      <use ffdec:characterId="651" height="1.25" transform="matrix(0.4444, 0.0, 0.0, 7.0, -4.3778, -4.35)" width="19.7" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 9.85, 1.25)">
+      <path d="M6.95 -0.2 L0.0 0.0 -6.95 -0.2 Q-9.85 -0.35 -9.85 -0.65 -9.85 -0.9 -6.95 -1.05 L0.0 -1.25 6.95 -1.05 Q9.85 -0.9 9.85 -0.65 9.85 -0.35 6.95 -0.2" fill="#6dda91" fill-opacity="0.16862746" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

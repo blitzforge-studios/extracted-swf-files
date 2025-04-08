@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="134.5px" width="115.35px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 69.0, 110.95)">
+    <use ffdec:characterId="74" height="1.9" transform="matrix(6.9991, -0.2446, 0.0, 7.0, -31.399, -1.9687)" width="7.55" xlink:href="#shape0"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1769, 2.3174, -0.3629, 6.135, 15.74, -38.6033)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2348, -1.2145, 0.1863, 6.2425, 10.599, -33.4381)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(2.9805, 4.5617, -0.7114, 5.757, 11.4432, -51.0037)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2087, 1.878, -0.2943, 6.1944, 8.5116, -45.5909)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2208, -1.5118, 0.2325, 6.2169, 3.3532, -56.6963)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2447, -0.6662, 0.1008, 6.2625, -23.5586, -30.9254)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2447, -0.6662, 0.1008, 6.2625, -21.2086, -27.2254)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(2.8935, 5.1354, -0.8008, 5.5886, -18.0365, -43.4694)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2341, 0.5934, -0.0948, 6.2425, -16.7675, -54.0576)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.0095, -34.8958)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.0095, -41.1458)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.6095, -48.8458)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.6595, -57.9958)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.2095, -64.7958)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, -15.2595, -71.9458)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2516, -0.4683, 0.0705, 6.2764, -17.0051, -76.3611)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1923, 2.1333, -0.3342, 6.1637, -14.9336, -86.3174)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1415, 2.9027, -0.4536, 6.0671, -14.4414, -93.7821)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1638, 2.5616, -0.4008, 6.1089, -14.3203, -99.2073)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.0863, -3.5019, 0.5421, 5.9541, -17.0234, -103.4445)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, 7.5405, -41.6958)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, 7.9905, -48.4958)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2393, 1.0828, -0.1709, 6.2544, 7.9405, -55.6458)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2516, -0.4683, 0.0705, 6.2764, 9.0949, -60.5611)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2516, 0.0855, -0.016, 6.2768, 7.7679, -68.3434)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2509, -0.3165, 0.0468, 6.2747, 6.5929, -72.717)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2439, 0.5938, -0.0949, 6.2629, 8.0338, -80.8992)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1723, 2.3744, -0.3717, 6.1257, 7.8126, -91.5446)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2593, 0.7963, -0.0473, 6.3139, -2.6278, -24.964)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2572, 0.8474, -0.134, 6.2867, -9.257, -26.762)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2647, -0.4775, 0.0717, 6.3025, -14.6214, -23.1537)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="78" height="3.45" transform="matrix(3.2824, 1.9241, -0.3017, 6.3362, 3.5275, -51.9324)" width="1.9" xlink:href="#shape3"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.257, 0.1363, -0.0236, 6.2882, -18.0226, -23.2195)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.241, 1.2353, -0.1948, 6.2551, -13.351, -54.0063)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(2.6099, 6.8761, -1.0708, 5.0423, -9.1727, -61.3464)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.1733, 2.4167, -0.3781, 6.1265, -9.0571, -70.0347)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1192, -3.5381, 0.5477, 6.0181, -7.5205, -63.6213)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2185, -2.0186, 0.3114, 6.2114, -1.5522, -58.1533)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="78" height="3.45" transform="matrix(3.2619, -2.4191, 0.3737, 6.2927, -15.477, -42.9151)" width="1.9" xlink:href="#shape3"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.1902, -2.3659, 0.3655, 6.1548, -17.2506, -29.7091)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2123, 1.883, -0.2954, 6.203, 7.9178, -27.0331)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2556, -0.0262, 0.0017, 6.2825, 5.9894, -36.0542)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(2.8192, -5.7101, 0.8853, 5.4364, -7.3749, -77.9799)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2586, 1.3455, -0.2118, 6.2911, -12.3479, -25.495)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2154, 2.2928, -0.3591, 6.2084, -9.0581, -26.6743)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2287, -2.0242, 0.312, 6.2302, -6.3263, -27.939)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2832, -0.1194, 0.016, 6.338, 4.6206, -23.9006)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2826, -0.0162, 0.0, 6.3352, -0.9891, -31.2848)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2649, -0.9736, 0.1488, 6.2994, 2.9473, -33.9552)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.1779, -2.7177, 0.4199, 6.1307, -12.1082, -36.083)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.0694, -4.0653, 0.6294, 5.92, -8.2994, -35.1916)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.0652, 4.0842, -0.6376, 5.9203, -0.6434, -45.5289)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="76" height="2.85" transform="matrix(3.2764, -0.1786, 0.0253, 6.323, 1.3114, -53.1124)" width="2.15" xlink:href="#shape2"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.247, -1.5865, 0.2443, 6.2663, -4.898, -50.3166)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.2616, -0.8818, 0.1346, 6.2958, -8.7439, -56.7656)" width="2.05" xlink:href="#shape1"/>
+    <use ffdec:characterId="75" height="2.15" transform="matrix(3.1292, 3.3094, -0.5169, 6.0435, -3.9019, -72.7118)" width="2.05" xlink:href="#shape1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.15, 0.75)">
+      <path d="M2.0 -0.5 Q2.7 -0.85 3.6 -0.65 4.15 -0.65 4.7 -0.5 4.9 -0.5 5.1 -0.4 5.3 -0.35 5.9 0.0 6.5 0.35 6.35 0.45 L6.3 0.55 Q5.85 1.0 5.2 0.95 4.65 0.95 4.1 0.95 3.5 1.1 2.9 1.1 2.35 1.1 2.0 1.15 1.6 1.2 1.4 1.05 L1.3 1.05 Q0.3 1.25 -0.65 0.8 -0.75 0.7 -0.8 0.65 L-0.95 0.6 Q-1.35 0.45 -1.0 0.15 0.2 -0.95 1.85 -0.5 1.9 -0.5 2.0 -0.5" fill="#444444" fill-opacity="0.05490196" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.05, 2.0)">
+      <path d="M0.5 -1.5 L0.45 -1.55 0.45 -1.5 Q0.35 -1.5 0.25 -1.4 0.05 -1.3 -0.1 -1.1 -0.2 -0.95 -0.25 -0.8 L-0.2 -0.75 Q-0.1 -0.7 0.05 -0.7 0.3 -0.75 0.5 -0.95 0.65 -1.1 0.65 -1.2 0.65 -1.35 0.6 -1.45 0.55 -1.5 0.5 -1.5 M0.85 -1.25 L0.8 -1.2 Q0.5 -0.7 -0.05 -0.65 -0.6 -0.6 -0.8 -0.75 -0.9 -0.85 -0.95 -1.0 -0.9 -1.2 -0.8 -1.35 -0.6 -1.7 -0.1 -1.75 0.45 -1.8 0.75 -1.5 0.8 -1.4 0.85 -1.25 M-0.8 -0.9 L-0.8 -0.85 Q-0.8 -0.8 -0.75 -0.8 -0.65 -0.8 -0.35 -1.1 -0.05 -1.4 -0.05 -1.5 -0.05 -1.55 -0.05 -1.6 L-0.15 -1.6 -0.2 -1.65 -0.4 -1.6 Q-0.55 -1.55 -0.65 -1.45 -0.85 -1.25 -0.85 -1.15 -0.85 -1.0 -0.8 -0.9" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.5 -1.5 Q0.55 -1.5 0.6 -1.45 0.65 -1.35 0.65 -1.2 0.65 -1.1 0.5 -0.95 0.3 -0.75 0.05 -0.7 -0.1 -0.7 -0.2 -0.75 L-0.25 -0.8 Q-0.2 -0.95 -0.1 -1.1 0.05 -1.3 0.25 -1.4 0.35 -1.5 0.45 -1.5 L0.45 -1.55 0.5 -1.5 M-0.8 -0.9 Q-0.85 -1.0 -0.85 -1.15 -0.85 -1.25 -0.65 -1.45 -0.55 -1.55 -0.4 -1.6 L-0.2 -1.65 -0.15 -1.6 -0.05 -1.6 Q-0.05 -1.55 -0.05 -1.5 -0.05 -1.4 -0.35 -1.1 -0.65 -0.8 -0.75 -0.8 -0.8 -0.8 -0.8 -0.85 L-0.8 -0.9" fill="#fff25b" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.85 -1.25 L0.9 -1.2 Q0.9 -1.1 0.9 -1.05 L0.9 -1.0 0.85 -0.8 0.85 -0.7 0.8 -0.6 Q0.75 -0.5 0.7 -0.45 0.5 -0.2 0.05 -0.2 -0.65 -0.1 -0.9 -0.5 -0.95 -0.6 -0.95 -0.7 L-0.95 -0.85 Q-0.95 -0.95 -0.95 -1.0 -0.9 -0.85 -0.8 -0.75 -0.6 -0.6 -0.05 -0.65 0.5 -0.7 0.8 -1.2 L0.85 -1.25" fill="#ffc53c" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.95 -1.0 Q-0.95 -0.95 -0.95 -0.85 L-0.95 -0.7 Q-0.95 -0.6 -0.9 -0.5 -0.65 -0.1 0.05 -0.2 0.5 -0.2 0.7 -0.45 0.75 -0.5 0.8 -0.6 L0.85 -0.7 0.85 -0.8 0.9 -1.0 0.9 -1.05 Q0.9 -1.1 0.9 -1.2 L0.85 -1.25 Q0.8 -1.4 0.75 -1.5 0.45 -1.8 -0.1 -1.75 -0.6 -1.7 -0.8 -1.35 -0.9 -1.2 -0.95 -1.0 M1.0 -1.25 L1.0 -0.85 Q1.0 -0.75 1.0 -0.65 L1.0 -0.6 Q1.0 -0.5 0.9 -0.35 0.9 -0.3 0.85 -0.25 L0.75 -0.2 Q0.55 0.05 0.35 0.1 L-0.2 0.15 Q-0.7 0.0 -0.85 -0.2 -1.0 -0.3 -1.05 -0.55 L-1.05 -0.65 Q-1.05 -0.7 -1.05 -0.75 -1.05 -0.8 -1.05 -1.0 -1.1 -1.3 -0.8 -1.6 -0.45 -1.85 0.15 -2.0 0.75 -1.9 0.9 -1.55 1.0 -1.45 1.0 -1.25" fill="#ffbb3c" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.2, 2.25)">
+      <path d="M0.4 -1.7 L0.4 -1.75 Q0.2 -1.65 0.0 -1.55 -0.65 -1.2 -0.7 -0.85 L-0.6 -0.65 -0.65 -0.6 Q-0.6 -0.55 -0.5 -0.5 L-0.35 -0.45 Q-0.2 -0.45 0.15 -0.95 0.25 -1.15 0.35 -1.3 0.45 -1.5 0.45 -1.55 L0.4 -1.7 M0.65 -0.9 Q0.4 -0.7 0.25 -0.35 L0.25 -0.3 Q0.45 -0.4 0.6 -0.6 0.65 -0.75 0.7 -0.95 L0.65 -0.9 M0.8 -1.05 L0.75 -0.85 Q0.65 -0.5 0.5 -0.3 0.3 -0.1 -0.1 -0.15 -0.7 -0.25 -0.9 -0.75 -1.0 -1.0 -1.0 -1.4 L-0.95 -1.5 -0.9 -1.7 -0.8 -1.75 Q-0.6 -1.95 -0.4 -2.0 L0.0 -2.0 Q0.1 -1.95 0.25 -1.9 0.55 -1.8 0.65 -1.5 0.7 -1.4 0.75 -1.25 L0.75 -1.15 0.8 -1.05 M-0.05 -1.9 Q-0.35 -1.95 -0.6 -1.75 -0.8 -1.55 -0.85 -1.2 L-0.85 -1.25 Q-0.85 -1.15 -0.8 -1.15 -0.65 -1.1 -0.35 -1.5 -0.15 -1.7 -0.05 -1.9" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.65 -0.9 L0.7 -0.95 Q0.65 -0.75 0.6 -0.6 0.45 -0.4 0.25 -0.3 L0.25 -0.35 Q0.4 -0.7 0.65 -0.9 M0.4 -1.7 L0.45 -1.55 Q0.45 -1.5 0.35 -1.3 0.25 -1.15 0.15 -0.95 -0.2 -0.45 -0.35 -0.45 L-0.5 -0.5 Q-0.6 -0.55 -0.65 -0.6 L-0.6 -0.65 -0.7 -0.85 Q-0.65 -1.2 0.0 -1.55 0.2 -1.65 0.4 -1.75 L0.4 -1.7 M-0.05 -1.9 Q-0.15 -1.7 -0.35 -1.5 -0.65 -1.1 -0.8 -1.15 -0.85 -1.15 -0.85 -1.25 L-0.85 -1.2 Q-0.8 -1.55 -0.6 -1.75 -0.35 -1.95 -0.05 -1.9" fill="#fff25b" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.8 -1.05 L0.8 -0.95 Q0.8 -0.85 0.8 -0.7 L0.8 -0.5 Q0.8 -0.4 0.75 -0.3 0.7 -0.15 0.55 -0.05 0.3 0.3 -0.15 0.25 -0.55 0.15 -0.75 -0.05 -0.95 -0.25 -1.0 -0.6 -1.05 -0.85 -1.05 -1.05 -1.05 -1.25 -1.0 -1.4 L-1.0 -1.5 -0.95 -1.5 -1.0 -1.4 Q-1.0 -1.0 -0.9 -0.75 -0.7 -0.25 -0.1 -0.15 0.3 -0.1 0.5 -0.3 0.65 -0.5 0.75 -0.85 L0.8 -1.05" fill="#ffc53c" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.95 -1.5 L-1.0 -1.5 -1.0 -1.4 Q-1.05 -1.25 -1.05 -1.05 -1.05 -0.85 -1.0 -0.6 -0.95 -0.25 -0.75 -0.05 -0.55 0.15 -0.15 0.25 0.3 0.3 0.55 -0.05 0.7 -0.15 0.75 -0.3 0.8 -0.4 0.8 -0.5 L0.8 -0.7 Q0.8 -0.85 0.8 -0.95 L0.8 -1.05 0.75 -1.15 0.75 -1.25 Q0.7 -1.4 0.65 -1.5 0.55 -1.8 0.25 -1.9 0.1 -1.95 0.0 -2.0 L-0.4 -2.0 Q-0.6 -1.95 -0.8 -1.75 L-0.9 -1.7 -0.95 -1.5 M0.95 -0.7 L0.9 -0.55 Q0.9 -0.2 0.8 0.05 L0.75 0.1 Q0.7 0.25 0.55 0.35 0.25 0.65 -0.15 0.6 -0.65 0.5 -0.95 -0.05 -1.05 -0.25 -1.15 -0.5 -1.2 -0.7 -1.2 -0.8 L-1.15 -0.9 Q-1.2 -0.95 -1.15 -1.05 -1.15 -1.4 -1.1 -1.6 -1.05 -1.75 -0.95 -1.85 -0.9 -1.9 -0.8 -2.0 -0.55 -2.25 -0.15 -2.25 0.4 -2.1 0.65 -1.85 L0.9 -1.45 Q0.95 -1.3 0.95 -1.05 0.95 -0.9 0.95 -0.7" fill="#ffbb3c" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 2.85)">
+      <path d="M0.05 -2.0 Q-0.05 -1.9 -0.1 -1.6 -0.1 -1.55 -0.2 -1.1 -0.3 -0.75 -0.3 -0.55 L-0.2 0.0 Q0.1 0.05 0.3 -0.05 L0.3 -0.25 0.35 -0.45 0.5 -0.9 Q0.55 -1.15 0.6 -1.35 L0.65 -1.45 Q0.6 -1.7 0.5 -1.85 0.45 -2.05 0.35 -2.15 0.15 -2.15 0.05 -2.0 M0.75 -0.8 L0.75 -0.85 Q0.7 -0.65 0.65 -0.5 0.4 0.15 -0.15 0.15 -0.65 0.15 -0.8 -0.6 -0.9 -0.95 -0.9 -1.4 -0.9 -1.5 -0.85 -1.6 -0.8 -1.95 -0.65 -2.2 -0.45 -2.45 -0.15 -2.5 L-0.15 -2.55 Q0.45 -2.6 0.65 -1.9 0.75 -1.6 0.75 -1.05 L0.75 -0.8 M-0.7 -1.9 Q-0.85 -1.6 -0.85 -1.35 -0.85 -1.2 -0.8 -1.0 -0.75 -0.8 -0.7 -0.65 -0.45 -0.95 -0.4 -1.2 -0.3 -1.45 -0.25 -1.7 -0.15 -2.15 -0.15 -2.3 L-0.15 -2.35 -0.25 -2.35 Q-0.55 -2.25 -0.7 -1.9" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.05 -2.0 Q0.15 -2.15 0.35 -2.15 0.45 -2.05 0.5 -1.85 0.6 -1.7 0.65 -1.45 L0.6 -1.35 Q0.55 -1.15 0.5 -0.9 L0.35 -0.45 0.3 -0.25 0.3 -0.05 Q0.1 0.05 -0.2 0.0 L-0.3 -0.55 Q-0.3 -0.75 -0.2 -1.1 -0.1 -1.55 -0.1 -1.6 -0.05 -1.9 0.05 -2.0 M-0.7 -1.9 Q-0.55 -2.25 -0.25 -2.35 L-0.15 -2.35 -0.15 -2.3 Q-0.15 -2.15 -0.25 -1.7 -0.3 -1.45 -0.4 -1.2 -0.45 -0.95 -0.7 -0.65 -0.75 -0.8 -0.8 -1.0 -0.85 -1.2 -0.85 -1.35 -0.85 -1.6 -0.7 -1.9" fill="#fff25b" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.9 -1.4 Q-0.9 -0.95 -0.8 -0.6 -0.65 0.15 -0.15 0.15 0.4 0.15 0.65 -0.5 0.7 -0.65 0.75 -0.85 L0.75 -0.8 0.65 -0.25 Q0.45 0.35 -0.15 0.35 -0.7 0.3 -0.85 -0.45 -0.9 -0.75 -0.9 -1.3 L-0.9 -1.4" fill="#ffc53c" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.9 -1.4 L-0.9 -1.3 Q-0.9 -0.75 -0.85 -0.45 -0.7 0.3 -0.15 0.35 0.45 0.35 0.65 -0.25 L0.75 -0.8 0.75 -1.05 Q0.75 -1.6 0.65 -1.9 0.45 -2.6 -0.15 -2.55 L-0.15 -2.5 Q-0.45 -2.45 -0.65 -2.2 -0.8 -1.95 -0.85 -1.6 -0.9 -1.5 -0.9 -1.4 M0.9 -1.3 Q0.9 0.65 -0.15 0.6 -0.65 0.55 -0.9 -0.15 -0.95 -0.4 -1.0 -0.65 -1.0 -0.85 -1.0 -0.95 -1.0 -1.9 -0.75 -2.4 -0.45 -2.85 -0.05 -2.85 0.3 -2.8 0.6 -2.4 0.9 -2.0 0.9 -1.3" fill="#ffbb3c" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
