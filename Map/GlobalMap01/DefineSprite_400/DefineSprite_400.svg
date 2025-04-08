@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="638.5px" width="1114.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -10.55, -14.25)">
+    <use ffdec:characterId="377" height="243.05" id="am_OldMineMountain" transform="matrix(1.0, 0.0, 0.0, 1.0, 680.15, 14.6)" width="374.3" xlink:href="#sprite0"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 870.5, 196.25)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 782.25, 214.5)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 969.75, 179.25)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 880.75, 163.5)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission6" transform="matrix(1.0, 0.0, 0.0, 1.0, 990.5, 81.25)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission7" transform="matrix(1.0, 0.0, 0.0, 1.0, 1028.5, 14.25)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission8" transform="matrix(1.0, 0.0, 0.0, 1.0, 850.0, 224.0)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission9" transform="matrix(1.0, 0.0, 0.0, 1.0, 865.25, 227.0)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission10" transform="matrix(1.0, 0.0, 0.0, 1.0, 890.0, 228.75)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 751.15, 203.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_OMM_Mission11" transform="matrix(1.0, 0.0, 0.0, 1.0, 990.4, 216.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 586.85, 270.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 515.45, 267.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 414.75, 249.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 342.95, 248.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 541.4, 220.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="381" height="97.0" id="am_Castle" transform="matrix(1.0, 0.0, 0.0, 1.0, 342.4, 222.1)" width="302.5" xlink:href="#sprite10"/>
+    <use ffdec:characterId="380" height="14.0" id="am_AC_Mission6" transform="matrix(1.0, 0.0, 0.0, 1.0, 549.65, 296.45)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_EG_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 1013.6, 267.45)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_EG_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1085.35, 239.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_EG_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1019.6, 238.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_EG_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 906.85, 291.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_EG_Mission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 866.6, 270.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="386" height="95.2" id="am_EmeraldGlades" transform="matrix(1.0, 0.0, 0.0, 1.0, 873.0, 216.9)" width="252.25" xlink:href="#sprite11"/>
+    <use ffdec:characterId="387" height="123.3" id="am_BridgeTown" transform="matrix(1.0, 0.0, 0.0, 1.0, 667.95, 268.95)" width="163.45" xlink:href="#sprite14"/>
+    <use ffdec:characterId="380" height="14.0" id="am_BT_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 798.85, 307.0)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_BT_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 771.85, 331.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_BT_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 816.35, 292.75)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_BT_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 674.85, 310.05)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="388" height="129.5" id="am_CemeteryHill" transform="matrix(1.0, 0.0, 0.0, 1.0, 753.0, 300.7)" width="329.75" xlink:href="#sprite15"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 862.2, 353.6)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 796.95, 396.85)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 933.25, 344.85)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 888.95, 349.1)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 760.25, 404.35)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission6" transform="matrix(1.0, 0.0, 0.0, 1.0, 963.45, 304.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission7" transform="matrix(1.0, 0.0, 0.0, 1.0, 988.7, 311.95)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_CH_Mission8" transform="matrix(1.0, 0.0, 0.0, 1.0, 1038.7, 299.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 870.2, 408.2)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 878.1, 419.6)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 884.85, 408.35)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 900.85, 404.1)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 1018.1, 349.6)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission6" transform="matrix(1.0, 0.0, 0.0, 1.0, 1030.6, 348.35)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission7" transform="matrix(1.0, 0.0, 0.0, 1.0, 1039.1, 363.1)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission8" transform="matrix(1.0, 0.0, 0.0, 1.0, 1053.85, 362.6)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="391" height="14.0" id="am_CH_MiniMission9" transform="matrix(1.0, 0.0, 0.0, 1.0, 1056.4, 347.45)" width="14.0" xlink:href="#sprite16"/>
+    <use ffdec:characterId="396" height="297.4" id="am_NewbieRoad" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.55, 276.05)" width="473.05" xlink:href="#sprite18"/>
+    <use ffdec:characterId="380" height="14.0" id="am_GhostBossDungeon" transform="matrix(1.0, 0.0, 0.0, 1.0, 263.35, 499.4)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_DreamDragonDungeon" transform="matrix(1.0, 0.0, 0.0, 1.0, 290.9, 362.35)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="397" height="108.0" id="am_SwampRoadConnectionMission" transform="matrix(1.0, 0.0, 0.0, 1.0, 539.7, 364.35)" width="176.5" xlink:href="#sprite21"/>
+    <use ffdec:characterId="380" height="14.0" id="am_TutorialDungeon" transform="matrix(1.0, 0.0, 0.0, 1.0, 163.95, 372.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_TutorialBoat" transform="matrix(1.0, 0.0, 0.0, 1.0, 80.95, 287.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission5" transform="matrix(1.0, 0.0, 0.0, 1.0, 947.2, 503.2)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission7" transform="matrix(1.0, 0.0, 0.0, 1.0, 779.15, 446.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission6" transform="matrix(1.0, 0.0, 0.0, 1.0, 845.7, 490.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission4" transform="matrix(1.0, 0.0, 0.0, 1.0, 970.7, 549.75)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission3" transform="matrix(1.0, 0.0, 0.0, 1.0, 853.2, 545.75)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission2" transform="matrix(1.0, 0.0, 0.0, 1.0, 732.15, 594.75)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="380" height="14.0" id="am_SRN_Mission1" transform="matrix(1.0, 0.0, 0.0, 1.0, 670.15, 495.7)" width="14.0" xlink:href="#sprite8"/>
+    <use ffdec:characterId="398" height="199.9" id="am_SwampRoadNorth" transform="matrix(1.0, 0.0, 0.0, 1.0, 485.9, 452.85)" width="508.9" xlink:href="#sprite22"/>
+    <use ffdec:characterId="399" height="108.0" id="am_SwampRoadConnection" transform="matrix(1.0, 0.0, 0.0, 1.0, 526.8, 376.2)" width="176.5" xlink:href="#sprite23"/>
+    <use ffdec:characterId="399" height="108.0" id="am_SwampRoadConnectionMission" transform="matrix(1.0, 0.0, 0.0, 1.0, 520.9, 372.7)" width="176.5" xlink:href="#sprite23"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, -685.15, -46.6)">
+      <use ffdec:characterId="364" height="14.0" id="am_Path7" transform="matrix(1.0, 0.0, 0.0, 1.0, 975.15, 115.75)" width="14.0" xlink:href="#sprite1"/>
+      <use ffdec:characterId="366" height="14.0" id="am_Path6" transform="matrix(1.0, 0.0, 0.0, 1.0, 980.9, 257.9)" width="14.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="368" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 886.6, 198.05)" width="14.0" xlink:href="#sprite3"/>
+      <use ffdec:characterId="370" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 885.1, 196.65)" width="14.0" xlink:href="#sprite4"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 849.2, 200.3)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 765.7, 235.55)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 771.2, 234.45)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 720.4, 275.65)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="363" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.25 -0.65 L0.1 -0.6 -0.6 -0.6 -0.6 -0.5 -0.65 -0.4 -0.65 -0.35 0.15 -0.35 -0.05 0.15 -0.35 0.65 -0.3 0.7 -0.05 0.7 0.0 0.65 0.15 0.35 0.2 0.2 0.3 0.0 0.45 -0.55 0.45 -0.65 0.25 -0.65 M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.25 -0.65 L0.45 -0.65 0.45 -0.55 0.3 0.0 0.2 0.2 0.15 0.35 0.0 0.65 -0.05 0.7 -0.3 0.7 -0.35 0.65 -0.05 0.15 0.15 -0.35 -0.65 -0.35 -0.65 -0.4 -0.6 -0.5 -0.6 -0.6 0.1 -0.6 0.25 -0.65" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="365" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7 M-0.35 0.3 Q-0.35 0.15 -0.05 0.1 0.2 0.1 0.2 0.25 0.15 0.45 -0.2 0.45 L-0.3 0.4 -0.35 0.3 M0.1 -0.55 L0.3 -0.55 Q0.2 -0.8 -0.1 -0.6 -0.35 -0.45 -0.4 -0.3 L-0.55 0.3 Q-0.45 0.65 -0.1 0.65 0.2 0.65 0.35 0.45 0.4 0.35 0.4 0.25 0.4 0.15 0.35 0.05 0.2 -0.1 -0.05 -0.1 L-0.35 -0.05 -0.25 -0.35 Q-0.15 -0.55 0.1 -0.55" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.1 -0.55 Q-0.15 -0.55 -0.25 -0.35 L-0.35 -0.05 -0.05 -0.1 Q0.2 -0.1 0.35 0.05 0.4 0.15 0.4 0.25 0.4 0.35 0.35 0.45 0.2 0.65 -0.1 0.65 -0.45 0.65 -0.55 0.3 L-0.4 -0.3 Q-0.35 -0.45 -0.1 -0.6 0.2 -0.8 0.3 -0.55 L0.1 -0.55 M-0.35 0.3 L-0.3 0.4 -0.2 0.45 Q0.15 0.45 0.2 0.25 0.2 0.1 -0.05 0.1 -0.35 0.15 -0.35 0.3" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="367" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7 M0.45 -0.5 L0.55 -0.6 Q0.55 -0.65 0.5 -0.65 0.45 -0.7 0.35 -0.6 L-0.25 -0.6 -0.4 -0.65 -0.5 -0.55 -0.45 -0.3 -0.45 0.15 Q-0.45 0.25 -0.35 0.25 L-0.2 0.25 0.25 0.15 Q0.5 0.15 0.5 0.35 0.5 0.45 0.35 0.5 0.2 0.6 -0.1 0.6 L-0.3 0.55 -0.4 0.5 Q-0.5 0.5 -0.5 0.6 L-0.4 0.7 Q-0.3 0.8 -0.1 0.8 0.3 0.8 0.5 0.65 0.65 0.5 0.65 0.35 0.65 0.05 0.35 0.0 0.1 0.0 -0.15 0.1 L-0.25 0.15 -0.25 -0.4 0.3 -0.4 Q0.4 -0.45 0.45 -0.5" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.45 -0.5 Q0.4 -0.45 0.3 -0.4 L-0.25 -0.4 -0.25 0.15 -0.15 0.1 Q0.1 0.0 0.35 0.0 0.65 0.05 0.65 0.35 0.65 0.5 0.5 0.65 0.3 0.8 -0.1 0.8 -0.3 0.8 -0.4 0.7 L-0.5 0.6 Q-0.5 0.5 -0.4 0.5 L-0.3 0.55 -0.1 0.6 Q0.2 0.6 0.35 0.5 0.5 0.45 0.5 0.35 0.5 0.15 0.25 0.15 L-0.2 0.25 -0.35 0.25 Q-0.45 0.25 -0.45 0.15 L-0.45 -0.3 -0.5 -0.55 -0.4 -0.65 -0.25 -0.6 0.35 -0.6 Q0.45 -0.7 0.5 -0.65 0.55 -0.65 0.55 -0.6 L0.45 -0.5" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="369" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7 M0.15 0.0 L0.15 -0.05 0.2 -0.7 Q0.2 -1.05 0.05 -0.6 L0.0 -0.15 0.0 0.0 -0.45 0.0 -0.35 -0.35 Q-0.3 -0.65 -0.3 -0.75 L-0.35 -0.8 Q-0.35 -0.85 -0.4 -0.85 L-0.5 -0.45 -0.6 0.1 Q-0.6 0.2 -0.45 0.2 L-0.05 0.15 -0.05 0.25 -0.1 0.65 Q-0.15 0.8 -0.05 0.8 0.05 0.8 0.05 0.7 0.05 0.55 0.1 0.15 L0.4 0.15 0.5 0.1 0.5 0.05 Q0.5 -0.05 0.4 -0.05 L0.35 0.0 0.15 0.0" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 0.0 L0.35 0.0 0.4 -0.05 Q0.5 -0.05 0.5 0.05 L0.5 0.1 0.4 0.15 0.1 0.15 Q0.05 0.55 0.05 0.7 0.05 0.8 -0.05 0.8 -0.15 0.8 -0.1 0.65 L-0.05 0.25 -0.05 0.15 -0.45 0.2 Q-0.6 0.2 -0.6 0.1 L-0.5 -0.45 -0.4 -0.85 Q-0.35 -0.85 -0.35 -0.8 L-0.3 -0.75 Q-0.3 -0.65 -0.35 -0.35 L-0.45 0.0 0.0 0.0 0.0 -0.15 0.05 -0.6 Q0.2 -1.05 0.2 -0.7 L0.15 -0.05 0.15 0.0" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="371" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape4"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.35 -0.5 Q0.35 -0.4 0.3 -0.25 0.55 -0.1 0.65 0.0 0.7 0.1 0.7 0.25 0.7 0.35 0.6 0.45 0.5 0.65 0.25 0.65 0.1 0.65 -0.25 0.5 L-0.55 0.35 Q-0.55 0.25 -0.5 0.25 L-0.3 0.2 Q-0.15 0.2 0.0 0.3 L0.25 0.35 Q0.4 0.35 0.4 0.3 L0.45 0.2 Q0.45 0.15 0.35 0.05 0.2 -0.05 -0.1 -0.1 L-0.2 -0.15 -0.2 -0.2 Q-0.2 -0.25 -0.15 -0.25 0.0 -0.3 0.15 -0.45 L0.15 -0.5 0.1 -0.5 -0.2 -0.45 -0.45 -0.4 -0.55 -0.4 -0.55 -0.5 Q-0.55 -0.55 -0.35 -0.65 -0.1 -0.75 0.15 -0.75 0.3 -0.7 0.35 -0.5" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="373" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 -0.4 Q0.1 -0.65 0.0 -0.65 -0.25 -0.65 -0.35 -0.55 L-0.45 -0.35 Q-0.55 -0.45 -0.55 -0.55 -0.55 -1.0 -0.05 -0.85 0.45 -0.7 0.45 -0.15 0.45 0.05 0.35 0.3 L0.75 0.3 Q0.8 0.3 0.85 0.35 L0.9 0.4 Q0.9 0.65 0.5 0.65 L0.25 0.6 0.2 0.55 Q0.15 0.55 0.05 0.6 L-0.05 0.6 Q-0.25 0.6 -0.3 0.45 L-0.3 0.3 Q-0.3 0.15 -0.3 0.1 -0.2 0.0 0.2 0.05 L0.2 -0.15 0.15 -0.4" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="375" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7 M0.8 0.4 Q0.7 0.25 0.3 0.2 L0.25 -0.9 Q-0.1 -1.0 -0.2 -0.85 -0.3 -0.5 -0.35 -0.25 L-0.35 -0.2 -0.2 -0.2 Q-0.1 -0.2 -0.05 -0.2 L0.0 -0.25 0.0 0.2 Q-0.45 0.45 -0.45 0.5 L-0.45 0.7 -0.05 0.7 0.35 0.65 Q0.7 0.6 0.8 0.4" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.8 0.4 Q0.7 0.6 0.35 0.65 L-0.05 0.7 -0.45 0.7 -0.45 0.5 Q-0.45 0.45 0.0 0.2 L0.0 -0.25 -0.05 -0.2 Q-0.1 -0.2 -0.2 -0.2 L-0.35 -0.2 -0.35 -0.25 Q-0.3 -0.5 -0.2 -0.85 -0.1 -1.0 0.25 -0.9 L0.3 0.2 Q0.7 0.25 0.8 0.4" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="379" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, -7.0, -7.0)" width="14.0" xlink:href="#sprite9"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="378" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ffff00" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.35 -0.25 L0.25 -0.05 Q0.15 0.1 0.05 0.1 -0.05 0.1 -0.2 -0.1 L-0.35 -0.4 -0.4 0.2 Q-0.45 0.55 -0.55 0.55 -0.65 0.55 -0.6 0.35 L-0.55 -0.25 -0.6 -0.55 Q-0.6 -0.75 -0.4 -0.75 -0.35 -0.75 -0.2 -0.55 L0.05 -0.15 0.35 -0.75 Q0.4 -0.85 0.55 -0.7 L0.55 -0.1 Q0.55 -0.05 0.55 0.2 L0.55 0.4 0.6 0.5 0.6 0.6 Q0.6 0.75 0.5 0.75 0.4 0.75 0.35 0.65 L0.35 -0.25" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, -174.95, 53.5)">
+      <use ffdec:characterId="364" height="14.0" id="am_Path7" transform="matrix(1.0, 0.0, 0.0, 1.0, 352.45, -5.25)" width="14.0" xlink:href="#sprite1"/>
+      <use ffdec:characterId="366" height="14.0" id="am_Path6" transform="matrix(1.0, 0.0, 0.0, 1.0, 325.45, -9.5)" width="14.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="368" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 342.45, 0.0)" width="14.0" xlink:href="#sprite3"/>
+      <use ffdec:characterId="370" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 344.95, -53.5)" width="14.0" xlink:href="#sprite4"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 408.95, -4.5)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 447.95, 6.5)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 463.45, 10.0)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, -836.0, -370.4)">
+      <use ffdec:characterId="383" height="14.0" id="am_Path9" transform="matrix(1.0, 0.0, 0.0, 1.0, 986.75, 395.4)" width="14.0" xlink:href="#sprite12"/>
+      <use ffdec:characterId="385" height="14.0" id="am_Path8" transform="matrix(1.0, 0.0, 0.0, 1.0, 922.0, 429.65)" width="14.0" xlink:href="#sprite13"/>
+      <use ffdec:characterId="364" height="14.0" id="am_Path7" transform="matrix(1.0, 0.0, 0.0, 1.0, 919.25, 428.15)" width="14.0" xlink:href="#sprite1"/>
+      <use ffdec:characterId="366" height="14.0" id="am_Path6" transform="matrix(1.0, 0.0, 0.0, 1.0, 953.75, 431.65)" width="14.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="368" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 1062.0, 417.4)" width="14.0" xlink:href="#sprite3"/>
+      <use ffdec:characterId="370" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 1032.75, 398.65)" width="14.0" xlink:href="#sprite4"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 1074.25, 379.65)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1030.25, 370.4)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1030.5, 370.65)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite12" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="382" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.4 -0.65 L0.35 -0.65 0.4 -0.6 0.45 -0.55 0.45 -0.6 0.4 -0.65 M0.15 -0.35 L0.0 -0.3 -0.2 -0.2 -0.3 -0.25 -0.3 -0.3 -0.2 -0.35 -0.05 -0.4 Q0.1 -0.45 0.2 -0.35 L0.15 -0.35 M0.35 -0.65 L0.25 -0.65 0.15 -0.75 -0.05 -0.7 -0.3 -0.6 Q-0.55 -0.5 -0.6 -0.35 L-0.6 -0.25 Q-0.6 -0.2 -0.55 -0.1 -0.5 0.0 -0.15 0.0 L0.0 -0.05 0.05 -0.05 0.1 -0.15 0.1 -0.1 0.0 0.3 -0.05 0.65 -0.05 0.7 0.0 0.85 0.05 0.85 Q0.2 0.7 0.35 0.25 L0.5 -0.3 0.5 -0.45 0.45 -0.5 0.35 -0.65 M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.4 -0.6 L0.35 -0.65 0.4 -0.65 0.4 -0.6 M0.35 -0.65 L0.45 -0.5 0.5 -0.45 0.5 -0.3 0.35 0.25 Q0.2 0.7 0.05 0.85 L0.0 0.85 -0.05 0.7 -0.05 0.65 0.0 0.3 0.1 -0.1 0.1 -0.15 0.05 -0.05 0.0 -0.05 -0.15 0.0 Q-0.5 0.0 -0.55 -0.1 -0.6 -0.2 -0.6 -0.25 L-0.6 -0.35 Q-0.55 -0.5 -0.3 -0.6 L-0.05 -0.7 0.15 -0.75 0.25 -0.65 0.35 -0.65 M0.15 -0.35 L0.2 -0.35 Q0.1 -0.45 -0.05 -0.4 L-0.2 -0.35 -0.3 -0.3 -0.3 -0.25 -0.2 -0.2 0.0 -0.3 0.15 -0.35" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite13" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="384" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.15 -0.3 L0.15 -0.35 Q0.1 -0.6 -0.15 -0.6 -0.35 -0.6 -0.45 -0.45 L-0.55 -0.35 -0.55 -0.15 -0.5 -0.05 -0.4 0.05 -0.3 0.2 -0.4 0.5 -0.4 0.65 -0.3 0.75 0.05 0.75 0.3 0.55 0.3 0.4 Q0.3 0.3 0.25 0.15 L0.15 0.0 0.15 -0.3 M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7 M0.1 0.4 L0.05 0.45 Q0.0 0.55 -0.15 0.55 L-0.2 0.55 -0.2 0.5 Q-0.2 0.4 -0.05 0.3 0.1 0.15 0.1 0.4 M-0.25 -0.35 L0.0 -0.35 0.0 -0.3 Q-0.1 -0.05 -0.2 -0.05 L-0.3 -0.1 -0.35 -0.2 Q-0.35 -0.25 -0.25 -0.35" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 -0.3 L0.15 0.0 0.25 0.15 Q0.3 0.3 0.3 0.4 L0.3 0.55 0.05 0.75 -0.3 0.75 -0.4 0.65 -0.4 0.5 -0.3 0.2 -0.4 0.05 -0.5 -0.05 -0.55 -0.15 -0.55 -0.35 -0.45 -0.45 Q-0.35 -0.6 -0.15 -0.6 0.1 -0.6 0.15 -0.35 L0.15 -0.3 M0.1 0.4 Q0.1 0.15 -0.05 0.3 -0.2 0.4 -0.2 0.5 L-0.2 0.55 -0.15 0.55 Q0.0 0.55 0.05 0.45 L0.1 0.4 M0.0 -0.35 L-0.25 -0.35 Q-0.35 -0.25 -0.35 -0.2 L-0.3 -0.1 -0.2 -0.05 Q-0.1 -0.05 0.0 -0.3 L0.0 -0.35" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite14" transform="matrix(1.0, 0.0, 0.0, 1.0, -393.0, -255.45)">
+      <use ffdec:characterId="368" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 415.6, 344.25)" width="14.0" xlink:href="#sprite3"/>
+      <use ffdec:characterId="370" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 514.45, 294.15)" width="14.0" xlink:href="#sprite4"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 477.35, 300.85)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 441.45, 284.4)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 399.95, 364.75)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite15" transform="matrix(1.0, 0.0, 0.0, 1.0, -433.0, -320.2)">
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 653.5, 367.7)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 513.5, 426.2)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 433.0, 428.45)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite16" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="390" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, -7.0, -7.0)" width="14.0" xlink:href="#sprite17"/>
+    </g>
+    <g id="sprite17" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="389" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape10"/>
+    </g>
+    <g id="shape10" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#d9ad00" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.25 0.0 L0.4 0.2 0.5 0.0 0.55 -0.15 Q0.6 -0.2 0.7 -0.1 L0.7 0.6 0.65 0.7 0.55 0.6 0.55 0.15 0.5 0.25 0.4 0.35 Q0.35 0.35 0.25 0.25 L0.15 0.05 0.15 0.4 Q0.1 0.6 0.05 0.6 0.0 0.6 0.0 0.45 L0.05 0.15 0.05 -0.05 Q0.05 -0.15 0.15 -0.15 L0.25 0.0 M0.0 -0.3 L0.0 0.1 Q0.0 0.15 -0.05 0.15 L-0.15 0.05 -0.15 -0.35 -0.1 -0.35 -0.1 -0.4 -0.2 -0.3 Q-0.25 -0.2 -0.3 -0.2 -0.35 -0.2 -0.45 -0.3 L-0.55 -0.45 -0.55 -0.15 -0.6 0.05 Q-0.7 0.05 -0.65 -0.05 L-0.65 -0.55 Q-0.65 -0.7 -0.55 -0.7 L-0.45 -0.55 -0.3 -0.35 -0.15 -0.65 Q-0.1 -0.75 0.0 -0.65 L0.0 -0.3" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite18" transform="matrix(1.0, 0.0, 0.0, 1.0, -10.55, 36.9)">
+      <use ffdec:characterId="393" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 457.55, 82.4)" width="14.0" xlink:href="#sprite19"/>
+      <use ffdec:characterId="395" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 330.05, 85.15)" width="14.0" xlink:href="#sprite20"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 419.55, 109.7)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 231.3, 59.65)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 128.75, -36.9)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite19" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="392" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape11"/>
+    </g>
+    <g id="shape11" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.45 -0.4 L-0.15 -0.4 -0.1 -0.2 Q0.25 -0.25 0.4 0.0 0.5 0.2 0.5 0.35 0.5 0.5 0.45 0.55 L0.2 0.8 Q0.0 0.8 -0.25 0.65 -0.5 0.5 -0.5 0.4 L-0.5 0.3 -0.35 0.3 Q-0.25 0.3 -0.15 0.4 L0.0 0.55 Q0.1 0.55 0.2 0.5 0.25 0.45 0.25 0.4 L0.25 0.25 0.2 0.05 -0.05 0.05 -0.2 0.2 -0.35 0.15 -0.4 -0.35 Q-0.45 -0.45 -0.35 -0.55 -0.2 -0.75 0.4 -0.65 L0.5 -0.55 0.5 -0.45 0.45 -0.4" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite20" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.0, 7.0)">
+      <use ffdec:characterId="394" height="2.0" transform="matrix(7.0, 0.0, 0.0, 7.0, -7.0, -7.0)" width="2.0" xlink:href="#shape12"/>
+    </g>
+    <g id="shape12" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 1.0)">
+      <path d="M0.7 -0.7 Q1.0 -0.4 1.0 0.0 1.0 0.4 0.7 0.7 0.4 1.0 0.0 1.0 -0.4 1.0 -0.7 0.7 -1.0 0.4 -1.0 0.0 -1.0 -0.4 -0.7 -0.7 -0.4 -1.0 0.0 -1.0 0.4 -1.0 0.7 -0.7" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 -0.6 Q0.2 -0.7 0.4 -0.65 L0.5 0.35 0.5 0.5 Q0.45 0.65 0.35 0.65 L0.25 0.6 0.15 0.15 Q0.05 0.15 -0.3 0.25 L-0.55 0.25 Q-0.6 0.2 -0.6 0.1 L-0.6 -0.35 Q-0.6 -0.6 -0.45 -0.6 L-0.35 -0.55 -0.3 -0.55 -0.3 -0.45 -0.35 -0.3 -0.35 0.0 Q0.2 -0.05 0.2 -0.4 L0.15 -0.6" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite21" transform="matrix(1.0, 0.0, 0.0, 1.0, -188.8, -273.2)">
+      <use ffdec:characterId="380" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 188.8, 367.2)" width="14.0" xlink:href="#sprite8"/>
+    </g>
+    <g id="sprite22" transform="matrix(1.0, 0.0, 0.0, 1.0, -22.15, -365.75)">
+      <use ffdec:characterId="366" height="14.0" id="am_Path6" transform="matrix(1.0, 0.0, 0.0, 1.0, 194.15, 502.9)" width="14.0" xlink:href="#sprite2"/>
+      <use ffdec:characterId="368" height="14.0" id="am_Path5" transform="matrix(1.0, 0.0, 0.0, 1.0, 289.4, 433.65)" width="14.0" xlink:href="#sprite3"/>
+      <use ffdec:characterId="370" height="14.0" id="am_Path4" transform="matrix(1.0, 0.0, 0.0, 1.0, 415.9, 419.4)" width="14.0" xlink:href="#sprite4"/>
+      <use ffdec:characterId="372" height="14.0" id="am_Path3" transform="matrix(1.0, 0.0, 0.0, 1.0, 437.4, 449.4)" width="14.0" xlink:href="#sprite5"/>
+      <use ffdec:characterId="374" height="14.0" id="am_Path2" transform="matrix(1.0, 0.0, 0.0, 1.0, 237.75, 419.2)" width="14.0" xlink:href="#sprite6"/>
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 64.65, 386.75)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+    <g id="sprite23" transform="matrix(1.0, 0.0, 0.0, 1.0, -188.8, -273.2)">
+      <use ffdec:characterId="376" height="14.0" id="am_Path1" transform="matrix(1.0, 0.0, 0.0, 1.0, 188.8, 367.2)" width="14.0" xlink:href="#sprite7"/>
+    </g>
+  </defs>
+</svg>
