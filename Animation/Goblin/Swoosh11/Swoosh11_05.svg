@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="195.65px" width="240.1px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 240.1, 195.65)">
+    <use ffdec:characterId="199" height="27.95" transform="matrix(7.0, 0.0, 0.0, 7.0, -240.1, -195.65)" width="34.3" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.3, 27.95)">
+      <path d="M-27.4 -24.7 Q-23.6 -27.05 -18.4 -27.7 -12.65 -28.45 -5.85 -27.0 -14.25 -26.2 -19.05 -22.8 -21.2 -21.3 -22.3 -19.45 -23.4 -17.7 -23.4 -15.85 -23.45 -14.0 -22.45 -12.35 -21.4 -10.65 -19.45 -9.35 -15.1 -6.5 -7.75 -6.5 -3.6 -5.6 -1.7 -4.5 -0.1 -3.6 0.0 -2.35 -8.15 -0.05 -14.85 0.0 -20.95 0.0 -25.45 -1.85 -29.55 -3.5 -31.85 -6.55 -34.05 -9.35 -34.25 -12.8 -34.45 -16.2 -32.75 -19.3 -30.9 -22.55 -27.4 -24.7" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0121, 0.005, -0.0065, 0.0158, -13.95, -3.05)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.0"/>
+      <stop offset="0.6862745098039216" stop-color="#ffffff" stop-opacity="0.2509804"/>
+      <stop offset="0.9882352941176471" stop-color="#ffffff" stop-opacity="0.050980393"/>
+    </linearGradient>
+  </defs>
+</svg>
