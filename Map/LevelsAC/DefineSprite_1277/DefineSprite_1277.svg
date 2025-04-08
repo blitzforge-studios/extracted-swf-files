@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="1205.1px" width="4124.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 862.5, -317.5)">
+    <use ffdec:characterId="1272" height="1205.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -862.5, 317.5)" width="4124.95" xlink:href="#shape0"/>
+    <use ffdec:characterId="1274" height="264.9" id="am_DoorLocal_A" transform="matrix(1.0, 0.0, 0.0, 1.0, 2977.45, 1017.6)" width="5.0" xlink:href="#sprite0"/>
+    <use ffdec:characterId="1276" height="945.0" id="am_CameraZone" transform="matrix(1.0, 0.0, 0.0, 1.0, -142.55, 477.5)" width="2544.95" xlink:href="#sprite1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 862.5, -317.5)">
+      <path d="M3020.0 1020.1 L3199.95 1020.1 3259.95 1000.1 3259.95 940.05 3219.95 900.05 3219.95 800.05 3159.95 800.05 3159.95 600.05 M2979.95 600.05 L2979.95 800.05 2899.95 800.05 2899.95 900.05 2859.95 940.05 2859.95 1000.1 2919.95 1020.1 3020.0 1020.1 M3020.0 1280.0 L2720.0 1280.0 2260.0 1300.0 2080.0 1360.0 1740.0 1380.0 420.0 1380.0 60.0 1340.0 -80.0 1300.0 -340.0 1280.0 -860.0 1280.0" fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M3020.0 1020.1 L3020.0 320.0 M3020.0 1020.1 L3020.0 1280.0 3020.0 1400.0" fill="none" stroke="#ffff00" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M1440.0 1040.0 L1340.0 1040.0 M1600.1 1200.1 L1520.1 1200.1 M1660.1 1280.1 L1780.1 1280.1 M1780.1 1220.1 L1859.85 1220.1 M2260.0 1300.0 L1760.0 1100.0 420.0 1100.0 60.0 1240.0 -80.0 1300.0 M440.0 1280.1 L560.0 1280.1 M820.05 980.0 L660.0 1020.0 M800.05 1200.1 L720.05 1200.1" fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M3020.0 1400.0 L1760.1 1520.1 540.0 1520.1 -860.0 1400.0" fill="none" stroke="#000066" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.5, 2.5)">
+      <use ffdec:characterId="1273" height="264.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -2.5, -2.5)" width="5.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.5, 2.5)">
+      <path d="M0.0 0.0 L0.0 259.9" fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 562.55, 2.5)">
+      <use ffdec:characterId="1275" height="945.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -562.55, -2.5)" width="2544.95" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 562.55, 2.5)">
+      <path d="M1340.1 620.1 L0.0 620.0 0.0 0.05 1340.0 0.0 1340.1 620.1 Z" fill="none" stroke="#006600" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+      <path d="M-560.05 940.0 L-140.0 800.0 1420.1 800.0 1979.9 920.0" fill="none" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0"/>
+    </g>
+  </defs>
+</svg>
