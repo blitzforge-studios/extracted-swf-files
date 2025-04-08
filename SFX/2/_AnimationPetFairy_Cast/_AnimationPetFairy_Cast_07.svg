@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="347.45px" width="640.15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 319.75, 172.6)">
+    <use ffdec:characterId="3048" height="7.9" transform="matrix(7.0, 0.0, 0.0, 7.0, -52.7, -32.6)" width="15.15" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.45, 3.95)">
+      <path d="M7.3 -0.1 L7.7 0.0 7.7 0.05 7.4 0.05 6.85 0.1 6.75 0.1 1.95 0.45 1.2 0.45 1.15 0.5 -1.4 0.5 -1.45 0.45 -1.65 0.4 -4.7 0.25 -6.55 0.1 -7.45 0.0 -7.45 -0.05 -5.3 -0.2 -3.85 -0.3 -3.25 -0.3 -2.8 -0.35 -1.15 -0.5 0.85 -0.5 1.15 -0.45 1.6 -0.45 1.95 -0.4 6.95 -0.1 7.3 -0.1" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.2 -3.95 L0.2 -3.5 0.25 -3.45 Q0.35 -2.05 0.6 -0.95 L0.6 -0.55 0.65 -0.55 0.65 0.8 0.55 0.8 0.55 0.9 0.4 2.5 0.2 3.5 0.1 3.95 0.05 3.95 -0.05 2.8 -0.2 2.05 -0.2 1.8 -0.25 1.55 -0.4 0.65 -0.4 -0.4 -0.35 -0.55 -0.3 -0.55 -0.3 -0.95 Q-0.1 -2.2 0.0 -3.6 L0.05 -3.75 0.1 -3.95 0.2 -3.95" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

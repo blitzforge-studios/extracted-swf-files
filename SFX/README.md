@@ -7,3 +7,8 @@ Holds animations such as ranged attacks for disciplines.
 -   Gold animation
 -   Discipline animation
 -   Basic ranged attack animation
+
+### SFX/2
+
+-   Pet attack animation
+-   Discipline SFXs (such as shadowstalker's shadow attack)
