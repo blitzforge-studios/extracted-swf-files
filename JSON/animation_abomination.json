@@ -180,5 +180,19 @@
             "397.svg",
             "398.svg"
         ]
+    },
+    "emerge": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "399.svg",
+            "401.svg"
+        ],
+        "end": [
+            "402.svg",
+            "480.svg"
+        ]
     }
 }
