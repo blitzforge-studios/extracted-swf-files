@@ -152,5 +152,19 @@
             null,
             null
         ]
+    },
+    "shoot": {
+        "start": [
+            "354.svg",
+            "355.svg"
+        ],
+        "loop": [
+            "356.svg",
+            null
+        ],
+        "end": [
+            "357.svg",
+            "369.svg"
+        ]
     }
 }
