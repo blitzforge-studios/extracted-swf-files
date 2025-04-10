@@ -1,11 +1,17 @@
 {
     "ready": {
-        "start": null,
+        "start": [
+            null,
+            null
+        ],
         "loop": [
             "1.svg",
             "48.svg"
         ],
-        "end": null
+        "end": [
+            null,
+            null
+        ]
     },
     "run": {
         "start": [
@@ -16,7 +22,10 @@
             "94.svg",
             "122.svg"
         ],
-        "end": null
+        "end": [
+            null,
+            null
+        ]
     },
     "jump": {
         "start": [
@@ -58,6 +67,20 @@
         "end": [
             "168.svg",
             "176.svg"
+        ]
+    },
+    "koed": {
+        "start": [
+            "177.svg",
+            "235.svg"
+        ],
+        "loop": [
+            "236.svg",
+            "237.svg"
+        ],
+        "end": [
+            null,
+            null
         ]
     }
 }
