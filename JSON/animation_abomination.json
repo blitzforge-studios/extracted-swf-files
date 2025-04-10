@@ -2,8 +2,8 @@
     "ready": {
         "start": null,
         "loop": [
-            "_Animation_1.svg",
-            "_Animation_48.svg"
+            "1.svg",
+            "48.svg"
         ],
         "end": null
     }
