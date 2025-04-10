@@ -138,5 +138,19 @@
             "318.svg",
             "327.svg"
         ]
+    },
+    "melee2": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "328.svg",
+            "353.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
     }
 }
