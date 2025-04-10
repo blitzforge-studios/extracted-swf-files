@@ -96,5 +96,19 @@
             null,
             null
         ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "244.svg",
+            "264.svg"
+        ],
+        "end": [
+            "265.svg",
+            null
+        ]
     }
 }
