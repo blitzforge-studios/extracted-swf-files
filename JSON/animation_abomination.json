@@ -1,0 +1,10 @@
+{
+    "ready": {
+        "start": null,
+        "loop": [
+            "_Animation_1.svg",
+            "_Animation_48.svg"
+        ],
+        "end": null
+    }
+}
