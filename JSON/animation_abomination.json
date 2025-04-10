@@ -110,5 +110,19 @@
             "265.svg",
             null
         ]
+    },
+    "sleep": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "266.svg",
+            "287.svg"
+        ],
+        "end": [
+            "288.svg",
+            "300.svg"
+        ]
     }
 }
