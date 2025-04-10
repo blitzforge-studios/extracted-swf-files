@@ -82,5 +82,19 @@
             null,
             null
         ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "238.svg",
+            "243.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
     }
 }
