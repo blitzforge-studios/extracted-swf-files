@@ -6,5 +6,16 @@
             "48.svg"
         ],
         "end": null
+    },
+    "run": {
+        "start": [
+            "93.svg",
+            null
+        ],
+        "loop": [
+            "94.svg",
+            "122.svg"
+        ],
+        "end": null
     }
 }
