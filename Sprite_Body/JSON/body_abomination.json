@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-04-11",
+    "description": "Abomination body configurations for different variants",
+    "author": "BlitzForge Studios"
+  },
+  "variants": {
+    "Default": {
+      "name": "Default",
+      "description": "Default Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/Default.svg",
+        "Noggin": "../Abomination/Noggin/Default.svg",
+        "HandR": "../Abomination/HandR/Default.svg",
+        "HandR2": "../Abomination/HandR2/Default.svg",
+        "LArmL": "../Abomination/LArmL/Default.svg",
+        "LArmL2": "../Abomination/LArmL2/Default.svg",
+        "LArmR": "../Abomination/LArmR/Default.svg",
+        "LArmR2": "../Abomination/LArmR2/Default.svg",
+        "LArmR3": "../Abomination/LArmR3/Default.svg",
+        "LLegL": "../Abomination/LLegL/Default.svg",
+        "LLegL2": "../Abomination/LLegL2/Default.svg",
+        "LLegR": "../Abomination/LLegR/Default.svg",
+        "Loincloth": "../Abomination/Loincloth/Default.svg",
+        "UArmL": "../Abomination/UArmL/Default.svg",
+        "UArmR": "../Abomination/UArmR/Default.svg",
+        "UArmR2": "../Abomination/UArmR2/Default.svg",
+        "ULegL": "../Abomination/ULegL/Default.svg",
+        "Waist": "../Abomination/Waist/Default.svg"
+      }
+    },
+    "Bone": {
+      "name": "Bone",
+      "description": "Bone Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/Bone.svg",
+        "Noggin": "../Abomination/Noggin/Bone.svg",
+        "HandR": "../Abomination/HandR/Bone.svg",
+        "HandR2": "../Abomination/HandR2/Bone.svg",
+        "LArmL": "../Abomination/LArmL/Default.svg",
+        "LArmL2": "../Abomination/LArmL2/Default.svg",
+        "LArmR": "../Abomination/LArmR/Default.svg",
+        "LArmR2": "../Abomination/LArmR2/Default.svg",
+        "LArmR3": "../Abomination/LArmR3/Default.svg",
+        "LLegL": "../Abomination/LLegL/Default.svg",
+        "LLegL2": "../Abomination/LLegL2/Default.svg",
+        "LLegR": "../Abomination/LLegR/Default.svg",
+        "Loincloth": "../Abomination/Loincloth/Default.svg",
+        "UArmL": "../Abomination/UArmL/Default.svg",
+        "UArmR": "../Abomination/UArmR/Default.svg",
+        "UArmR2": "../Abomination/UArmR2/Bone.svg",
+        "ULegL": "../Abomination/ULegL/Default.svg",
+        "Waist": "../Abomination/Waist/Default.svg"
+      }
+    },
+    "Mummy": {
+      "name": "Mummy",
+      "description": "Mummy Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/Mummy.svg",
+        "Noggin": "../Abomination/Noggin/Mummy.svg",
+        "HandR": "../Abomination/HandR/Mummy.svg",
+        "HandR2": "../Abomination/HandR2/Mummy.svg",
+        "LArmL": "../Abomination/LArmL/Mummy.svg",
+        "LArmL2": "../Abomination/LArmL2/Mummy.svg",
+        "LArmR": "../Abomination/LArmR/Mummy.svg",
+        "LArmR2": "../Abomination/LArmR2/Mummy.svg",
+        "LArmR3": "../Abomination/LArmR3/Default.svg",
+        "LLegL": "../Abomination/LLegL/Mummy.svg",
+        "LLegL2": "../Abomination/LLegL2/Mummy.svg",
+        "LLegR": "../Abomination/LLegR/Mummy.svg",
+        "Loincloth": "../Abomination/Loincloth/Mummy.svg",
+        "UArmL": "../Abomination/UArmL/Mummy.svg",
+        "UArmR": "../Abomination/UArmR/Mummy.svg",
+        "UArmR2": "../Abomination/UArmR2/Mummy.svg",
+        "ULegL": "../Abomination/ULegL/Mummy.svg",
+        "Waist": "../Abomination/Waist/Mummy.svg"
+      }
+    },
+    "MummySand": {
+      "name": "MummySand",
+      "description": "Sand Mummy Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/MummySand.svg",
+        "Noggin": "../Abomination/Noggin/MummySand.svg",
+        "HandR": "../Abomination/HandR/Mummy.svg",
+        "HandR2": "../Abomination/HandR2/Mummy.svg",
+        "LArmL": "../Abomination/LArmL/MummySand.svg",
+        "LArmL2": "../Abomination/LArmL2/MummySand.svg",
+        "LArmR": "../Abomination/LArmR/MummySand.svg",
+        "LArmR2": "../Abomination/LArmR2/Default.svg",
+        "LArmR3": "../Abomination/LArmR3/Default.svg",
+        "LLegL": "../Abomination/LLegL/Mummy.svg",
+        "LLegL2": "../Abomination/LLegL2/Mummy.svg",
+        "LLegR": "../Abomination/LLegR/Mummy.svg",
+        "Loincloth": "../Abomination/Loincloth/Mummy.svg",
+        "UArmL": "../Abomination/UArmL/MummySand.svg",
+        "UArmR": "../Abomination/UArmR/MummySand.svg",
+        "UArmR2": "../Abomination/UArmR2/Mummy.svg",
+        "ULegL": "../Abomination/ULegL/Mummy.svg",
+        "Waist": "../Abomination/Waist/MummySand.svg"
+      }
+    },
+    "SwampMonster": {
+      "name": "SwampMonster",
+      "description": "Swamp Monster Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/SwampMonster.svg",
+        "Noggin": "../Abomination/Noggin/SwampMonster.svg",
+        "HandR": "../Abomination/HandR/SwampMonster.svg",
+        "HandR2": "../Abomination/HandR2/SwampMonster.svg",
+        "LArmL": "../Abomination/LArmL/SwampMonster.svg",
+        "LArmL2": "../Abomination/LArmL2/SwampMonster.svg",
+        "LArmR": "../Abomination/LArmR/SwampMonster.svg",
+        "LArmR2": "../Abomination/LArmR2/SwampMonster.svg",
+        "LArmR3": "../Abomination/LArmR3/SwampMonster.svg",
+        "LLegL": "../Abomination/LLegL/SwampMonster.svg",
+        "LLegL2": "../Abomination/LLegL2/SwampMonster.svg",
+        "LLegR": "../Abomination/LLegR/SwampMonster.svg",
+        "Loincloth": "../Abomination/Loincloth/Default.svg",
+        "UArmL": "../Abomination/UArmL/SwampMonster.svg",
+        "UArmR": "../Abomination/UArmR/SwampMonster.svg",
+        "UArmR2": "../Abomination/UArmR2/SwampMonster.svg",
+        "ULegL": "../Abomination/ULegL/SwampMonster.svg",
+        "Waist": "../Abomination/Waist/SwampMonster.svg"
+      }
+    },
+    "SwampBrute": {
+      "name": "SwampBrute",
+      "description": "Swamp Brute Abomination body configuration",
+      "parts": {
+        "Torso": "../Abomination/Torso/SwampBrute.svg",
+        "Noggin": "../Abomination/Noggin/SwampBrute.svg",
+        "HandR": "../Abomination/HandR/SwampMonster.svg",
+        "HandR2": "../Abomination/HandR2/SwampMonster.svg",
+        "LArmL": "../Abomination/LArmL/SwampBrute.svg",
+        "LArmL2": "../Abomination/LArmL2/SwampBrute.svg",
+        "LArmR": "../Abomination/LArmR/SwampMonster.svg",
+        "LArmR2": "../Abomination/LArmR2/SwampMonster.svg",
+        "LArmR3": "../Abomination/LArmR3/SwampMonster.svg",
+        "LLegL": "../Abomination/LLegL/SwampMonster.svg",
+        "LLegL2": "../Abomination/LLegL2/SwampMonster.svg",
+        "LLegR": "../Abomination/LLegR/SwampMonster.svg",
+        "Loincloth": "../Abomination/Loincloth/Default.svg",
+        "UArmL": "../Abomination/UArmL/SwampMonster.svg",
+        "UArmR": "../Abomination/UArmR/SwampMonster.svg",
+        "UArmR2": "../Abomination/UArmR2/SwampMonster.svg",
+        "ULegL": "../Abomination/ULegL/SwampMonster.svg",
+        "Waist": "../Abomination/Waist/SwampMonster.svg"
+      }
+    }
+  },
+  "animations": {
+    "NogginHit": "../Abomination/NogginHit/Default.svg",
+    "NogginHit2": "../Abomination/NogginHit2/Default.svg",
+    "NogginMad": "../Abomination/NogginMad/Default.svg",
+    "NogginShoot": "../Abomination/NogginShoot/Default.svg",
+    "Reflect": "../Abomination/Reflect/Default.svg"
+  },
+  "effects": {
+    "Swoosh1": "../Abomination/Swoosh1/Default.svg",
+    "Swoosh2": "../Abomination/Swoosh2/Default.svg",
+    "Swoosh3": "../Abomination/Swoosh3/Default.svg",
+    "LeafCluster01": "../Abomination/LeafCluster01/Default.svg",
+    "LeafCluster02": "../Abomination/LeafCluster02/Default.svg",
+    "LeafCluster03": "../Abomination/LeafCluster03/Default.svg",
+    "LeafCluster04": "../Abomination/LeafCluster04/Default.svg",
+    "LeafCluster05": "../Abomination/LeafCluster05/Default.svg",
+    "LeafCluster06": "../Abomination/LeafCluster06/Default.svg",
+    "LeafClusterDust01": "../Abomination/LeafClusterDust01/Default.svg",
+    "LeafClusterDust02": "../Abomination/LeafClusterDust02/Default.svg",
+    "LeafClusterDust03": "../Abomination/LeafClusterDust03/Default.svg",
+    "LeafClusterDust04": "../Abomination/LeafClusterDust04/Default.svg",
+    "LeafClusterDust05": "../Abomination/LeafClusterDust05/Default.svg"
+  }
+}

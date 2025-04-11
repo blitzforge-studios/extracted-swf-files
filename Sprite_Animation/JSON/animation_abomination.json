@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "version": "1.1",
+    "created": "2024-04-11",
+    "description": "Animation configurations for Abomination character",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready/Idle",
+    "description": "Default idle stance",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "1.svg",
+      "48.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "run": {
+    "name": "Run",
+    "description": "Running movement animation",
+    "start": [
+      "93.svg",
+      null
+    ],
+    "loop": [
+      "94.svg",
+      "122.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "jump": {
+    "name": "Jump",
+    "description": "Jumping animation",
+    "start": [
+      "125.svg",
+      "130.svg"
+    ],
+    "loop": [
+      "131.svg",
+      "134.svg"
+    ],
+    "end": [
+      "135.svg",
+      "142.svg"
+    ]
+  },
+  "duck": {
+    "name": "Duck",
+    "description": "Ducking/crouching animation",
+    "start": [
+      "145.svg",
+      "150.svg"
+    ],
+    "loop": [
+      "151.svg",
+      "154.svg"
+    ],
+    "end": [
+      "155.svg",
+      "162.svg"
+    ]
+  },
+  "hit_react": {
+    "name": "Hit React",
+    "description": "Reaction to being hit",
+    "start": [
+      "164.svg",
+      "165.svg"
+    ],
+    "loop": [
+      "166.svg",
+      "167.svg"
+    ],
+    "end": [
+      "168.svg",
+      "176.svg"
+    ]
+  },
+  "koed": {
+    "name": "KO'd",
+    "description": "Knocked out animation",
+    "start": [
+      "177.svg",
+      "235.svg"
+    ],
+    "loop": [
+      "236.svg",
+      "237.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "frozen": {
+    "name": "Frozen",
+    "description": "Frozen in ice animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "238.svg",
+      "243.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "stunned": {
+    "name": "Stunned",
+    "description": "Dazed/stunned animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "244.svg",
+      "264.svg"
+    ],
+    "end": [
+      "265.svg",
+      null
+    ]
+  },
+  "sleep": {
+    "name": "Sleep",
+    "description": "Sleeping animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "266.svg",
+      "287.svg"
+    ],
+    "end": [
+      "288.svg",
+      "300.svg"
+    ]
+  },
+  "melee": {
+    "name": "Melee Attack",
+    "description": "Primary melee attack animation",
+    "start": [
+      "302.svg",
+      "308.svg"
+    ],
+    "loop": [
+      "309.svg",
+      "317.svg"
+    ],
+    "end": [
+      "318.svg",
+      "327.svg"
+    ]
+  },
+  "melee2": {
+    "name": "Melee Attack 2",
+    "description": "Secondary melee attack animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "328.svg",
+      "353.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "shoot": {
+    "name": "Shoot",
+    "description": "Ranged attack animation",
+    "start": [
+      "354.svg",
+      "355.svg"
+    ],
+    "loop": [
+      "356.svg",
+      null
+    ],
+    "end": [
+      "357.svg",
+      "369.svg"
+    ]
+  },
+  "blast": {
+    "name": "Blast",
+    "description": "Powerful ranged attack animation",
+    "start": [
+      "370.svg",
+      null
+    ],
+    "loop": [
+      "371.svg",
+      "396.svg"
+    ],
+    "end": [
+      "397.svg",
+      "398.svg"
+    ]
+  },
+  "emerge": {
+    "name": "Emerge",
+    "description": "Emerging from ground animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "399.svg",
+      "401.svg"
+    ],
+    "end": [
+      "402.svg",
+      "480.svg"
+    ]
+  },
+  "shake": {
+    "name": "Shake",
+    "description": "Shaking off effects animation",
+    "start": [
+      "481.svg",
+      "489.svg"
+    ],
+    "loop": [
+      "490.svg",
+      "513.svg"
+    ],
+    "end": [
+      "514.svg",
+      "521.svg"
+    ]
+  }
+}
