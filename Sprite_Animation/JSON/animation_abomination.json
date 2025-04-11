@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-04-11",
+    "description": "Animation configurations for Abomination character",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready/Idle",
+    "description": "Default idle stance",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/1.svg",
+      "../Abomination/48.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "run": {
+    "name": "Run",
+    "description": "Running movement animation",
+    "start": [
+      "../Abomination/93.svg",
+      null
+    ],
+    "loop": [
+      "../Abomination/94.svg",
+      "../Abomination/122.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "jump": {
+    "name": "Jump",
+    "description": "Jumping animation",
+    "start": [
+      "../Abomination/125.svg",
+      "../Abomination/130.svg"
+    ],
+    "loop": [
+      "../Abomination/131.svg",
+      "../Abomination/134.svg"
+    ],
+    "end": [
+      "../Abomination/135.svg",
+      "../Abomination/142.svg"
+    ]
+  },
+  "duck": {
+    "name": "Duck",
+    "description": "Ducking/crouching animation",
+    "start": [
+      "../Abomination/145.svg",
+      "../Abomination/150.svg"
+    ],
+    "loop": [
+      "../Abomination/151.svg",
+      "../Abomination/154.svg"
+    ],
+    "end": [
+      "../Abomination/155.svg",
+      "../Abomination/162.svg"
+    ]
+  },
+  "hit_react": {
+    "name": "Hit React",
+    "description": "Reaction to being hit",
+    "start": [
+      "../Abomination/164.svg",
+      "../Abomination/165.svg"
+    ],
+    "loop": [
+      "../Abomination/166.svg",
+      "../Abomination/167.svg"
+    ],
+    "end": [
+      "../Abomination/168.svg",
+      "../Abomination/176.svg"
+    ]
+  },
+  "koed": {
+    "name": "KO'd",
+    "description": "Knocked out animation",
+    "start": [
+      "../Abomination/177.svg",
+      "../Abomination/235.svg"
+    ],
+    "loop": [
+      "../Abomination/236.svg",
+      "../Abomination/237.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "frozen": {
+    "name": "Frozen",
+    "description": "Frozen in ice animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/238.svg",
+      "../Abomination/243.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "stunned": {
+    "name": "Stunned",
+    "description": "Dazed/stunned animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/244.svg",
+      "../Abomination/264.svg"
+    ],
+    "end": [
+      "../Abomination/265.svg",
+      null
+    ]
+  },
+  "sleep": {
+    "name": "Sleep",
+    "description": "Sleeping animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/266.svg",
+      "../Abomination/287.svg"
+    ],
+    "end": [
+      "../Abomination/288.svg",
+      "../Abomination/300.svg"
+    ]
+  },
+  "melee": {
+    "name": "Melee Attack",
+    "description": "Primary melee attack animation",
+    "start": [
+      "../Abomination/302.svg",
+      "../Abomination/308.svg"
+    ],
+    "loop": [
+      "../Abomination/309.svg",
+      "../Abomination/317.svg"
+    ],
+    "end": [
+      "../Abomination/318.svg",
+      "../Abomination/327.svg"
+    ]
+  },
+  "melee2": {
+    "name": "Melee Attack 2",
+    "description": "Secondary melee attack animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/328.svg",
+      "../Abomination/353.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "shoot": {
+    "name": "Shoot",
+    "description": "Ranged attack animation",
+    "start": [
+      "../Abomination/354.svg",
+      "../Abomination/355.svg"
+    ],
+    "loop": [
+      "../Abomination/356.svg",
+      null
+    ],
+    "end": [
+      "../Abomination/357.svg",
+      "../Abomination/369.svg"
+    ]
+  },
+  "blast": {
+    "name": "Blast",
+    "description": "Powerful ranged attack animation",
+    "start": [
+      "../Abomination/370.svg",
+      null
+    ],
+    "loop": [
+      "../Abomination/371.svg",
+      "../Abomination/396.svg"
+    ],
+    "end": [
+      "../Abomination/397.svg",
+      "../Abomination/398.svg"
+    ]
+  },
+  "emerge": {
+    "name": "Emerge",
+    "description": "Emerging from ground animation",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Abomination/399.svg",
+      "../Abomination/401.svg"
+    ],
+    "end": [
+      "../Abomination/402.svg",
+      "../Abomination/480.svg"
+    ]
+  },
+  "shake": {
+    "name": "Shake",
+    "description": "Shaking off effects animation",
+    "start": [
+      "../Abomination/481.svg",
+      "../Abomination/489.svg"
+    ],
+    "loop": [
+      "../Abomination/490.svg",
+      "../Abomination/513.svg"
+    ],
+    "end": [
+      "../Abomination/514.svg",
+      "../Abomination/521.svg"
+    ]
+  }
+}

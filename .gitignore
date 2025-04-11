@@ -1,1 +1,4 @@
 .DS_Store
+cleanup_duplicates.sh
+extract_svgs.sh
+simple_extract.sh
