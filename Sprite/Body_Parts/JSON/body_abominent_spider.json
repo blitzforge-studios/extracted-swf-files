@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-04-11",
+    "description": "Abominent Spider body configurations for different variants",
+    "author": "BlitzForge Studios"
+  },
+  "variants": {
+    "Default": {
+      "name": "Default",
+      "description": "Default Abominent Spider body configuration",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/Default/Default.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/Default/Default.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/Default/Default.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "BanditSpider": {
+      "name": "BanditSpider",
+      "description": "Bandit Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/BanditSpider/BanditSpider.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/BanditSpider/BanditSpider.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/BanditSpider/BanditSpider.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "BanditSpider2": {
+      "name": "BanditSpider2",
+      "description": "Bandit Spider variant 2",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/BanditSpider2/BanditSpider2.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/BanditSpider2/BanditSpider2.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/BanditSpider2/BanditSpider2.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/BanditSpider2/BanditSpider2.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "CaveSpider": {
+      "name": "CaveSpider",
+      "description": "Cave Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/CaveSpider/CaveSpider.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/CaveSpider/CaveSpider.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/CaveSpider/CaveSpider.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "Construct": {
+      "name": "Construct",
+      "description": "Construct Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/Construct/Construct.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/Construct/Construct.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/Construct/Construct.svg",
+        "Joint": "../Abominent_Spider/Joint/Construct/Construct.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Construct/Construct.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Construct/Construct.svg",
+        "Talon": "../Abominent_Spider/Talon/Construct/Construct.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Construct/Construct.svg"
+      }
+    },
+    "DuneSpider": {
+      "name": "DuneSpider",
+      "description": "Dune Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/DuneSpider/DuneSpider.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/DuneSpider/DuneSpider.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/DuneSpider/DuneSpider.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "Plant": {
+      "name": "Plant",
+      "description": "Plant Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/Plant/Plant.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/Plant/Plant.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/Plant/Plant.svg",
+        "Joint": "../Abominent_Spider/Joint/Plant/Plant.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Plant/Plant.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Plant/Plant.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "Summon": {
+      "name": "Summon",
+      "description": "Summon Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/Summon/Summon.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/Summon/Summon.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/Summon/Summon.svg",
+        "Joint": "../Abominent_Spider/Joint/Default/Default.svg",
+        "LLeg": "../Abominent_Spider/LLeg/Default/Default.svg",
+        "ULeg": "../Abominent_Spider/ULeg/Default/Default.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "SwampSpider": {
+      "name": "SwampSpider",
+      "description": "Swamp Spider variant",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/SwampSpider/SwampSpider.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/SwampSpider/SwampSpider.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/SwampSpider/SwampSpider.svg",
+        "Joint": "../Abominent_Spider/Joint/SwampSpider/SwampSpider.svg",
+        "LLeg": "../Abominent_Spider/LLeg/SwampSpider/SwampSpider.svg",
+        "ULeg": "../Abominent_Spider/ULeg/SwampSpider/SwampSpider.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    },
+    "SwampSpider2": {
+      "name": "SwampSpider2",
+      "description": "Swamp Spider variant 2",
+      "parts": {
+        "Body": "../Abominent_Spider/Body/SwampSpider2/SwampSpider2.svg",
+        "BodyHit": "../Abominent_Spider/BodyHit/SwampSpider2/SwampSpider2.svg",
+        "BodyStill": "../Abominent_Spider/BodyStill/SwampSpider2/SwampSpider2.svg",
+        "Joint": "../Abominent_Spider/Joint/SwampSpider/SwampSpider.svg",
+        "LLeg": "../Abominent_Spider/LLeg/SwampSpider/SwampSpider.svg",
+        "ULeg": "../Abominent_Spider/ULeg/SwampSpider/SwampSpider.svg",
+        "Talon": "../Abominent_Spider/Talon/Default/Default.svg",
+        "TalonOn": "../Abominent_Spider/TalonOn/Default/Default.svg"
+      }
+    }
+  },
+  "animations": {
+    "TalonPowerOn": {
+      "Default": [
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_01.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_02.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_03.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_04.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_05.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_06.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_07.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_08.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_09.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_10.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_11.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_12.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_13.svg",
+        "../Abominent_Spider/TalonPowerOn/Default/Frame_14.svg"
+      ],
+      "Construct": [
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_01.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_02.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_03.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_04.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_05.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_06.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_07.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_08.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_09.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_10.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_11.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_12.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_13.svg",
+        "../Abominent_Spider/TalonPowerOn/Construct/Frame_14.svg"
+      ]
+    },
+    "TalonPowerOff": {
+      "Default": [
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_01.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_02.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_03.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_04.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_05.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_06.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_07.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_08.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_09.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_10.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_11.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_12.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_13.svg",
+        "../Abominent_Spider/TalonPowerOff/Default/Frame_14.svg"
+      ],
+      "Construct": [
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_01.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_02.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_03.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_04.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_05.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_06.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_07.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_08.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_09.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_10.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_11.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_12.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_13.svg",
+        "../Abominent_Spider/TalonPowerOff/Construct/Frame_14.svg"
+      ]
+    }
+  },
+  "effects": {
+    "Swoosh01": [
+      "../Abominent_Spider/Swoosh01/Default/Frame_01.svg",
+      "../Abominent_Spider/Swoosh01/Default/Frame_02.svg",
+      "../Abominent_Spider/Swoosh01/Default/Frame_03.svg",
+      "../Abominent_Spider/Swoosh01/Default/Frame_04.svg"
+    ],
+    "Swoosh02": [
+      "../Abominent_Spider/Swoosh02/Default/Frame_01.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_02.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_03.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_04.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_05.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_06.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_07.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_08.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_09.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_10.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_11.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_12.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_13.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_14.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_15.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_16.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_17.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_18.svg",
+      "../Abominent_Spider/Swoosh02/Default/Frame_19.svg"
+    ],
+    "Swoosh03": [
+      "../Abominent_Spider/Swoosh03/Default/Frame_01.svg",
+      "../Abominent_Spider/Swoosh03/Default/Frame_02.svg",
+      "../Abominent_Spider/Swoosh03/Default/Frame_03.svg",
+      "../Abominent_Spider/Swoosh03/Default/Frame_04.svg"
+    ],
+    "Swoosh04": [
+      "../Abominent_Spider/Swoosh04/Default/Frame_01.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_02.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_03.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_04.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_05.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_06.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_07.svg",
+      "../Abominent_Spider/Swoosh04/Default/Frame_08.svg"
+    ],
+    "Web": [
+      "../Abominent_Spider/Web/Default/Frame_01.svg",
+      "../Abominent_Spider/Web/Default/Frame_02.svg",
+      "../Abominent_Spider/Web/Default/Frame_03.svg",
+      "../Abominent_Spider/Web/Default/Frame_04.svg",
+      "../Abominent_Spider/Web/Default/Frame_05.svg",
+      "../Abominent_Spider/Web/Default/Frame_06.svg",
+      "../Abominent_Spider/Web/Default/Frame_07.svg",
+      "../Abominent_Spider/Web/Default/Frame_08.svg",
+      "../Abominent_Spider/Web/Default/Frame_09.svg",
+      "../Abominent_Spider/Web/Default/Frame_10.svg",
+      "../Abominent_Spider/Web/Default/Frame_11.svg",
+      "../Abominent_Spider/Web/Default/Frame_12.svg",
+      "../Abominent_Spider/Web/Default/Frame_13.svg",
+      "../Abominent_Spider/Web/Default/Frame_14.svg",
+      "../Abominent_Spider/Web/Default/Frame_15.svg",
+      "../Abominent_Spider/Web/Default/Frame_16.svg",
+      "../Abominent_Spider/Web/Default/Frame_17.svg",
+      "../Abominent_Spider/Web/Default/Frame_18.svg",
+      "../Abominent_Spider/Web/Default/Frame_19.svg",
+      "../Abominent_Spider/Web/Default/Frame_20.svg",
+      "../Abominent_Spider/Web/Default/Frame_21.svg",
+      "../Abominent_Spider/Web/Default/Frame_22.svg",
+      "../Abominent_Spider/Web/Default/Frame_23.svg",
+      "../Abominent_Spider/Web/Default/Frame_24.svg",
+      "../Abominent_Spider/Web/Default/Frame_25.svg",
+      "../Abominent_Spider/Web/Default/Frame_26.svg",
+      "../Abominent_Spider/Web/Default/Frame_27.svg",
+      "../Abominent_Spider/Web/Default/Frame_28.svg",
+      "../Abominent_Spider/Web/Default/Frame_29.svg",
+      "../Abominent_Spider/Web/Default/Frame_30.svg",
+      "../Abominent_Spider/Web/Default/Frame_31.svg",
+      "../Abominent_Spider/Web/Default/Frame_32.svg",
+      "../Abominent_Spider/Web/Default/Frame_33.svg",
+      "../Abominent_Spider/Web/Default/Frame_34.svg",
+      "../Abominent_Spider/Web/Default/Frame_35.svg",
+      "../Abominent_Spider/Web/Default/Frame_36.svg",
+      "../Abominent_Spider/Web/Default/Frame_37.svg",
+      "../Abominent_Spider/Web/Default/Frame_38.svg",
+      "../Abominent_Spider/Web/Default/Frame_39.svg",
+      "../Abominent_Spider/Web/Default/Frame_40.svg",
+      "../Abominent_Spider/Web/Default/Frame_41.svg",
+      "../Abominent_Spider/Web/Default/Frame_42.svg",
+      "../Abominent_Spider/Web/Default/Frame_43.svg",
+      "../Abominent_Spider/Web/Default/Frame_44.svg",
+      "../Abominent_Spider/Web/Default/Frame_45.svg",
+      "../Abominent_Spider/Web/Default/Frame_46.svg",
+      "../Abominent_Spider/Web/Default/Frame_47.svg",
+      "../Abominent_Spider/Web/Default/Frame_48.svg",
+      "../Abominent_Spider/Web/Default/Frame_49.svg",
+      "../Abominent_Spider/Web/Default/Frame_50.svg",
+      "../Abominent_Spider/Web/Default/Frame_51.svg",
+      "../Abominent_Spider/Web/Default/Frame_52.svg",
+      "../Abominent_Spider/Web/Default/Frame_53.svg",
+      "../Abominent_Spider/Web/Default/Frame_54.svg",
+      "../Abominent_Spider/Web/Default/Frame_55.svg",
+      "../Abominent_Spider/Web/Default/Frame_56.svg",
+      "../Abominent_Spider/Web/Default/Frame_57.svg",
+      "../Abominent_Spider/Web/Default/Frame_58.svg",
+      "../Abominent_Spider/Web/Default/Frame_59.svg",
+      "../Abominent_Spider/Web/Default/Frame_60.svg",
+      "../Abominent_Spider/Web/Default/Frame_61.svg",
+      "../Abominent_Spider/Web/Default/Frame_62.svg",
+      "../Abominent_Spider/Web/Default/Frame_63.svg",
+      "../Abominent_Spider/Web/Default/Frame_64.svg",
+      "../Abominent_Spider/Web/Default/Frame_65.svg",
+      "../Abominent_Spider/Web/Default/Frame_66.svg",
+      "../Abominent_Spider/Web/Default/Frame_67.svg",
+      "../Abominent_Spider/Web/Default/Frame_68.svg",
+      "../Abominent_Spider/Web/Default/Frame_69.svg",
+      "../Abominent_Spider/Web/Default/Frame_70.svg",
+      "../Abominent_Spider/Web/Default/Frame_71.svg",
+      "../Abominent_Spider/Web/Default/Frame_72.svg",
+      "../Abominent_Spider/Web/Default/Frame_73.svg",
+      "../Abominent_Spider/Web/Default/Frame_74.svg",
+      "../Abominent_Spider/Web/Default/Frame_75.svg",
+      "../Abominent_Spider/Web/Default/Frame_76.svg",
+      "../Abominent_Spider/Web/Default/Frame_77.svg",
+      "../Abominent_Spider/Web/Default/Frame_78.svg",
+      "../Abominent_Spider/Web/Default/Frame_79.svg",
+      "../Abominent_Spider/Web/Default/Frame_80.svg",
+      "../Abominent_Spider/Web/Default/Frame_81.svg"
+    ]
+  }
+}
