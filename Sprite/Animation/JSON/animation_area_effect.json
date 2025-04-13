@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-04-11",
+    "description": "Animation configurations for Area Effect",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready",
+    "description": "A loop of area effect",
+    "start": [
+      "../AreaEffect/1.svg",
+      null
+    ],
+    "loop": [
+      "../AreaEffect/2.svg",
+      "../AreaEffect/48.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "summon": {
+    "name": "Summon",
+    "description": "Appearing effect",
+    "start": [
+      "../AreaEffect/49.svg",
+      "../AreaEffect/96.svg"
+    ],
+    "loop": [
+      null,
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "dispel": {
+    "name": "Dispel",
+    "description": "Disappearing effect",
+    "start": [
+      "../AreaEffect/97.svg",
+      "../AreaEffect/144.svg"
+    ],
+    "loop": [
+      null,
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  }
+}
