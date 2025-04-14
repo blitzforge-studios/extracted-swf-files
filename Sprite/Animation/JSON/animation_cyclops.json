@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-04-14",
+    "description": "Animations for Cannonball",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready",
+    "start": [
+      "../Cyclops/1.svg",
+      null
+    ],
+    "loop": [
+      "../Cyclops/2.svg",
+      "../Cyclops/48.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "run": {
+    "name": "Run",
+    "start": [
+      "../Cyclops/69.svg",
+      "../Cyclops/83.svg"
+    ],
+    "loop": [
+      "../Cyclops/84.svg",
+      "../Cyclops/125.svg"
+    ],
+    "end": [
+      "../Cyclops/126.svg",
+      "../Cyclops/135.svg"
+    ]
+  },
+  "jump": {
+    "name": "Jump",
+    "start": [
+      "../Cyclops/137.svg",
+      "../Cyclops/141.svg"
+    ],
+    "loop": [
+      "../Cyclops/142.svg",
+      "../Cyclops/173.svg"
+    ],
+    "end": [
+      "../Cyclops/174.svg",
+      "../Cyclops/185.svg"
+    ]
+  },
+  "falling": {
+    "name": "Falling",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Cyclops/187.svg",
+      "../Cyclops/218.svg"
+    ],
+    "end": [
+      "../Cyclops/219.svg",
+      "../Cyclops/230.svg"
+    ]
+  },
+  "backpedal": {
+    "name": "Backpedal",
+    "start": [
+      "../Cyclops/232.svg",
+      null
+    ],
+    "loop": [
+      "../Cyclops/232.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/232.svg",
+      null
+    ]
+  },
+  "hitreact": {
+    "name": "Hit React",
+    "start": [
+      "../Cyclops/245.svg",
+      "../Cyclops/260.svg"
+    ],
+    "loop": [
+      "../Cyclops/261.svg",
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "koed": {
+    "name": "KO'd",
+    "start": [
+      "../Cyclops/263.svg",
+      "../Cyclops/311.svg"
+    ],
+    "loop": [
+      "../Cyclops/312.svg",
+      "../Cyclops/313.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "frozen": {
+    "name": "Frozen",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Cyclops/315.svg",
+      "../Cyclops/319.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "stunned": {
+    "name": "Stunned",
+    "start": [
+      "../Cyclops/321.svg",
+      "../Cyclops/351.svg"
+    ],
+    "loop": [
+      "../Cyclops/352.svg",
+      "../Cyclops/383.svg"
+    ],
+    "end": [
+      "../Cyclops/384.svg",
+      "../Cyclops/398.svg"
+    ]
+  },
+  "sleep": {
+    "name": "Sleep",
+    "start": [
+      "../Cyclops/400.svg",
+      null
+    ],
+    "loop": [
+      "../Cyclops/400.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/400.svg",
+      null
+    ]
+  },
+  "melee": {
+    "name": "Melee",
+    "start": [
+      "../Cyclops/419.svg",
+      "../Cyclops/427.svg"
+    ],
+    "loop": [
+      "../Cyclops/428.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/429.svg",
+      "../Cyclops/448.svg"
+    ]
+  },
+  "melee2": {
+    "name": "Melee2",
+    "start": [
+      "../Cyclops/449.svg",
+      "../Cyclops/454.svg"
+    ],
+    "loop": [
+      "../Cyclops/455.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/456.svg",
+      "../Cyclops/470.svg"
+    ]
+  },
+  "melee3": {
+    "name": "Melee3",
+    "start": [
+      "../Cyclops/471.svg",
+      "../Cyclops/490.svg"
+    ],
+    "loop": [
+      "../Cyclops/491.svg",
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "impale": {
+    "name": "Impale",
+    "start": [
+      "../Cyclops/493.svg",
+      "../Cyclops/513.svg"
+    ],
+    "loop": [
+      "../Cyclops/514.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/515.svg",
+      "../Cyclops/558.svg"
+    ]
+  },
+  "uber": {
+    "name": "Uber",
+    "start": [
+      "../Cyclops/560.svg",
+      "../Cyclops/612.svg"
+    ],
+    "loop": [
+      "../Cyclops/613.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/614.svg",
+      null
+    ]
+  },
+  "intimidate": {
+    "name": "Intimidate",
+    "start": [
+      "../Cyclops/615.svg",
+      "../Cyclops/626.svg"
+    ],
+    "loop": [
+      "../Cyclops/627.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/628.svg",
+      "../Cyclops/636.svg"
+    ]
+  },
+  "impale2": {
+    "name": "Impale2",
+    "start": [
+      "../Cyclops/637.svg",
+      "../Cyclops/645.svg"
+    ],
+    "loop": [
+      "../Cyclops/646.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/647.svg",
+      "../Cyclops/686.svg"
+    ]
+  },
+  "summonko": {
+    "name": "Summon KO",
+    "start": [
+      "../Cyclops/688.svg",
+      "../Cyclops/716.svg"
+    ],
+    "loop": [
+      "../Cyclops/717.svg",
+      null
+    ],
+    "end": [
+      "../Cyclops/718.svg",
+      null
+    ]
+  },
+  "summon": {
+    "name": "Summon",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Cyclops/719.svg",
+      "../Cyclops/724.svg"
+    ],
+    "end": [
+      "../Cyclops/725.svg",
+      "../Cyclops/739.svg"
+    ]
+  },
+  "summon2": {
+    "name": "Summon2",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Cyclops/740.svg",
+      "../Cyclops/745.svg"
+    ],
+    "end": [
+      "../Cyclops/746.svg",
+      "../Cyclops/760.svg"
+    ]
+  },
+  "shoot": {
+    "name": "Shoot",
+    "start": [
+      "../Cyclops/761.svg",
+      "../Cyclops/780.svg"
+    ],
+    "loop": [
+      "../Cyclops/781.svg",
+      null
+    ],
+    "end": [
+      null
+    ]
+  }
+}
