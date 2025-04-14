@@ -1,68 +1,68 @@
 {
-    "metadata": {
-        "version": "1.0",
-        "created": "2025-04-14",
-        "description": "Animations for Cannonball",
-        "author": "BlitzForge Studios"
-    },
-    "ready": {
-        "name": "Ready",
-        "start": [
-            "../Cannonball/1.svg",
-            null
-        ],
-        "loop": [
-            "../Cannonball/1.svg",
-            null
-        ],
-        "end": [
-            "../Cannonball/1.svg",
-            null
-        ]
-    },
-    "roll": {
-        "name": "Roll",
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Cannonball/roll/1.svg",
-            "../Cannonball/roll/17.svg"
-        ],
-        "end": [
-            "../Cannonball/30.svg",
-            "../Cannonball/43.svg"
-        ]
-    },
-    "koed": {
-        "name": "KO'd",
-        "start": [
-            "../Cannonball/44.svg",
-            null
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "explode": {
-        "name": "Explode",
-        "start": [
-            "../Cannonball/explode/1.svg",
-            "../Cannonball/explode/54.svg"
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    }
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-04-14",
+    "description": "Animations for Cannonball",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready",
+    "start": [
+      "../Cannonball/1.svg",
+      null
+    ],
+    "loop": [
+      "../Cannonball/1.svg",
+      null
+    ],
+    "end": [
+      "../Cannonball/1.svg",
+      null
+    ]
+  },
+  "roll": {
+    "name": "Roll",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Cannonball/roll/1.svg",
+      "../Cannonball/roll/17.svg"
+    ],
+    "end": [
+      "../Cannonball/30.svg",
+      "../Cannonball/43.svg"
+    ]
+  },
+  "koed": {
+    "name": "KO'd",
+    "start": [
+      "../Cannonball/44.svg",
+      null
+    ],
+    "loop": [
+      null,
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "explode": {
+    "name": "Explode",
+    "start": [
+      "../Cannonball/explode/1.svg",
+      "../Cannonball/explode/54.svg"
+    ],
+    "loop": [
+      null,
+      null
+    ],
+    "end": [
+      null,
+      null
+    ]
+  }
 }
