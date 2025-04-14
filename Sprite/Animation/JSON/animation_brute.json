@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-04-11",
+    "description": "Animations for Brute",
+    "author": "BlitzForge Studios"
+  },
+  "ready": {
+    "name": "Ready",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_01.svg",
+      "../Brute/_Animation_48.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "ready2": {
+    "name": "Ready2",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_49.svg",
+      "../Brute/_Animation_71.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "roar": {
+    "name": "Roar",
+    "start": [
+      "../Brute/_Animation_72.svg",
+      "../Brute/_Animation_91.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_92.svg",
+      "../Brute/_Animation_93.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "run": {
+    "name": "Run",
+    "start": [
+      "../Brute/_Animation_94.svg",
+      "../Brute/_Animation_110.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_111.svg",
+      "../Brute/_Animation_134.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_135.svg",
+      "../Brute/_Animation_143.svg"
+    ]
+  },
+  "jump": {
+    "name": "Jump",
+    "start": [
+      "../Brute/_Animation_144.svg",
+      "../Brute/_Animation_148.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_149.svg",
+      "../Brute/_Animation_150.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_150.svg",
+      "../Brute/_Animation_161.svg"
+    ]
+  },
+  "falling": {
+    "name": "Falling",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_162.svg",
+      "../Brute/_Animation_163.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_164.svg",
+      "../Brute/_Animation_174.svg"
+    ]
+  },
+  "backpedal": {
+    "name": "Backpedal",
+    "start": [
+      "../Brute/_Animation_175.svg",
+      "../Brute/_Animation_191.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_192.svg",
+      "../Brute/_Animation_215.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_216.svg",
+      "../Brute/_Animation_224.svg"
+    ]
+  },
+  "hitreact": {
+    "name": "Hit React",
+    "start": [
+      "../Brute/_Animation_225.svg",
+      "../Brute/_Animation_235.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_236.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_237.svg",
+      null
+    ]
+  },
+  "koed": {
+    "name": "KO'd",
+    "start": [
+      "../Brute/_Animation_238.svg",
+      "../Brute/_Animation_244.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_245.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_246.svg",
+      null
+    ]
+  },
+  "finalsplat": {
+    "name": "Final Splat",
+    "start": [
+      "../Brute/_Animation_247.svg",
+      "../Brute/_Animation_260.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_261.svg",
+      "../Brute/_Animation_262.svg"
+    ],
+    "end": [
+      null,
+      null
+    ]
+  },
+  "frozen": {
+    "name": "Frozen",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_263.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_268.svg",
+      null
+    ]
+  },
+  "stunned": {
+    "name": "Stunned",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_269.svg",
+      "../Brute/_Animation_292.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_293.svg",
+      "../Brute/_Animation_300.svg"
+    ]
+  },
+  "sleep": {
+    "name": "Sleep",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_301.svg",
+      "../Brute/_Animation_347.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_348.svg",
+      null
+    ]
+  },
+  "melee": {
+    "name": "Melee",
+    "start": [
+      "../Brute/_Animation_349.svg",
+      "../Brute/_Animation_386.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_387.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_388.svg",
+      null
+    ]
+  },
+  "melee2": {
+    "name": "Melee2",
+    "start": [
+      "../Brute/_Animation_389.svg",
+      "../Brute/_Animation_402.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_403.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_404.svg",
+      null
+    ]
+  },
+  "powerpounce": {
+    "name": "Power Pounce",
+    "start": [
+      "../Brute/_Animation_405.svg",
+      "../Brute/_Animation_418.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_419.svg",
+      "../Brute/_Animation_438.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_439.svg",
+      null
+    ]
+  },
+  "ubershot": {
+    "name": "Uber Shot",
+    "start": [
+      "../Brute/_Animation_440.svg",
+      "../Brute/_Animation_459.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_460.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_461.svg",
+      null
+    ]
+  },
+  "ubershot2": {
+    "name": "Uber Shot 2",
+    "start": [
+      "../Brute/_Animation_462.svg",
+      "../Brute/_Animation_473.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_474.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_475.svg",
+      null
+    ]
+  },
+  "ubershot3": {
+    "name": "Uber Shot 3",
+    "start": [
+      "../Brute/_Animation_476.svg",
+      "../Brute/_Animation_493.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_494.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_495.svg",
+      null
+    ]
+  },
+  "shoot": {
+    "name": "Shoot",
+    "start": [
+      "../Brute/_Animation_496.svg",
+      "../Brute/_Animation_513.svg"
+    ],
+    "loop": [
+      "../Brute/_Animation_514.svg",
+      null
+    ],
+    "end": [
+      "../Brute/_Animation_532.svg",
+      null
+    ]
+  },
+  "chained": {
+    "name": "Chained",
+    "start": [
+      null,
+      null
+    ],
+    "loop": [
+      "../Brute/_Animation_661.svg",
+      "../Brute/_Animation_692.svg"
+    ],
+    "end": [
+      "../Brute/_Animation_693.svg",
+      "../Brute/_Animation_746.svg"
+    ]
+  }
+}
