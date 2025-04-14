@@ -9,12 +9,12 @@
     "name": "Ready",
     "description": "A loop of area effect",
     "start": [
-      "../AreaEffect/_Animation_01.svg",
+      "../AreaEffect/1.svg",
       null
     ],
     "loop": [
-      "../AreaEffect/_Animation_02.svg",
-      "../AreaEffect/_Animation_48.svg"
+      "../AreaEffect/2.svg",
+      "../AreaEffect/48.svg"
     ],
     "end": [
       null,
@@ -25,8 +25,8 @@
     "name": "Summon",
     "description": "Appearing effect",
     "start": [
-      "../AreaEffect/_Animation_49.svg",
-      "../AreaEffect/_Animation_96.svg"
+      "../AreaEffect/49.svg",
+      "../AreaEffect/96.svg"
     ],
     "loop": [
       null,
@@ -41,8 +41,8 @@
     "name": "Dispel",
     "description": "Disappearing effect",
     "start": [
-      "../AreaEffect/_Animation_97.svg",
-      "../AreaEffect/_Animation_144.svg"
+      "../AreaEffect/97.svg",
+      "../AreaEffect/144.svg"
     ],
     "loop": [
       null,

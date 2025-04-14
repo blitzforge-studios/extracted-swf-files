@@ -13,8 +13,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_01.svg",
-      "../Abomination_spider/_Animation_46.svg"
+      "../Abomination_spider/1.svg",
+      "../Abomination_spider/46.svg"
     ],
     "end": [
       null,
@@ -29,8 +29,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_50.svg",
-      "../Abomination_spider/_Animation_74.svg"
+      "../Abomination_spider/50.svg",
+      "../Abomination_spider/74.svg"
     ],
     "end": [
       null,
@@ -41,28 +41,28 @@
     "name": "Jump",
     "description": "Jumping animation",
     "start": [
-      "../Abomination_spider/_Animation_75.svg",
-      "../Abomination_spider/_Animation_81.svg"
+      "../Abomination_spider/75.svg",
+      "../Abomination_spider/81.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_82.svg",
-      "../Abomination_spider/_Animation_104.svg"
+      "../Abomination_spider/82.svg",
+      "../Abomination_spider/104.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_105.svg",
-      "../Abomination_spider/_Animation_112.svg"
+      "../Abomination_spider/105.svg",
+      "../Abomination_spider/112.svg"
     ]
   },
   "duck": {
     "name": "Duck",
     "description": "Ducking/crouching animation",
     "start": [
-      "../Abomination_spider/_Animation_113.svg",
-      "../Abomination_spider/_Animation_116.svg"
+      "../Abomination_spider/113.svg",
+      null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_117.svg",
-      "../Abomination_spider/_Animation_130.svg"
+      "../Abomination_spider/113.svg",
+      null
     ],
     "end": [
       null,
@@ -73,12 +73,12 @@
     "name": "Backpedal",
     "description": "Backpedaling animation",
     "start": [
-      "../Abomination_spider/_Animation_131.svg",
-      "../Abomination_spider/_Animation_134.svg"
+      "../Abomination_spider/131.svg",
+      null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_135.svg",
-      "../Abomination_spider/_Animation_150.svg"
+      "../Abomination_spider/131.svg",
+      null
     ],
     "end": [
       null,
@@ -93,8 +93,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_153.svg",
-      "../Abomination_spider/_Animation_163.svg"
+      "../Abomination_spider/153.svg",
+      "../Abomination_spider/163.svg"
     ],
     "end": [
       null,
@@ -105,12 +105,12 @@
     "name": "KO'd",
     "description": "Knocked out animation",
     "start": [
-      "../Abomination_spider/_Animation_164.svg",
-      "../Abomination_spider/_Animation_204.svg"
+      "../Abomination_spider/164.svg",
+      "../Abomination_spider/204.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_205.svg",
-      "../Abomination_spider/_Animation_206.svg"
+      "../Abomination_spider/205.svg",
+      "../Abomination_spider/206.svg"
     ],
     "end": [
       null,
@@ -125,8 +125,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_207.svg",
-      "../Abomination_spider/_Animation_212.svg"
+      "../Abomination_spider/207.svg",
+      "../Abomination_spider/212.svg"
     ],
     "end": [
       null,
@@ -141,8 +141,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_213.svg",
-      "../Abomination_spider/_Animation_243.svg"
+      "../Abomination_spider/213.svg",
+      "../Abomination_spider/243.svg"
     ],
     "end": [
       null,
@@ -157,28 +157,28 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_244.svg",
-      "../Abomination_spider/_Animation_249.svg"
+      "../Abomination_spider/244.svg",
+      "../Abomination_spider/249.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_250.svg",
-      "../Abomination_spider/_Animation_261.svg"
+      "../Abomination_spider/250.svg",
+      "../Abomination_spider/261.svg"
     ]
   },
   "melee": {
     "name": "Melee Attack",
     "description": "Primary melee attack animation",
     "start": [
-      "../Abomination_spider/_Animation_262.svg",
-      "../Abomination_spider/_Animation_274.svg"
+      "../Abomination_spider/262.svg",
+      "../Abomination_spider/274.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_275.svg",
-      "../Abomination_spider/_Animation_276.svg"
+      "../Abomination_spider/275.svg",
+      "../Abomination_spider/276.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_277.svg",
-      "../Abomination_spider/_Animation_290.svg"
+      "../Abomination_spider/277.svg",
+      "../Abomination_spider/290.svg"
     ]
   },
   "melee2": {
@@ -189,44 +189,44 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_291.svg",
-      "../Abomination_spider/_Animation_303.svg"
+      "../Abomination_spider/291.svg",
+      "../Abomination_spider/303.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_304.svg",
-      "../Abomination_spider/_Animation_308.svg"
+      "../Abomination_spider/304.svg",
+      "../Abomination_spider/308.svg"
     ]
   },
   "pounce": {
     "name": "Pounce",
     "description": "Pouncing attack animation",
     "start": [
-      "../Abomination_spider/_Animation_309.svg",
-      "../Abomination_spider/_Animation_316.svg"
+      "../Abomination_spider/309.svg",
+      "../Abomination_spider/316.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_317.svg",
-      "../Abomination_spider/_Animation_324.svg"
+      "../Abomination_spider/317.svg",
+      "../Abomination_spider/324.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_325.svg",
-      "../Abomination_spider/_Animation_329.svg"
+      "../Abomination_spider/325.svg",
+      "../Abomination_spider/329.svg"
     ]
   },
   "shoot": {
     "name": "Shoot",
     "description": "Ranged attack animation",
     "start": [
-      "../Abomination_spider/_Animation_330.svg",
-      "../Abomination_spider/_Animation_339.svg"
+      "../Abomination_spider/330.svg",
+      "../Abomination_spider/339.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_340.svg",
-      "../Abomination_spider/_Animation_341.svg"
+      "../Abomination_spider/340.svg",
+      "../Abomination_spider/341.svg"
     ],
     "end": [
-      "../Abomination_spider/_Animation_342.svg",
-      "../Abomination_spider/_Animation_349.svg"
+      "../Abomination_spider/342.svg",
+      "../Abomination_spider/349.svg"
     ]
   },
   "descend": {
@@ -237,8 +237,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_350.svg",
-      "../Abomination_spider/_Animation_430.svg"
+      "../Abomination_spider/350.svg",
+      "../Abomination_spider/430.svg"
     ],
     "end": [
       null,
@@ -253,8 +253,8 @@
       null
     ],
     "loop": [
-      "../Abomination_spider/_Animation_431.svg",
-      "../Abomination_spider/_Animation_473.svg"
+      "../Abomination_spider/431.svg",
+      "../Abomination_spider/473.svg"
     ],
     "end": [
       null,
@@ -265,12 +265,12 @@
     "name": "Blast",
     "description": "Powerful ranged attack animation",
     "start": [
-      "../Abomination_spider/_Animation_474.svg",
-      "../Abomination_spider/_Animation_507.svg"
+      "../Abomination_spider/474.svg",
+      "../Abomination_spider/507.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_508.svg",
-      "../Abomination_spider/_Animation_509.svg"
+      "../Abomination_spider/508.svg",
+      "../Abomination_spider/509.svg"
     ],
     "end": [
       null,
@@ -281,12 +281,12 @@
     "name": "Blast 2",
     "description": "Secondary powerful ranged attack animation",
     "start": [
-      "../Abomination_spider/_Animation_510.svg",
-      "../Abomination_spider/_Animation_559.svg"
+      "../Abomination_spider/510.svg",
+      "../Abomination_spider/559.svg"
     ],
     "loop": [
-      "../Abomination_spider/_Animation_560.svg",
-      "../Abomination_spider/_Animation_561.svg"
+      "../Abomination_spider/560.svg",
+      "../Abomination_spider/561.svg"
     ],
     "end": [
       null,

@@ -12,8 +12,8 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_01.svg",
-      "../Brute/_Animation_48.svg"
+      "../Brute/01.svg",
+      "../Brute/48.svg"
     ],
     "end": [
       null,
@@ -27,8 +27,8 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_49.svg",
-      "../Brute/_Animation_71.svg"
+      "../Brute/49.svg",
+      "../Brute/71.svg"
     ],
     "end": [
       null,
@@ -38,12 +38,12 @@
   "roar": {
     "name": "Roar",
     "start": [
-      "../Brute/_Animation_72.svg",
-      "../Brute/_Animation_91.svg"
+      "../Brute/72.svg",
+      "../Brute/91.svg"
     ],
     "loop": [
-      "../Brute/_Animation_92.svg",
-      "../Brute/_Animation_93.svg"
+      "../Brute/92.svg",
+      "../Brute/93.svg"
     ],
     "end": [
       null,
@@ -53,31 +53,31 @@
   "run": {
     "name": "Run",
     "start": [
-      "../Brute/_Animation_94.svg",
-      "../Brute/_Animation_110.svg"
+      "../Brute/94.svg",
+      "../Brute/110.svg"
     ],
     "loop": [
-      "../Brute/_Animation_111.svg",
-      "../Brute/_Animation_134.svg"
+      "../Brute/111.svg",
+      "../Brute/134.svg"
     ],
     "end": [
-      "../Brute/_Animation_135.svg",
-      "../Brute/_Animation_143.svg"
+      "../Brute/135.svg",
+      "../Brute/143.svg"
     ]
   },
   "jump": {
     "name": "Jump",
     "start": [
-      "../Brute/_Animation_144.svg",
-      "../Brute/_Animation_148.svg"
+      "../Brute/144.svg",
+      "../Brute/148.svg"
     ],
     "loop": [
-      "../Brute/_Animation_149.svg",
-      "../Brute/_Animation_150.svg"
+      "../Brute/149.svg",
+      "../Brute/150.svg"
     ],
     "end": [
-      "../Brute/_Animation_150.svg",
-      "../Brute/_Animation_161.svg"
+      "../Brute/150.svg",
+      "../Brute/161.svg"
     ]
   },
   "falling": {
@@ -87,68 +87,68 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_162.svg",
-      "../Brute/_Animation_163.svg"
+      "../Brute/162.svg",
+      "../Brute/163.svg"
     ],
     "end": [
-      "../Brute/_Animation_164.svg",
-      "../Brute/_Animation_174.svg"
+      "../Brute/164.svg",
+      "../Brute/174.svg"
     ]
   },
   "backpedal": {
     "name": "Backpedal",
     "start": [
-      "../Brute/_Animation_175.svg",
-      "../Brute/_Animation_191.svg"
+      "../Brute/175.svg",
+      "../Brute/191.svg"
     ],
     "loop": [
-      "../Brute/_Animation_192.svg",
-      "../Brute/_Animation_215.svg"
+      "../Brute/192.svg",
+      "../Brute/215.svg"
     ],
     "end": [
-      "../Brute/_Animation_216.svg",
-      "../Brute/_Animation_224.svg"
+      "../Brute/216.svg",
+      "../Brute/224.svg"
     ]
   },
   "hitreact": {
     "name": "Hit React",
     "start": [
-      "../Brute/_Animation_225.svg",
-      "../Brute/_Animation_235.svg"
+      "../Brute/225.svg",
+      "../Brute/235.svg"
     ],
     "loop": [
-      "../Brute/_Animation_236.svg",
+      "../Brute/236.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_237.svg",
+      "../Brute/237.svg",
       null
     ]
   },
   "koed": {
     "name": "KO'd",
     "start": [
-      "../Brute/_Animation_238.svg",
-      "../Brute/_Animation_244.svg"
+      "../Brute/238.svg",
+      "../Brute/244.svg"
     ],
     "loop": [
-      "../Brute/_Animation_245.svg",
+      "../Brute/245.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_246.svg",
+      "../Brute/246.svg",
       null
     ]
   },
   "finalsplat": {
     "name": "Final Splat",
     "start": [
-      "../Brute/_Animation_247.svg",
-      "../Brute/_Animation_260.svg"
+      "../Brute/247.svg",
+      "../Brute/260.svg"
     ],
     "loop": [
-      "../Brute/_Animation_261.svg",
-      "../Brute/_Animation_262.svg"
+      "../Brute/261.svg",
+      "../Brute/262.svg"
     ],
     "end": [
       null,
@@ -162,11 +162,11 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_263.svg",
+      "../Brute/263.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_268.svg",
+      "../Brute/268.svg",
       null
     ]
   },
@@ -177,12 +177,12 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_269.svg",
-      "../Brute/_Animation_292.svg"
+      "../Brute/269.svg",
+      "../Brute/292.svg"
     ],
     "end": [
-      "../Brute/_Animation_293.svg",
-      "../Brute/_Animation_300.svg"
+      "../Brute/293.svg",
+      "../Brute/300.svg"
     ]
   },
   "sleep": {
@@ -192,116 +192,116 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_301.svg",
-      "../Brute/_Animation_347.svg"
+      "../Brute/301.svg",
+      "../Brute/347.svg"
     ],
     "end": [
-      "../Brute/_Animation_348.svg",
+      "../Brute/348.svg",
       null
     ]
   },
   "melee": {
     "name": "Melee",
     "start": [
-      "../Brute/_Animation_349.svg",
-      "../Brute/_Animation_386.svg"
+      "../Brute/349.svg",
+      "../Brute/386.svg"
     ],
     "loop": [
-      "../Brute/_Animation_387.svg",
+      "../Brute/387.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_388.svg",
+      "../Brute/388.svg",
       null
     ]
   },
   "melee2": {
     "name": "Melee2",
     "start": [
-      "../Brute/_Animation_389.svg",
-      "../Brute/_Animation_402.svg"
+      "../Brute/389.svg",
+      "../Brute/402.svg"
     ],
     "loop": [
-      "../Brute/_Animation_403.svg",
+      "../Brute/403.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_404.svg",
+      "../Brute/404.svg",
       null
     ]
   },
   "powerpounce": {
     "name": "Power Pounce",
     "start": [
-      "../Brute/_Animation_405.svg",
-      "../Brute/_Animation_418.svg"
+      "../Brute/405.svg",
+      "../Brute/418.svg"
     ],
     "loop": [
-      "../Brute/_Animation_419.svg",
-      "../Brute/_Animation_438.svg"
+      "../Brute/419.svg",
+      "../Brute/438.svg"
     ],
     "end": [
-      "../Brute/_Animation_439.svg",
+      "../Brute/439.svg",
       null
     ]
   },
   "ubershot": {
     "name": "Uber Shot",
     "start": [
-      "../Brute/_Animation_440.svg",
-      "../Brute/_Animation_459.svg"
+      "../Brute/440.svg",
+      "../Brute/459.svg"
     ],
     "loop": [
-      "../Brute/_Animation_460.svg",
+      "../Brute/460.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_461.svg",
+      "../Brute/461.svg",
       null
     ]
   },
   "ubershot2": {
     "name": "Uber Shot 2",
     "start": [
-      "../Brute/_Animation_462.svg",
-      "../Brute/_Animation_473.svg"
+      "../Brute/462.svg",
+      "../Brute/473.svg"
     ],
     "loop": [
-      "../Brute/_Animation_474.svg",
+      "../Brute/474.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_475.svg",
+      "../Brute/475.svg",
       null
     ]
   },
   "ubershot3": {
     "name": "Uber Shot 3",
     "start": [
-      "../Brute/_Animation_476.svg",
-      "../Brute/_Animation_493.svg"
+      "../Brute/476.svg",
+      "../Brute/493.svg"
     ],
     "loop": [
-      "../Brute/_Animation_494.svg",
+      "../Brute/494.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_495.svg",
+      "../Brute/495.svg",
       null
     ]
   },
   "shoot": {
     "name": "Shoot",
     "start": [
-      "../Brute/_Animation_496.svg",
-      "../Brute/_Animation_513.svg"
+      "../Brute/496.svg",
+      "../Brute/513.svg"
     ],
     "loop": [
-      "../Brute/_Animation_514.svg",
+      "../Brute/514.svg",
       null
     ],
     "end": [
-      "../Brute/_Animation_532.svg",
+      "../Brute/532.svg",
       null
     ]
   },
@@ -312,12 +312,12 @@
       null
     ],
     "loop": [
-      "../Brute/_Animation_661.svg",
-      "../Brute/_Animation_692.svg"
+      "../Brute/661.svg",
+      "../Brute/692.svg"
     ],
     "end": [
-      "../Brute/_Animation_693.svg",
-      "../Brute/_Animation_746.svg"
+      "../Brute/693.svg",
+      "../Brute/746.svg"
     ]
   }
 }
