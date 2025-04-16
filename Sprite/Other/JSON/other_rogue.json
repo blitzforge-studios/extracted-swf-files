@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "author": "BlitzForge Studios",
+        "created": "2024-04-15",
+        "description": "Other sprites for Rogue"
+    },
+    "drop": {
+        "GearHat": "../Rogue/Other/GearHat.svg",
+        "Mantle": "../Rogue/Other/Mantle.svg",
+        "GearSword": "../Rogue/Other/GearSword.svg",
+        "GearOffHand": "../Rogue/Other/GearOffHand.svg",
+        "GearBelt": "../Rogue/Other/GearBelt.svg",
+        "GearGloves": "../Rogue/Other/GearGloves.svg",
+        "GearBoots": "../Rogue/Other/GearBoots.svg"
+    }
+}
