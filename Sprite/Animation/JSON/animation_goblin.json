@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "author": "BlitzForge Studios",
+        "created": "2024-04-19",
+        "description": "Animations for Rogue"
+    },
+    "relaxed": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/1.svg",
+            "../Goblin/48.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "board": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/50.svg",
+            null
+        ],
+        "end": [
+            "../Goblin/51.svg",
+            "../Goblin/72.svg"
+        ]
+    },
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/74.svg",
+            "../Goblin/116.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            "../Goblin/142.svg",
+            "../Goblin/148.svg"
+        ],
+        "loop": [
+            "../Goblin/149.svg",
+            "../Goblin/161.svg"
+        ],
+        "end": [
+            "../Goblin/162.svg",
+            "../Goblin/174.svg"
+        ]
+    },
+    "jump": {
+        "start": [
+            "../Goblin/176.svg",
+            "../Goblin/184.svg"
+        ],
+        "loop": [
+            "../Goblin/185.svg",
+            "../Goblin/207.svg"
+        ],
+        "end": [
+            "../Goblin/208.svg",
+            "../Goblin/215.svg"
+        ]
+    },
+    "hitreact": {
+        "start": [
+            "../Goblin/255.svg",
+            "../Goblin/256.svg"
+        ],
+        "loop": [
+            "../Goblin/257.svg",
+            null
+        ],
+        "end": [
+            "../Goblin/258.svg",
+            "../Goblin/266.svg"
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Goblin/268.svg",
+            "../Goblin/331.svg"
+        ],
+        "loop": [
+            "../Goblin/332.svg",
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/336.svg",
+            "../Goblin/340.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/342.svg",
+            "../Goblin/370.svg"
+        ],
+        "end": [
+            "../Goblin/371.svg",
+            null
+        ]
+    },
+    "sleep": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/373.svg",
+            "../Goblin/437.svg"
+        ],
+        "end": [
+            "../Goblin/438.svg",
+            "../Goblin/480.svg"
+        ]
+    },
+    "melee": {
+        "start": [
+            "../Goblin/501.svg",
+            "../Goblin/531.svg"
+        ],
+        "loop": [
+            "../Goblin/532.svg",
+            null
+        ],
+        "end": [
+            "../Goblin/533.svg",
+            "../Goblin/534.svg"
+        ]
+    },
+    "melee2": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/482.svg",
+            "../Goblin/499.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "shoot": {
+        "start": [
+            "../Goblin/536.svg",
+            "../Goblin/540.svg"
+        ],
+        "loop": [
+            "../Goblin/541.svg",
+            null
+        ],
+        "end": [
+            "../Goblin/542.svg",
+            "../Goblin/555.svg"
+        ]
+    },
+    "charge": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/561.svg",
+            "../Goblin/577.svg"
+        ],
+        "end": [
+            "../Goblin/578.svg",
+            null
+        ]
+    },
+    "rush": {
+        "open": {
+            "start": [
+                "../Goblin/579.svg",
+                "../Goblin/615.svg"
+            ],
+            "loop": [
+                "../Goblin/616.svg",
+                "../Goblin/617.svg"
+            ],
+            "end": [
+                "../Goblin/618.svg",
+                "../Goblin/619.svg"
+            ]
+        },
+        "close": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Goblin/620.svg",
+                "../Goblin/621.svg"
+            ],
+            "end": [
+                "../Goblin/622.svg",
+                "../Goblin/639.svg"
+            ]
+        }
+    }
+}
