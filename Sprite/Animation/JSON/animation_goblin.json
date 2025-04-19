@@ -398,5 +398,33 @@
             "../Goblin/1104.svg",
             "../Goblin/1113.svg"
         ]
+    },
+    "fatthronesitting": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Goblin/1116.svg",
+            "../Goblin/1145.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "fatthrone": {
+        "start": [
+            "../Goblin/1148.svg",
+            "../Goblin/1303.svg"
+        ],
+        "loop": [
+            "../Goblin/1304.svg",
+            "../Goblin/1328.svg"
+        ],
+        "end": [
+            "../Goblin/1329.svg",
+            "../Goblin/1364.svg"
+        ]
     }
 }
