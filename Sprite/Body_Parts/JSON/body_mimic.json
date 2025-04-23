@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-04-23",
+    "description": "Mimic body configurations for different variants",
+    "author": "BlitzForge Studios"
+  },
+  "variants": {
+    "Default": {
+      "name": "Default",
+      "description": "Default Mimic body configuration",
+      "parts": {
+        "Body": "../Mimic/Body/Default.svg",
+        "BodyBlink": "../Mimic/BodyBlink/Default.svg",
+        "BodyClamp": "../Mimic/BodyClamp/Default.svg",
+        "BodyWide": "../Mimic/BodyWide/Default.svg",
+        "BodyWide2": "../Mimic/BodyWide2/Default.svg",
+        "Eye": "../Mimic/Eye/Default.svg",
+        "Eye2": "../Mimic/Eye2/Default.svg",
+        "Eye3": "../Mimic/Eye3/Default.svg",
+        "LowerTeeth": "../Mimic/LowerTeeth/Default.svg",
+        "MouthBack": "../Mimic/MouthBack/Default.svg",
+        "MouthBack2": "../Mimic/MouthBack2/Default.svg",
+        "UpperTeeth": "../Mimic/UpperTeeth/Default.svg"
+      }
+    },
+    "12": {
+      "name": "12",
+      "description": "12 variant",
+      "parts": {
+        "Body": "../Mimic/Body/12.svg",
+        "BodyBlink": "../Mimic/BodyBlink/12.svg",
+        "BodyClamp": "../Mimic/BodyClamp/12.svg",
+        "BodyWide": "../Mimic/BodyWide/12.svg",
+        "BodyWide2": "../Mimic/BodyWide2/12.svg",
+        "Eye": "../Mimic/Eye/12.svg",
+        "Eye2": "../Mimic/Eye2/12.svg",
+        "Eye3": "../Mimic/Eye3/12.svg",
+        "LowerTeeth": "../Mimic/LowerTeeth/12.svg",
+        "MouthBack": "../Mimic/MouthBack/12.svg",
+        "MouthBack2": "../Mimic/MouthBack2/12.svg",
+        "UpperTeeth": "../Mimic/UpperTeeth/12.svg"
+      }
+    },
+    "13": {
+      "name": "13",
+      "description": "13 variant",
+      "parts": {
+        "Body": "../Mimic/Body/13.svg",
+        "BodyBlink": "../Mimic/BodyBlink/13.svg",
+        "BodyClamp": "../Mimic/BodyClamp/13.svg",
+        "BodyWide": "../Mimic/BodyWide/13.svg",
+        "BodyWide2": "../Mimic/BodyWide2/13.svg",
+        "Eye": "../Mimic/Eye/13.svg",
+        "Eye2": "../Mimic/Eye2/13.svg",
+        "Eye3": "../Mimic/Eye3/13.svg",
+        "LowerTeeth": "../Mimic/LowerTeeth/13.svg",
+        "MouthBack": "../Mimic/MouthBack/13.svg",
+        "MouthBack2": "../Mimic/MouthBack2/13.svg",
+        "UpperTeeth": "../Mimic/UpperTeeth/13.svg"
+      }
+    }
+  }
+}
