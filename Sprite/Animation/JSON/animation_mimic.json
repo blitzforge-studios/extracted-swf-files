@@ -1,0 +1,44 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/1.svg",
+            "../Mimic/53.svg"
+        ],
+        "end": [
+            "../Mimic/54.svg",
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            "../Mimic/74.svg",
+            "../Mimic/78.svg"
+        ],
+        "loop": [
+            "../Mimic/79.svg",
+            "../Mimic/99.svg"
+        ],
+        "end": [
+            "../Mimic/100.svg",
+            "../Mimic/104.svg"
+        ]
+    },
+    "falling": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/105.svg",
+            "../Mimic/122.svg"
+        ],
+        "end": [
+            "../Mimic/123.svg",
+            "../Mimic/127.svg"
+        ]
+    }
+}
