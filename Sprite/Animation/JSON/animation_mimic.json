@@ -1,0 +1,170 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/1.svg",
+            "../Mimic/53.svg"
+        ],
+        "end": [
+            "../Mimic/54.svg",
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            "../Mimic/74.svg",
+            "../Mimic/78.svg"
+        ],
+        "loop": [
+            "../Mimic/79.svg",
+            "../Mimic/99.svg"
+        ],
+        "end": [
+            "../Mimic/100.svg",
+            "../Mimic/104.svg"
+        ]
+    },
+    "falling": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/105.svg",
+            "../Mimic/122.svg"
+        ],
+        "end": [
+            "../Mimic/123.svg",
+            "../Mimic/127.svg"
+        ]
+    },
+    "backpedal": {
+        "start": [
+            "../Mimic/128.svg",
+            "../Mimic/132.svg"
+        ],
+        "loop": [
+            "../Mimic/133.svg",
+            "../Mimic/153.svg"
+        ],
+        "end": [
+            "../Mimic/154.svg",
+            "../Mimic/158.svg"
+        ]
+    },
+    "hitreact": {
+        "start": [
+            "../Mimic/159.svg",
+            "../Mimic/174.svg"
+        ],
+        "loop": [
+            "../Mimic/175.svg",
+            null
+        ],
+        "end": [
+            "../Mimic/176.svg",
+            null
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Mimic/177.svg",
+            "../Mimic/179.svg"
+        ],
+        "loop": [
+            "../Mimic/180.svg",
+            null
+        ],
+        "end": [
+            "../Mimic/181.svg",
+            null
+        ]
+    },
+    "finalsplat": {
+        "start": [
+            "../Mimic/182.svg",
+            "../Mimic/208.svg"
+        ],
+        "loop": [
+            "../Mimic/209.svg",
+            null
+        ],
+        "end": [
+            "../Mimic/210.svg",
+            null
+        ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/211.svg",
+            "../Mimic/214.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/215.svg",
+            "../Mimic/243.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "sleep": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mimic/244.svg",
+            null
+        ],
+        "end": [
+            "../Mimic/245.svg",
+            null
+        ]
+    },
+    "melee": {
+        "start": [
+            "../Mimic/246.svg",
+            "../Mimic/277.svg"
+        ],
+        "loop": [
+            "../Mimic/278.svg",
+            null
+        ],
+        "end": [
+            "../Mimic/279.svg",
+            null
+        ]
+    },
+    "breath": {
+        "start": [
+            "../Mimic/280.svg",
+            "../Mimic/333.svg"
+        ],
+        "loop": [
+            "../Mimic/334.svg",
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    }
+}
