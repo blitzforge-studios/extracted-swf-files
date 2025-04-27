@@ -1,45 +1,91 @@
 {
     "ready": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/1.svg",
-            "../Mage/48.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
+        "default": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/1.svg",
+                "../Mage/48.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "old_man": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/156.svg",
+                "../Mage/203.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
     },
-    "old_man_ready": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/156.svg",
-            "../Mage/203.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "crossbow_ready": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/106.svg",
-            "../Mage/153.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
+    "crossbow": {
+        "ready": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/106.svg",
+                "../Mage/153.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "run": {
+            "start": [
+                "../Mage/468.svg",
+                "../Mage/474.svg"
+            ],
+            "loop": [
+                "../Mage/475.svg",
+                "../Mage/490.svg"
+            ],
+            "end": [
+                "../Mage/491.svg",
+                "../Mage/504.svg"
+            ]
+        },
+        "shoot": {
+            "start": [
+                "../Mage/1753.svg",
+                "../Mage/1764.svg"
+            ],
+            "loop": [
+                "../Mage/1765.svg",
+                "../Mage/1784.svg"
+            ],
+            "end": [
+                "../Mage/1785.svg",
+                "../Mage/1791.svg"
+            ]
+        },
+        "double_shoot": {
+            "start": [
+                "../Mage/1793.svg",
+                "../Mage/1804.svg"
+            ],
+            "loop": [
+                "../Mage/1805.svg",
+                "../Mage/1830.svg"
+            ],
+            "end": [
+                "../Mage/1831.svg",
+                "../Mage/1837.svg"
+            ]
+        }
     },
     "relaxed": {
         "start": [
@@ -83,20 +129,6 @@
             null
         ]
     },
-    "call_mount": {
-        "start": [
-            "../Mage/322.svg",
-            "../Mage/331.svg"
-        ],
-        "loop": [
-            "../Mage/332.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
     "backpedal": {
         "start": [
             "../Mage/334.svg",
@@ -111,453 +143,519 @@
             "../Mage/360.svg"
         ]
     },
-    "call_pet": {
-        "start": [
-            "../Mage/362.svg",
-            "../Mage/387.svg"
-        ],
-        "loop": [
-            "../Mage/388.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
+    "mount": {
+        "call": {
+            "start": [
+                "../Mage/322.svg",
+                "../Mage/331.svg"
+            ],
+            "loop": [
+                "../Mage/332.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
+    },
+    "dire": {
+        "ready": {
+            "female": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/814.svg",
+                    "../Mage/879.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "male": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1038.svg",
+                    "../Mage/1103.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            }
+        },
+        "run": {
+            "female": {
+                "start": [
+                    "../Mage/880.svg",
+                    "../Mage/882.svg"
+                ],
+                "loop": [
+                    "../Mage/883.svg",
+                    "../Mage/897.svg"
+                ],
+                "end": [
+                    "../Mage/898.svg",
+                    "../Mage/915.svg"
+                ]
+            },
+            "male": {
+                "start": [
+                    "../Mage/1104.svg",
+                    "../Mage/1106.svg"
+                ],
+                "loop": [
+                    "../Mage/1107.svg",
+                    "../Mage/1121.svg"
+                ],
+                "end": [
+                    "../Mage/1122.svg",
+                    "../Mage/1139.svg"
+                ]
+            }
+        },
+        "jump": {
+            "female": {
+                "start": [
+                    "../Mage/1019.svg",
+                    "../Mage/1024.svg"
+                ],
+                "loop": [
+                    "../Mage/1025.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1026.svg",
+                    "../Mage/1036.svg"
+                ]
+            },
+            "male": {
+                "start": [
+                    "../Mage/1243.svg",
+                    "../Mage/1248.svg"
+                ],
+                "loop": [
+                    "../Mage/1249.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1250.svg",
+                    "../Mage/1260.svg"
+                ]
+            }
+        }
+    },
+    "horse": {
+        "ready": {
+            "female": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/916.svg",
+                    "../Mage/976.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "male": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1140.svg",
+                    "../Mage/1200.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            }
+        },
+        "run": {
+            "female": {
+                "start": [
+                    "../Mage/977.svg",
+                    "../Mage/979.svg"
+                ],
+                "loop": [
+                    "../Mage/980.svg",
+                    "../Mage/988.svg"
+                ],
+                "end": [
+                    "../Mage/989.svg",
+                    "../Mage/1001.svg"
+                ]
+            },
+            "male": {
+                "start": [
+                    "../Mage/1201.svg",
+                    "../Mage/1203.svg"
+                ],
+                "loop": [
+                    "../Mage/1204.svg",
+                    "../Mage/1212.svg"
+                ],
+                "end": [
+                    "../Mage/1213.svg",
+                    "../Mage/1225.svg"
+                ]
+            }
+        },
+        "jump": {
+            "female": {
+                "start": [
+                    "../Mage/1002.svg",
+                    "../Mage/1011.svg"
+                ],
+                "loop": [
+                    "../Mage/1012.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1013.svg",
+                    "../Mage/1018.svg"
+                ]
+            },
+            "male": {
+                "start": [
+                    "../Mage/1226.svg",
+                    "../Mage/1235.svg"
+                ],
+                "loop": [
+                    "../Mage/1236.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1237.svg",
+                    "../Mage/1242.svg"
+                ]
+            }
+        }
+    },
+    "pet": {
+        "call": {
+            "start": [
+                "../Mage/362.svg",
+                "../Mage/387.svg"
+            ],
+            "loop": [
+                "../Mage/388.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
+    },
+    "summon": {
+        "female": {
+            "start": [
+                "../Mage/2054.svg",
+                "../Mage/2059.svg"
+            ],
+            "loop": [
+                "../Mage/2060.svg",
+                null
+            ],
+            "end": [
+                "../Mage/2061.svg",
+                "../Mage/2074.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/2093.svg",
+                "../Mage/2098.svg"
+            ],
+            "loop": [
+                "../Mage/2099.svg",
+                null
+            ],
+            "end": [
+                "../Mage/2100.svg",
+                "../Mage/2113.svg"
+            ]
+        }
     },
     "run": {
-        "start": [
-            "../Mage/390.svg",
-            "../Mage/398.svg"
-        ],
-        "loop": [
-            "../Mage/399.svg",
-            "../Mage/412.svg"
-        ],
-        "end": [
-            "../Mage/413.svg",
-            "../Mage/428.svg"
-        ]
-    },
-    "run_male": {
-        "start": [
-            "../Mage/429.svg",
-            "../Mage/437.svg"
-        ],
-        "loop": [
-            "../Mage/438.svg",
-            "../Mage/451.svg"
-        ],
-        "end": [
-            "../Mage/452.svg",
-            "../Mage/467.svg"
-        ]
-    },
-    "crossbow_run": {
-        "start": [
-            "../Mage/468.svg",
-            "../Mage/474.svg"
-        ],
-        "loop": [
-            "../Mage/475.svg",
-            "../Mage/490.svg"
-        ],
-        "end": [
-            "../Mage/491.svg",
-            "../Mage/504.svg"
-        ]
-    },
-    "float_run": {
-        "start": [
-            "../Mage/507.svg",
-            "../Mage/512.svg"
-        ],
-        "loop": [
-            "../Mage/513.svg",
-            "../Mage/537.svg"
-        ],
-        "end": [
-            "../Mage/538.svg",
-            "../Mage/548.svg"
-        ]
+        "female": {
+            "start": [
+                "../Mage/390.svg",
+                "../Mage/398.svg"
+            ],
+            "loop": [
+                "../Mage/399.svg",
+                "../Mage/412.svg"
+            ],
+            "end": [
+                "../Mage/413.svg",
+                "../Mage/428.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/429.svg",
+                "../Mage/437.svg"
+            ],
+            "loop": [
+                "../Mage/438.svg",
+                "../Mage/451.svg"
+            ],
+            "end": [
+                "../Mage/452.svg",
+                "../Mage/467.svg"
+            ]
+        },
+        "float": {
+            "start": [
+                "../Mage/507.svg",
+                "../Mage/512.svg"
+            ],
+            "loop": [
+                "../Mage/513.svg",
+                "../Mage/537.svg"
+            ],
+            "end": [
+                "../Mage/538.svg",
+                "../Mage/548.svg"
+            ]
+        }
     },
     "jump": {
-        "start": [
-            "../Mage/550.svg",
-            "../Mage/556.svg"
-        ],
-        "loop": [
-            "../Mage/557.svg",
-            "../Mage/581.svg"
-        ],
-        "end": [
-            "../Mage/582.svg",
-            "../Mage/597.svg"
-        ]
-    },
-    "jump_male": {
-        "start": [
-            "../Mage/599.svg",
-            "../Mage/605.svg"
-        ],
-        "loop": [
-            "../Mage/606.svg",
-            "../Mage/630.svg"
-        ],
-        "end": [
-            "../Mage/631.svg",
-            "../Mage/646.svg"
-        ]
+        "female": {
+            "start": [
+                "../Mage/550.svg",
+                "../Mage/556.svg"
+            ],
+            "loop": [
+                "../Mage/557.svg",
+                "../Mage/581.svg"
+            ],
+            "end": [
+                "../Mage/582.svg",
+                "../Mage/597.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/599.svg",
+                "../Mage/605.svg"
+            ],
+            "loop": [
+                "../Mage/606.svg",
+                "../Mage/630.svg"
+            ],
+            "end": [
+                "../Mage/631.svg",
+                "../Mage/646.svg"
+            ]
+        }
     },
     "fall": {
-        "start": [
-            "../Mage/648.svg",
-            null
-        ],
-        "loop": [
-            "../Mage/649.svg",
-            "../Mage/672.svg"
-        ],
-        "end": [
-            "../Mage/673.svg",
-            "../Mage/688.svg"
-        ]
-    },
-    "fall_male": {
-        "start": [
-            "../Mage/690.svg",
-            null
-        ],
-        "loop": [
-            "../Mage/691.svg",
-            "../Mage/714.svg"
-        ],
-        "end": [
-            "../Mage/715.svg",
-            "../Mage/730.svg"
-        ]
+        "female": {
+            "start": [
+                "../Mage/648.svg",
+                null
+            ],
+            "loop": [
+                "../Mage/649.svg",
+                "../Mage/672.svg"
+            ],
+            "end": [
+                "../Mage/673.svg",
+                "../Mage/688.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/690.svg",
+                null
+            ],
+            "loop": [
+                "../Mage/691.svg",
+                "../Mage/714.svg"
+            ],
+            "end": [
+                "../Mage/715.svg",
+                "../Mage/730.svg"
+            ]
+        }
     },
     "drop": {
-        "start": [
-            "../Mage/731.svg",
-            null
-        ],
-        "loop": [
-            "../Mage/732.svg",
-            "../Mage/755.svg"
-        ],
-        "end": [
-            "../Mage/756.svg",
-            "../Mage/771.svg"
-        ]
-    },
-    "drop_male": {
-        "start": [
-            "../Mage/773.svg",
-            null
-        ],
-        "loop": [
-            "../Mage/774.svg",
-            "../Mage/797.svg"
-        ],
-        "end": [
-            "../Mage/798.svg",
-            "../Mage/813.svg"
-        ]
-    },
-    "ready_dire": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/814.svg",
-            "../Mage/879.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "run_dire": {
-        "start": [
-            "../Mage/880.svg",
-            "../Mage/882.svg"
-        ],
-        "loop": [
-            "../Mage/883.svg",
-            "../Mage/897.svg"
-        ],
-        "end": [
-            "../Mage/898.svg",
-            "../Mage/915.svg"
-        ]
-    },
-    "ready_horse": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/916.svg",
-            "../Mage/976.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "run_horse": {
-        "start": [
-            "../Mage/977.svg",
-            "../Mage/979.svg"
-        ],
-        "loop": [
-            "../Mage/980.svg",
-            "../Mage/988.svg"
-        ],
-        "end": [
-            "../Mage/989.svg",
-            "../Mage/1001.svg"
-        ]
-    },
-    "jump_horse": {
-        "start": [
-            "../Mage/1002.svg",
-            "../Mage/1011.svg"
-        ],
-        "loop": [
-            "../Mage/1012.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1013.svg",
-            "../Mage/1018.svg"
-        ]
-    },
-    "jump_dire": {
-        "start": [
-            "../Mage/1019.svg",
-            "../Mage/1024.svg"
-        ],
-        "loop": [
-            "../Mage/1025.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1026.svg",
-            "../Mage/1036.svg"
-        ]
-    },
-    "ready_dire_male": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/1038.svg",
-            "../Mage/1103.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "run_dire_male": {
-        "start": [
-            "../Mage/1104.svg",
-            "../Mage/1106.svg"
-        ],
-        "loop": [
-            "../Mage/1107.svg",
-            "../Mage/1121.svg"
-        ],
-        "end": [
-            "../Mage/1122.svg",
-            "../Mage/1139.svg"
-        ]
-    },
-    "ready_horse_male": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/1140.svg",
-            "../Mage/1200.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "run_horse_male": {
-        "start": [
-            "../Mage/1201.svg",
-            "../Mage/1203.svg"
-        ],
-        "loop": [
-            "../Mage/1204.svg",
-            "../Mage/1212.svg"
-        ],
-        "end": [
-            "../Mage/1213.svg",
-            "../Mage/1225.svg"
-        ]
-    },
-    "jump_horse_male": {
-        "start": [
-            "../Mage/1226.svg",
-            "../Mage/1235.svg"
-        ],
-        "loop": [
-            "../Mage/1236.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1237.svg",
-            "../Mage/1242.svg"
-        ]
-    },
-    "jump_dire_male": {
-        "start": [
-            "../Mage/1243.svg",
-            "../Mage/1248.svg"
-        ],
-        "loop": [
-            "../Mage/1249.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1250.svg",
-            "../Mage/1260.svg"
-        ]
+        "female": {
+            "start": [
+                "../Mage/731.svg",
+                null
+            ],
+            "loop": [
+                "../Mage/732.svg",
+                "../Mage/755.svg"
+            ],
+            "end": [
+                "../Mage/756.svg",
+                "../Mage/771.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/773.svg",
+                null
+            ],
+            "loop": [
+                "../Mage/774.svg",
+                "../Mage/797.svg"
+            ],
+            "end": [
+                "../Mage/798.svg",
+                "../Mage/813.svg"
+            ]
+        }
     },
     "hit_react": {
-        "start": [
-            "../Mage/1262.svg",
-            "../Mage/1272.svg"
-        ],
-        "loop": [
-            "../Mage/1273.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
+        "female": {
+            "start": [
+                "../Mage/1262.svg",
+                "../Mage/1272.svg"
+            ],
+            "loop": [
+                "../Mage/1273.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/1308.svg",
+                "../Mage/1318.svg"
+            ],
+            "loop": [
+                "../Mage/1319.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
     },
     "koed": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/1275.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1276.svg",
-            "../Mage/1279.svg"
-        ]
+        "female": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/1275.svg",
+                null
+            ],
+            "end": [
+                "../Mage/1276.svg",
+                "../Mage/1279.svg"
+            ]
+        },
+        "male": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/1321.svg",
+                null
+            ],
+            "end": [
+                "../Mage/1322.svg",
+                "../Mage/1325.svg"
+            ]
+        },
+        "alt": {
+            "start": [
+                "../Mage/1382.svg",
+                "../Mage/1396.svg"
+            ],
+            "loop": [
+                "../Mage/1397.svg",
+                null
+            ],
+            "end": [
+                "../Mage/1398.svg",
+                "../Mage/1401.svg"
+            ]
+        }
     },
     "final_splat": {
-        "start": [
-            "../Mage/1281.svg",
-            "../Mage/1305.svg"
-        ],
-        "loop": [
-            "../Mage/1306.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "hit_react_male": {
-        "start": [
-            "../Mage/1308.svg",
-            "../Mage/1318.svg"
-        ],
-        "loop": [
-            "../Mage/1319.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "koed_male": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/1321.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1322.svg",
-            "../Mage/1325.svg"
-        ]
-    },
-    "final_splat_male": {
-        "start": [
-            "../Mage/1327.svg",
-            "../Mage/1351.svg"
-        ],
-        "loop": [
-            "../Mage/1352.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
+        "female": {
+            "start": [
+                "../Mage/1281.svg",
+                "../Mage/1305.svg"
+            ],
+            "loop": [
+                "../Mage/1306.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/1327.svg",
+                "../Mage/1351.svg"
+            ],
+            "loop": [
+                "../Mage/1352.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
     },
     "revive": {
-        "start": [
-            "../Mage/1354.svg",
-            "../Mage/1365.svg"
-        ],
-        "loop": [
-            "../Mage/1366.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "revive_male": {
-        "start": [
-            "../Mage/1368.svg",
-            "../Mage/1379.svg"
-        ],
-        "loop": [
-            "../Mage/1380.svg",
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "koed_alt": {
-        "start": [
-            "../Mage/1382.svg",
-            "../Mage/1396.svg"
-        ],
-        "loop": [
-            "../Mage/1397.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1398.svg",
-            "../Mage/1401.svg"
-        ]
+        "female": {
+            "start": [
+                "../Mage/1354.svg",
+                "../Mage/1365.svg"
+            ],
+            "loop": [
+                "../Mage/1366.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "male": {
+            "start": [
+                "../Mage/1368.svg",
+                "../Mage/1379.svg"
+            ],
+            "loop": [
+                "../Mage/1380.svg",
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
     },
     "frozen": {
         "start": [
@@ -588,909 +686,887 @@
         ]
     },
     "melee": {
-        "first": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1459.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1460.svg",
-                "../Mage/1479.svg"
-            ]
+        "female": {
+            "first": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1459.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1460.svg",
+                    "../Mage/1479.svg"
+                ]
+            },
+            "second": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1481.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1482.svg",
+                    "../Mage/1496.svg"
+                ]
+            },
+            "third": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1498.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1499.svg",
+                    "../Mage/1514.svg"
+                ]
+            }
         },
-        "second": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1481.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1482.svg",
-                "../Mage/1496.svg"
-            ]
-        },
-        "third": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1498.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1499.svg",
-                "../Mage/1514.svg"
-            ]
+        "male": {
+            "first": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1516.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1517.svg",
+                    "../Mage/1536.svg"
+                ]
+            },
+            "second": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1538.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1539.svg",
+                    "../Mage/1553.svg"
+                ]
+            },
+            "third": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1555.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1556.svg",
+                    "../Mage/1571.svg"
+                ]
+            }
         }
-    },
-    "melee_male": {
-        "first": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1516.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1517.svg",
-                "../Mage/1536.svg"
-            ]
-        },
-        "second": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1538.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1539.svg",
-                "../Mage/1553.svg"
-            ]
-        },
-        "third": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1555.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1556.svg",
-                "../Mage/1571.svg"
-            ]
-        }
-    },
-    "ex_shoot": {
-        "start": [
-            "../Mage/1573.svg",
-            null
-        ],
-        "loop": [
-            "../Mage/1574.svg",
-            null
-        ],
-        "end": [
-            "../Mage/1575.svg",
-            "../Mage/1581.svg"
-        ]
     },
     "shoot": {
-        "default": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1583.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1584.svg",
-                "../Mage/1598.svg"
-            ]
+        "female": {
+            "default": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1583.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1584.svg",
+                    "../Mage/1598.svg"
+                ]
+            },
+            "up_45": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1600.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1592.svg",
+                    "../Mage/1615.svg"
+                ]
+            },
+            "up_90": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1617.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1618.svg",
+                    "../Mage/1632.svg"
+                ]
+            },
+            "down_45": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1634.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1635.svg",
+                    "../Mage/1650.svg"
+                ]
+            },
+            "down_90": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1651.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1653.svg",
+                    "../Mage/1666.svg"
+                ]
+            }
         },
-        "up_45": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1600.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1592.svg",
-                "../Mage/1615.svg"
-            ]
+        "male": {
+            "default": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1668.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1669.svg",
+                    "../Mage/1684.svg"
+                ]
+            },
+            "up_45": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1685.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1686.svg",
+                    "../Mage/1701.svg"
+                ]
+            },
+            "up_90": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1702.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1703.svg",
+                    "../Mage/1718.svg"
+                ]
+            },
+            "down_45": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1719.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1720.svg",
+                    "../Mage/1735.svg"
+                ]
+            },
+            "down_90": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Mage/1736.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/1737.svg",
+                    "../Mage/1751.svg"
+                ]
+            }
         },
-        "up_90": {
+        "ex": {
             "start": [
-                null,
+                "../Mage/1573.svg",
                 null
             ],
             "loop": [
-                "../Mage/1617.svg",
+                "../Mage/1574.svg",
                 null
             ],
             "end": [
-                "../Mage/1618.svg",
-                "../Mage/1632.svg"
-            ]
-        },
-        "down_45": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1634.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1635.svg",
-                "../Mage/1650.svg"
-            ]
-        },
-        "down_90": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1651.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1653.svg",
-                "../Mage/1666.svg"
+                "../Mage/1575.svg",
+                "../Mage/1581.svg"
             ]
         }
     },
-    "shoot_male": {
-        "default": {
+    "skills": {
+        "blast": {
+            "_1": {
+                "female": {
+                    "start": [
+                        "../Mage/2259.svg",
+                        "../Mage/2265.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2266.svg",
+                        null
+                    ],
+                    "end": [
+                        "../Mage/2267.svg",
+                        "../Mage/2284.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/2312.svg",
+                        "../Mage/2318.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2319.svg",
+                        null
+                    ],
+                    "end": [
+                        "../Mage/2320.svg",
+                        "../Mage/2337.svg"
+                    ]
+                }
+            },
+            "_2": {
+                "female": {
+                    "start": [
+                        "../Mage/2286.svg",
+                        "../Mage/2290.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2291.svg",
+                        "../Mage/2299.svg"
+                    ],
+                    "end": [
+                        "../Mage/2300.svg",
+                        "../Mage/2310.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/2338.svg",
+                        "../Mage/2342.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2343.svg",
+                        "../Mage/2351.svg"
+                    ],
+                    "end": [
+                        "../Mage/2353.svg",
+                        "../Mage/2362.svg"
+                    ]
+                }
+            },
+            "_3": {
+                "start": [
+                    "../Mage/2363.svg",
+                    "../Mage/2369.svg"
+                ],
+                "loop": [
+                    "../Mage/2370.svg",
+                    "../Mage/2374.svg"
+                ],
+                "end": [
+                    "../Mage/2375.svg",
+                    "../Mage/2380.svg"
+                ]
+            },
+            "_4": {
+                "start": [
+                    "../Mage/2381.svg",
+                    "../Mage/2385.svg"
+                ],
+                "loop": [
+                    "../Mage/2386.svg",
+                    "../Mage/2391.svg"
+                ],
+                "end": [
+                    "../Mage/2391.svg",
+                    "../Mage/2396.svg"
+                ]
+            },
+            "fire": {
+                "female": {
+                    "start": [
+                        "../Mage/1841.svg",
+                        "../Mage/1856.svg"
+                    ],
+                    "loop": [
+                        "../Mage/1857.svg",
+                        "../Mage/1872.svg"
+                    ],
+                    "end": [
+                        "../Mage/1873.svg",
+                        "../Mage/1882.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/1884.svg",
+                        "../Mage/1899.svg"
+                    ],
+                    "loop": [
+                        "../Mage/1900.svg",
+                        "../Mage/1915.svg"
+                    ],
+                    "end": [
+                        "../Mage/1916.svg",
+                        "../Mage/1925.svg"
+                    ]
+                }
+            },
+            "run": {
+                "start": [
+                    "../Mage/2397.svg",
+                    "../Mage/2408.svg"
+                ],
+                "loop": [
+                    "../Mage/2409.svg",
+                    "../Mage/2426.svg"
+                ],
+                "end": [
+                    "../Mage/2427.svg",
+                    "../Mage/2430.svg"
+                ]
+            }
+        },
+        "sky_power": {
+            "_1": {
+                "start": [
+                    "../Mage/1927.svg",
+                    "../Mage/1934.svg"
+                ],
+                "loop": [
+                    "../Mage/1935.svg",
+                    "../Mage/1948.svg"
+                ],
+                "end": [
+                    "../Mage/1949.svg",
+                    "../Mage/1957.svg"
+                ]
+            },
+            "_2": {
+                "start": [
+                    "../Mage/1959.svg",
+                    "../Mage/1963.svg"
+                ],
+                "loop": [
+                    "../Mage/1964.svg",
+                    "../Mage/1974.svg"
+                ],
+                "end": [
+                    "../Mage/1975.svg",
+                    "../Mage/1983.svg"
+                ]
+            },
+            "hide": {
+                "start": [
+                    "../Mage/3975.svg",
+                    "../Mage/4005.svg"
+                ],
+                "loop": [
+                    null,
+                    null
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            }
+        },
+        "raise_arms": {
+            "_1": {
+                "start": [
+                    "../Mage/1984.svg",
+                    "../Mage/1992.svg"
+                ],
+                "loop": [
+                    "../Mage/1993.svg",
+                    "../Mage/2002.svg"
+                ],
+                "end": [
+                    "../Mage/2003.svg",
+                    "../Mage/2008.svg"
+                ]
+            },
+            "_2": {
+                "start": [
+                    "../Mage/2009.svg",
+                    "../Mage/2020.svg"
+                ],
+                "loop": [
+                    "../Mage/2021.svg",
+                    "../Mage/2030.svg"
+                ],
+                "end": [
+                    "../Mage/2031.svg",
+                    "../Mage/2035.svg"
+                ]
+            }
+        },
+        "group_buff": {
+            "female": {
+                "start": [
+                    "../Mage/2037.svg",
+                    "../Mage/2041.svg"
+                ],
+                "loop": [
+                    "../Mage/2042.svg",
+                    "../Mage/2046.svg"
+                ],
+                "end": [
+                    "../Mage/2047.svg",
+                    "../Mage/2053.svg"
+                ]
+            },
+            "male": {
+                "start": [
+                    "../Mage/2076.svg",
+                    "../Mage/2080.svg"
+                ],
+                "loop": [
+                    "../Mage/2081.svg",
+                    "../Mage/2085.svg"
+                ],
+                "end": [
+                    "../Mage/2086.svg",
+                    "../Mage/2092.svg"
+                ]
+            }
+        },
+        "cast": {
+            "storm": {
+                "female": {
+                    "start": [
+                        "../Mage/2114.svg",
+                        "../Mage/2133.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2134.svg",
+                        "../Mage/2140.svg"
+                    ],
+                    "end": [
+                        "../Mage/2141.svg",
+                        "../Mage/2145.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/2147.svg",
+                        "../Mage/2166.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2167.svg",
+                        "../Mage/2173.svg"
+                    ],
+                    "end": [
+                        "../Mage/2174.svg",
+                        "../Mage/2178.svg"
+                    ]
+                }
+            },
+            "_1": {
+                "start": [
+                    "../Mage/2432.svg",
+                    "../Mage/2449.svg"
+                ],
+                "loop": [
+                    "../Mage/2450.svg",
+                    "../Mage/2461.svg"
+                ],
+                "end": [
+                    "../Mage/2462.svg",
+                    "../Mage/2474.svg"
+                ]
+            },
+            "_2": {
+                "start": [
+                    "../Mage/2476.svg",
+                    "../Mage/2506.svg"
+                ],
+                "loop": [
+                    "../Mage/2507.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/2508.svg",
+                    "../Mage/2517.svg"
+                ]
+            },
+            "_3": {
+                "start": [
+                    "../Mage/2557.svg",
+                    "../Mage/2597.svg"
+                ],
+                "loop": [
+                    "../Mage/2598.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/2599.svg",
+                    "../Mage/2601.svg"
+                ]
+            },
+            "_4": {
+                "start": [
+                    "../Mage/2602.svg",
+                    "../Mage/2624.svg"
+                ],
+                "loop": [
+                    "../Mage/2625.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/2626.svg",
+                    "../Mage/2635.svg"
+                ]
+            },
+            "_5": {
+                "start": [
+                    "../Mage/2637.svg",
+                    "../Mage/2643.svg"
+                ],
+                "loop": [
+                    "../Mage/2644.svg",
+                    "../Mage/2646.svg"
+                ],
+                "end": [
+                    "../Mage/2647.svg",
+                    "../Mage/2670.svg"
+                ]
+            },
+            "_6": {
+                "start": [
+                    "../Mage/2673.svg",
+                    "../Mage/2677.svg"
+                ],
+                "loop": [
+                    "../Mage/2678.svg",
+                    "../Mage/2682.svg"
+                ],
+                "end": [
+                    "../Mage/2683.svg",
+                    "../Mage/2716.svg"
+                ]
+            }
+        },
+        "quick": {
+            "storm": {
+                "female": {
+                    "start": [
+                        "../Mage/2180.svg",
+                        "../Mage/2193.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2194.svg",
+                        "../Mage/2200.svg"
+                    ],
+                    "end": [
+                        "../Mage/2201.svg",
+                        "../Mage/2205.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/2207.svg",
+                        "../Mage/2220.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2221.svg",
+                        "../Mage/2227.svg"
+                    ],
+                    "end": [
+                        "../Mage/2228.svg",
+                        "../Mage/2232.svg"
+                    ]
+                }
+            },
+            "cast": {
+                "start": [
+                    "../Mage/2519.svg",
+                    "../Mage/2544.svg"
+                ],
+                "loop": [
+                    "../Mage/2545.svg",
+                    null
+                ],
+                "end": [
+                    "../Mage/2546.svg",
+                    "../Mage/2555.svg"
+                ]
+            }
+        },
+        "instant_damage": {
             "start": [
-                null,
-                null
+                "../Mage/2236.svg",
+                "../Mage/2237.svg"
             ],
             "loop": [
-                "../Mage/1668.svg",
+                "../Mage/2238.svg",
                 null
             ],
             "end": [
-                "../Mage/1669.svg",
-                "../Mage/1684.svg"
+                "../Mage/2239.svg",
+                "../Mage/2257.svg"
             ]
         },
-        "up_45": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1685.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1686.svg",
-                "../Mage/1701.svg"
-            ]
-        },
-        "up_90": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1702.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1703.svg",
-                "../Mage/1718.svg"
-            ]
-        },
-        "down_45": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1719.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1720.svg",
-                "../Mage/1735.svg"
-            ]
-        },
-        "down_90": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Mage/1736.svg",
-                null
-            ],
-            "end": [
-                "../Mage/1737.svg",
-                "../Mage/1751.svg"
-            ]
+        "dragon_wrath": {
+            "sky": {
+                "start": [
+                    "../Mage/2718.svg",
+                    "../Mage/2790.svg"
+                ],
+                "loop": [
+                    null,
+                    null
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "charge": {
+                "female": {
+                    "start": [
+                        "../Mage/2792.svg",
+                        "../Mage/2794.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2795.svg",
+                        "../Mage/2818.svg"
+                    ],
+                    "end": [
+                        "../Mage/2819.svg",
+                        "../Mage/2829.svg"
+                    ]
+                },
+                "male": {
+                    "start": [
+                        "../Mage/2830.svg",
+                        "../Mage/2832.svg"
+                    ],
+                    "loop": [
+                        "../Mage/2833.svg",
+                        "../Mage/2856.svg"
+                    ],
+                    "end": [
+                        "../Mage/2857.svg",
+                        "../Mage/2867.svg"
+                    ]
+                }
+            }
         }
     },
-    "crossbow_shoot": {
-        "start": [
-            "../Mage/1753.svg",
-            "../Mage/1764.svg"
-        ],
-        "loop": [
-            "../Mage/1765.svg",
-            "../Mage/1784.svg"
-        ],
-        "end": [
-            "../Mage/1785.svg",
-            "../Mage/1791.svg"
-        ]
-    },
-    "crossbow_double_shoot": {
-        "start": [
-            "../Mage/1793.svg",
-            "../Mage/1804.svg"
-        ],
-        "loop": [
-            "../Mage/1805.svg",
-            "../Mage/1830.svg"
-        ],
-        "end": [
-            "../Mage/1831.svg",
-            "../Mage/1837.svg"
-        ]
-    },
-    "blast_fire": {
-        "start": [
-            "../Mage/1841.svg",
-            "../Mage/1856.svg"
-        ],
-        "loop": [
-            "../Mage/1857.svg",
-            "../Mage/1872.svg"
-        ],
-        "end": [
-            "../Mage/1873.svg",
-            "../Mage/1882.svg"
-        ]
-    },
-    "blast_fire_male": {
-        "start": [
-            "../Mage/1884.svg",
-            "../Mage/1899.svg"
-        ],
-        "loop": [
-            "../Mage/1900.svg",
-            "../Mage/1915.svg"
-        ],
-        "end": [
-            "../Mage/1916.svg",
-            "../Mage/1925.svg"
-        ]
-    },
-    "sky_power": {
-        "start": [
-            "../Mage/1927.svg",
-            "../Mage/1934.svg"
-        ],
-        "loop": [
-            "../Mage/1935.svg",
-            "../Mage/1948.svg"
-        ],
-        "end": [
-            "../Mage/1949.svg",
-            "../Mage/1957.svg"
-        ]
-    },
-    "sky_power_2": {
-        "start": [
-            "../Mage/1959.svg",
-            "../Mage/1963.svg"
-        ],
-        "loop": [
-            "../Mage/1964.svg",
-            "../Mage/1974.svg"
-        ],
-        "end": [
-            "../Mage/1975.svg",
-            "../Mage/1983.svg"
-        ]
-    },
-    "raise_arms": {
-        "start": [
-            "../Mage/1984.svg",
-            "../Mage/1992.svg"
-        ],
-        "loop": [
-            "../Mage/1993.svg",
-            "../Mage/2002.svg"
-        ],
-        "end": [
-            "../Mage/2003.svg",
-            "../Mage/2008.svg"
-        ]
-    },
-    "raise_arms_2": {
-        "start": [
-            "../Mage/2009.svg",
-            "../Mage/2020.svg"
-        ],
-        "loop": [
-            "../Mage/2021.svg",
-            "../Mage/2030.svg"
-        ],
-        "end": [
-            "../Mage/2031.svg",
-            "../Mage/2035.svg"
-        ]
-    },
-    "group_buff": {
-        "start": [
-            "../Mage/2037.svg",
-            "../Mage/2041.svg"
-        ],
-        "loop": [
-            "../Mage/2042.svg",
-            "../Mage/2046.svg"
-        ],
-        "end": [
-            "../Mage/2047.svg",
-            "../Mage/2053.svg"
-        ]
-    },
-    "summon": {
-        "start": [
-            "../Mage/2054.svg",
-            "../Mage/2059.svg"
-        ],
-        "loop": [
-            "../Mage/2060.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2061.svg",
-            "../Mage/2074.svg"
-        ]
-    },
-    "group_buff_male": {
-        "start": [
-            "../Mage/2076.svg",
-            "../Mage/2080.svg"
-        ],
-        "loop": [
-            "../Mage/2081.svg",
-            "../Mage/2085.svg"
-        ],
-        "end": [
-            "../Mage/2086.svg",
-            "../Mage/2092.svg"
-        ]
-    },
-    "summon_male": {
-        "start": [
-            "../Mage/2093.svg",
-            "../Mage/2098.svg"
-        ],
-        "loop": [
-            "../Mage/2099.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2100.svg",
-            "../Mage/2113.svg"
-        ]
-    },
-    "cast_storm": {
-        "start": [
-            "../Mage/2114.svg",
-            "../Mage/2133.svg"
-        ],
-        "loop": [
-            "../Mage/2134.svg",
-            "../Mage/2140.svg"
-        ],
-        "end": [
-            "../Mage/2141.svg",
-            "../Mage/2145.svg"
-        ]
-    },
-    "cast_storm_male": {
-        "start": [
-            "../Mage/2147.svg",
-            "../Mage/2166.svg"
-        ],
-        "loop": [
-            "../Mage/2167.svg",
-            "../Mage/2173.svg"
-        ],
-        "end": [
-            "../Mage/2174.svg",
-            "../Mage/2178.svg"
-        ]
-    },
-    "quick_storm": {
-        "start": [
-            "../Mage/2180.svg",
-            "../Mage/2193.svg"
-        ],
-        "loop": [
-            "../Mage/2194.svg",
-            "../Mage/2200.svg"
-        ],
-        "end": [
-            "../Mage/2201.svg",
-            "../Mage/2205.svg"
-        ]
-    },
-    "quick_storm_male": {
-        "start": [
-            "../Mage/2207.svg",
-            "../Mage/2220.svg"
-        ],
-        "loop": [
-            "../Mage/2221.svg",
-            "../Mage/2227.svg"
-        ],
-        "end": [
-            "../Mage/2228.svg",
-            "../Mage/2232.svg"
-        ]
-    },
-    "instant_damage": {
-        "start": [
-            "../Mage/2236.svg",
-            "../Mage/2237.svg"
-        ],
-        "loop": [
-            "../Mage/2238.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2239.svg",
-            "../Mage/2257.svg"
-        ]
-    },
-    "blast": {
-        "start": [
-            "../Mage/2259.svg",
-            "../Mage/2265.svg"
-        ],
-        "loop": [
-            "../Mage/2266.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2267.svg",
-            "../Mage/2284.svg"
-        ]
-    },
-    "blast_2": {
-        "start": [
-            "../Mage/2286.svg",
-            "../Mage/2290.svg"
-        ],
-        "loop": [
-            "../Mage/2291.svg",
-            "../Mage/2299.svg"
-        ],
-        "end": [
-            "../Mage/2300.svg",
-            "../Mage/2310.svg"
-        ]
-    },
-    "blast_male": {
-        "start": [
-            "../Mage/2312.svg",
-            "../Mage/2318.svg"
-        ],
-        "loop": [
-            "../Mage/2319.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2320.svg",
-            "../Mage/2337.svg"
-        ]
-    },
-    "blast_2_male": {
-        "start": [
-            "../Mage/2338.svg",
-            "../Mage/2342.svg"
-        ],
-        "loop": [
-            "../Mage/2343.svg",
-            "../Mage/2351.svg"
-        ],
-        "end": [
-            "../Mage/2353.svg",
-            "../Mage/2362.svg"
-        ]
-    },
-    "blast_3": {
-        "start": [
-            "../Mage/2363.svg",
-            "../Mage/2369.svg"
-        ],
-        "loop": [
-            "../Mage/2370.svg",
-            "../Mage/2374.svg"
-        ],
-        "end": [
-            "../Mage/2375.svg",
-            "../Mage/2380.svg"
-        ]
-    },
-    "blast_4": {
-        "start": [
-            "../Mage/2381.svg",
-            "../Mage/2385.svg"
-        ],
-        "loop": [
-            "../Mage/2386.svg",
-            "../Mage/2391.svg"
-        ],
-        "end": [
-            "../Mage/2391.svg",
-            "../Mage/2396.svg"
-        ]
-    },
-    "blast_run": {
-        "start": [
-            "../Mage/2397.svg",
-            "../Mage/2408.svg"
-        ],
-        "loop": [
-            "../Mage/2409.svg",
-            "../Mage/2426.svg"
-        ],
-        "end": [
-            "../Mage/2427.svg",
-            "../Mage/2430.svg"
-        ]
-    },
-    "cast_1": {
-        "start": [
-            "../Mage/2432.svg",
-            "../Mage/2449.svg"
-        ],
-        "loop": [
-            "../Mage/2450.svg",
-            "../Mage/2461.svg"
-        ],
-        "end": [
-            "../Mage/2462.svg",
-            "../Mage/2474.svg"
-        ]
-    },
-    "cast_2": {
-        "start": [
-            "../Mage/2476.svg",
-            "../Mage/2506.svg"
-        ],
-        "loop": [
-            "../Mage/2507.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2508.svg",
-            "../Mage/2517.svg"
-        ]
-    },
-    "quick_cast_2": {
-        "start": [
-            "../Mage/2519.svg",
-            "../Mage/2544.svg"
-        ],
-        "loop": [
-            "../Mage/2545.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2546.svg",
-            "../Mage/2555.svg"
-        ]
-    },
-    "cast_3": {
-        "start": [
-            "../Mage/2557.svg",
-            "../Mage/2597.svg"
-        ],
-        "loop": [
-            "../Mage/2598.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2599.svg",
-            "../Mage/2601.svg"
-        ]
-    },
-    "cast_4": {
-        "start": [
-            "../Mage/2602.svg",
-            "../Mage/2624.svg"
-        ],
-        "loop": [
-            "../Mage/2625.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2626.svg",
-            "../Mage/2635.svg"
-        ]
-    },
-    "cast_5": {
-        "start": [
-            "../Mage/2637.svg",
-            "../Mage/2643.svg"
-        ],
-        "loop": [
-            "../Mage/2644.svg",
-            "../Mage/2646.svg"
-        ],
-        "end": [
-            "../Mage/2647.svg",
-            "../Mage/2670.svg"
-        ]
-    },
-    "cast_6": {
-        "start": [
-            "../Mage/2673.svg",
-            "../Mage/2677.svg"
-        ],
-        "loop": [
-            "../Mage/2678.svg",
-            "../Mage/2682.svg"
-        ],
-        "end": [
-            "../Mage/2683.svg",
-            "../Mage/2716.svg"
-        ]
-    },
-    "dragon_wrath_sky": {
-        "start": [
-            "../Mage/2718.svg",
-            "../Mage/2790.svg"
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "dragon_wrath_charge": {
-        "start": [
-            "../Mage/2792.svg",
-            "../Mage/2794.svg"
-        ],
-        "loop": [
-            "../Mage/2795.svg",
-            "../Mage/2818.svg"
-        ],
-        "end": [
-            "../Mage/2819.svg",
-            "../Mage/2829.svg"
-        ]
-    },
-    "dragon_wrath_charge_male": {
-        "start": [
-            "../Mage/2830.svg",
-            "../Mage/2832.svg"
-        ],
-        "loop": [
-            "../Mage/2833.svg",
-            "../Mage/2856.svg"
-        ],
-        "end": [
-            "../Mage/2857.svg",
-            "../Mage/2867.svg"
-        ]
-    },
-    "dance": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/2868.svg",
-            "../Mage/2933.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "cheer": {
-        "start": [
-            "../Mage/2934.svg",
-            "../Mage/2937.svg"
-        ],
-        "loop": [
-            "../Mage/2938.svg",
-            "../Mage/2963.svg"
-        ],
-        "end": [
-            "../Mage/2964.svg",
-            "../Mage/2969.svg"
-        ]
-    },
-    "wave": {
-        "start": [
-            "../Mage/2971.svg",
-            "../Mage/2973.svg"
-        ],
-        "loop": [
-            "../Mage/2974.svg",
-            null
-        ],
-        "end": [
-            "../Mage/2975.svg",
-            "../Mage/3003.svg"
-        ]
-    },
-    "point": {
-        "start": [
-            "../Mage/3005.svg",
-            "../Mage/3018.svg"
-        ],
-        "loop": [
-            "../Mage/3019.svg",
-            "../Mage/3033.svg"
-        ],
-        "end": [
-            "../Mage/3034.svg",
-            "../Mage/3043.svg"
-        ]
-    },
-    "evil_point": {
-        "start": [
-            "../Mage/3046.svg",
-            "../Mage/3059.svg"
-        ],
-        "loop": [
-            "../Mage/3060.svg",
-            "../Mage/3092.svg"
-        ],
-        "end": [
-            "../Mage/3093.svg",
-            "../Mage/3101.svg"
-        ]
-    },
-    "float": {
-        "start": [
-            "../Mage/3103.svg",
-            "../Mage/3138.svg"
-        ],
-        "loop": [
-            "../Mage/3139.svg",
-            "../Mage/3166.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "read": {
-        "start": [
-            "../Mage/3169.svg",
-            "../Mage/3198.svg"
-        ],
-        "loop_1": [
-            "../Mage/3199.svg",
-            "../Mage/3240.svg"
-        ],
-        "loop_2": [
-            "../Mage/3243.svg",
-            "../Mage/3284.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "shrug": {
-        "start": [
-            "../Mage/3287.svg",
-            "../Mage/3328.svg"
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "ta_dah": {
-        "start": [
-            "../Mage/3330.svg",
-            "../Mage/3392.svg"
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "shiver": {
-        "start": [
-            null,
-            null
-        ],
-        "loop": [
-            "../Mage/3395.svg",
-            "../Mage/3460.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "kickball": {
-        "start": [
-            "../Mage/3463.svg",
-            "../Mage/3492.svg"
-        ],
-        "loop_1": [
-            "../Mage/3493.svg",
-            "../Mage/3521.svg"
-        ],
-        "loop_2": [
-            "../Mage/3524.svg",
-            "../Mage/3587.svg"
-        ],
-        "loop_3": [
-            "../Mage/3590.svg",
-            "../Mage/3630.svg"
-        ],
-        "loop_4": [
-            "../Mage/3633.svg",
-            "../Mage/3682.svg"
-        ],
-        "end": [
-            null,
-            null
-        ]
-    },
-    "sky_power_and_hide": {
-        "start": [
-            "../Mage/3975.svg",
-            "../Mage/4005.svg"
-        ],
-        "loop": [
-            null,
-            null
-        ],
-        "end": [
-            null,
-            null
-        ]
+    "emotes": {
+        "dance": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/2868.svg",
+                "../Mage/2933.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "cheer": {
+            "start": [
+                "../Mage/2934.svg",
+                "../Mage/2937.svg"
+            ],
+            "loop": [
+                "../Mage/2938.svg",
+                "../Mage/2963.svg"
+            ],
+            "end": [
+                "../Mage/2964.svg",
+                "../Mage/2969.svg"
+            ]
+        },
+        "wave": {
+            "start": [
+                "../Mage/2971.svg",
+                "../Mage/2973.svg"
+            ],
+            "loop": [
+                "../Mage/2974.svg",
+                null
+            ],
+            "end": [
+                "../Mage/2975.svg",
+                "../Mage/3003.svg"
+            ]
+        },
+        "point": {
+            "start": [
+                "../Mage/3005.svg",
+                "../Mage/3018.svg"
+            ],
+            "loop": [
+                "../Mage/3019.svg",
+                "../Mage/3033.svg"
+            ],
+            "end": [
+                "../Mage/3034.svg",
+                "../Mage/3043.svg"
+            ]
+        },
+        "evil_point": {
+            "start": [
+                "../Mage/3046.svg",
+                "../Mage/3059.svg"
+            ],
+            "loop": [
+                "../Mage/3060.svg",
+                "../Mage/3092.svg"
+            ],
+            "end": [
+                "../Mage/3093.svg",
+                "../Mage/3101.svg"
+            ]
+        },
+        "float": {
+            "start": [
+                "../Mage/3103.svg",
+                "../Mage/3138.svg"
+            ],
+            "loop": [
+                "../Mage/3139.svg",
+                "../Mage/3166.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "read": {
+            "start": [
+                "../Mage/3169.svg",
+                "../Mage/3198.svg"
+            ],
+            "loop_1": [
+                "../Mage/3199.svg",
+                "../Mage/3240.svg"
+            ],
+            "loop_2": [
+                "../Mage/3243.svg",
+                "../Mage/3284.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "shrug": {
+            "start": [
+                "../Mage/3287.svg",
+                "../Mage/3328.svg"
+            ],
+            "loop": [
+                null,
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "ta_dah": {
+            "start": [
+                "../Mage/3330.svg",
+                "../Mage/3392.svg"
+            ],
+            "loop": [
+                null,
+                null
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "shiver": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Mage/3395.svg",
+                "../Mage/3460.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "kickball": {
+            "start": [
+                "../Mage/3463.svg",
+                "../Mage/3492.svg"
+            ],
+            "loop_1": [
+                "../Mage/3493.svg",
+                "../Mage/3521.svg"
+            ],
+            "loop_2": [
+                "../Mage/3524.svg",
+                "../Mage/3587.svg"
+            ],
+            "loop_3": [
+                "../Mage/3590.svg",
+                "../Mage/3630.svg"
+            ],
+            "loop_4": [
+                "../Mage/3633.svg",
+                "../Mage/3682.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
     }
 }
