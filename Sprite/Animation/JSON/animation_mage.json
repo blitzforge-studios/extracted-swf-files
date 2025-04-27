@@ -1398,13 +1398,95 @@
             "../Mage/3169.svg",
             "../Mage/3198.svg"
         ],
-        "loop": [
+        "loop_1": [
             "../Mage/3199.svg",
             "../Mage/3240.svg"
         ],
-        "loop2": [
+        "loop_2": [
             "../Mage/3243.svg",
             "../Mage/3284.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "shrug": {
+        "start": [
+            "../Mage/3287.svg",
+            "../Mage/3328.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "ta_dah": {
+        "start": [
+            "../Mage/3330.svg",
+            "../Mage/3392.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "shiver": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Mage/3395.svg",
+            "../Mage/3460.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "kickball": {
+        "start": [
+            "../Mage/3463.svg",
+            "../Mage/3492.svg"
+        ],
+        "loop_1": [
+            "../Mage/3493.svg",
+            "../Mage/3521.svg"
+        ],
+        "loop_2": [
+            "../Mage/3524.svg",
+            "../Mage/3587.svg"
+        ],
+        "loop_3": [
+            "../Mage/3590.svg",
+            "../Mage/3630.svg"
+        ],
+        "loop_4": [
+            "../Mage/3633.svg",
+            "../Mage/3682.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "sky_power_and_hide": {
+        "start": [
+            "../Mage/3975.svg",
+            "../Mage/4005.svg"
+        ],
+        "loop": [
+            null,
+            null
         ],
         "end": [
             null,
