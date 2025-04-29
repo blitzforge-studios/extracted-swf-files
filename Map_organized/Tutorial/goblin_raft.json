@@ -1,5 +1,5 @@
 {
-    "boat": "./assets/goblin_raft/raft.svg",
+    "raft": "./assets/goblin_raft/raft.svg",
     "flag": {
         "loop": [
             "./assets/goblin_raft/flag/1.svg",
