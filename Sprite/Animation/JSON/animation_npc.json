@@ -1,51 +1,105 @@
 {
-    "ready_relaxed": {
-        "loop": [
-            "../NPC/1.svg",
-            "../NPC/48.svg"
-        ]
-    },
-    "ready_crossed": {
-        "loop": [
-            "../NPC/49.svg",
-            "../NPC/97.svg"
-        ]
-    },
-    "ready_merchant": {
-        "loop": [
-            "../NPC/98.svg",
-            "../NPC/146.svg"
-        ]
-    },
-    "ready_old": {
-        "loop": [
-            "../NPC/147.svg",
-            "../NPC/195.svg"
-        ]
-    },
-    "smithy": {
-        "loop": [
-            "../NPC/196.svg",
-            "../NPC/221.svg"
-        ]
-    },
-    "ready_attitude": {
-        "loop": [
-            "../NPC/222.svg",
-            "../NPC/273.svg"
-        ]
-    },
-    "sexy": {
-        "loop": [
-            "../NPC/274.svg",
-            "../NPC/325.svg"
-        ]
-    },
-    "ready_tough": {
-        "loop": [
-            "../NPC/326.svg",
-            "../NPC/374.svg"
-        ]
+    "ready": {
+        "relaxed": {
+            "loop": [
+                "../NPC/1.svg",
+                "../NPC/48.svg"
+            ]
+        },
+        "crossed": {
+            "loop": [
+                "../NPC/49.svg",
+                "../NPC/97.svg"
+            ]
+        },
+        "merchant": {
+            "loop": [
+                "../NPC/98.svg",
+                "../NPC/146.svg"
+            ]
+        },
+        "old": {
+            "loop": [
+                "../NPC/147.svg",
+                "../NPC/195.svg"
+            ]
+        },
+        "smithy": {
+            "loop": [
+                "../NPC/196.svg",
+                "../NPC/221.svg"
+            ]
+        },
+        "attitude": {
+            "loop": [
+                "../NPC/222.svg",
+                "../NPC/273.svg"
+            ]
+        },
+        "sexy": {
+            "loop": [
+                "../NPC/274.svg",
+                "../NPC/325.svg"
+            ]
+        },
+        "tough": {
+            "loop": [
+                "../NPC/326.svg",
+                "../NPC/374.svg"
+            ]
+        },
+        "staff": {
+            "loop": [
+                "../NPC/574.svg",
+                "../NPC/622.svg"
+            ]
+        },
+        "steer": {
+            "loop": [
+                "../NPC/929.svg",
+                "../NPC/1105.svg"
+            ]
+        },
+        "robes": {
+            "_1": {
+                "loop": [
+                    "../NPC/623.svg",
+                    "../NPC/668.svg"
+                ]
+            },
+            "_2": {
+                "loop": [
+                    "../NPC/671.svg",
+                    "../NPC/716.svg"
+                ]
+            },
+            "_3": {
+                "loop": [
+                    "../NPC/719.svg",
+                    "../NPC/764.svg"
+                ]
+            },
+            "_4": {
+                "loop": [
+                    "../NPC/767.svg",
+                    "../NPC/818.svg"
+                ]
+            }
+        },
+        "burly": {
+            "default": {
+                "loop": [
+                    "../NPC/875.svg",
+                    "../NPC/926.svg"
+                ]
+            },
+            "short": {
+                "loop": [
+                    "../NPC/821.svg",
+                    "../NPC/872.svg"
+                ]
+            }
+        }
     },
     "dig": {
         "start": [
