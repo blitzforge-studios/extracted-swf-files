@@ -99,6 +99,128 @@
                     "../NPC/872.svg"
                 ]
             }
+        },
+        "fink": {
+            "loop": [
+                "../NPC/1108.svg",
+                "../NPC/1146.svg"
+            ]
+        },
+        "long_coat": {
+            "loop": [
+                "../NPC/1149.svg",
+                "../NPC/1200.svg"
+            ]
+        },
+        "sit": {
+            "loop": [
+                "../NPC/1203.svg",
+                "../NPC/1254.svg"
+            ]
+        },
+        "hungry": {
+            "loop": [
+                "../NPC/1257.svg",
+                "../NPC/1308.svg"
+            ]
+        },
+        "beefy": {
+            "loop": [
+                "../NPC/1311.svg",
+                "../NPC/1362.svg"
+            ]
+        },
+        "lupine": {
+            "loop": [
+                "../NPC/1365.svg",
+                "../NPC/1416.svg"
+            ]
+        },
+        "tinker": {
+            "loop": [
+                "../NPC/1419.svg",
+                "../NPC/1470.svg"
+            ]
+        },
+        "traveller": {
+            "loop": [
+                "../NPC/1471.svg",
+                "../NPC/1538.svg"
+            ]
+        },
+        "big_guy": {
+            "loop": [
+                "../NPC/1539.svg",
+                "../NPC/1590.svg"
+            ]
+        },
+        "soldier": {
+            "_1": {
+                "loop": [
+                    "../NPC/1593.svg",
+                    "../NPC/1632.svg"
+                ]
+            },
+            "_2": {
+                "loop": [
+                    "../NPC/1635.svg",
+                    "../NPC/1680.svg"
+                ]
+            },
+            "_3": {
+                "loop": [
+                    "../NPC/1954.svg",
+                    "../NPC/1998.svg"
+                ]
+            }
+        },
+        "dane": {
+            "loop": [
+                "../NPC/1683.svg",
+                "../NPC/1717.svg"
+            ]
+        },
+        "greta": {
+            "loop": [
+                "../NPC/1720.svg",
+                "../NPC/1768.svg"
+            ]
+        },
+        "warrior": {
+            "loop": [
+                "../NPC/1771.svg",
+                "../NPC/1815.svg"
+            ]
+        },
+        "odem": {
+            "loop": [
+                "../NPC/1818.svg",
+                "../NPC/1865.svg"
+            ]
+        },
+        "gran": {
+            "loop": [
+                "../NPC/1868.svg",
+                "../NPC/1904.svg"
+            ]
+        },
+        "maiden": {
+            "loop": [
+                "../NPC/1907.svg",
+                "../NPC/1951.svg"
+            ]
+        },
+        "ox": {
+            "loop": [
+                "../NPC/2001.svg",
+                "../NPC/2044.svg"
+            ]
+        },
+        "steward": {
+            "loop": [
+                "../NPC/2047.svg",
+                "../NPC/2096.svg"
+            ]
         }
     },
     "dig": {
