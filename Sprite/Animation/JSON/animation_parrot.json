@@ -1,0 +1,58 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Parrot/1.svg",
+            "../Parrot/58.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Parrot/59.svg",
+            "../Parrot/66.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "scared": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Parrot/67.svg",
+            "../Parrot/80.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "panic": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Parrot/81.svg",
+            "../Parrot/104.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    }
+}
