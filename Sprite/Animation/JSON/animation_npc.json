@@ -1,0 +1,84 @@
+{
+    "ready_relaxed": {
+        "loop": [
+            "../NPC/1.svg",
+            "../NPC/48.svg"
+        ]
+    },
+    "ready_crossed": {
+        "loop": [
+            "../NPC/49.svg",
+            "../NPC/97.svg"
+        ]
+    },
+    "ready_merchant": {
+        "loop": [
+            "../NPC/98.svg",
+            "../NPC/146.svg"
+        ]
+    },
+    "ready_old": {
+        "loop": [
+            "../NPC/147.svg",
+            "../NPC/195.svg"
+        ]
+    },
+    "smithy": {
+        "loop": [
+            "../NPC/196.svg",
+            "../NPC/221.svg"
+        ]
+    },
+    "ready_attitude": {
+        "loop": [
+            "../NPC/222.svg",
+            "../NPC/273.svg"
+        ]
+    },
+    "sexy": {
+        "loop": [
+            "../NPC/274.svg",
+            "../NPC/325.svg"
+        ]
+    },
+    "ready_tough": {
+        "loop": [
+            "../NPC/326.svg",
+            "../NPC/374.svg"
+        ]
+    },
+    "dig": {
+        "start": [
+            "../NPC/375.svg",
+            "../NPC/387.svg"
+        ],
+        "loop": [
+            "../NPC/388.svg",
+            "../NPC/420.svg"
+        ],
+        "end": [
+            "../NPC/421.svg",
+            "../NPC/429.svg"
+        ]
+    },
+    "captive": {
+        "default": {
+            "loop": [
+                "../NPC/430.svg",
+                "../NPC/466.svg"
+            ]
+        },
+        "kick": {
+            "loop": [
+                "../NPC/467.svg",
+                "../NPC/514.svg"
+            ]
+        }
+    },
+    "casting": {
+        "loop": [
+            "../NPC/515.svg",
+            "../NPC/573.svg"
+        ]
+    }
+}
