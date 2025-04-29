@@ -1,0 +1,62 @@
+{
+    "tentacle_2": {
+        "ready": {
+            "_1": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Kraken/tentacle_2/1.svg",
+                    "../Kraken/tentacle_2/39.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "_2": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Kraken/tentacle_2/40.svg",
+                    "../Kraken/tentacle_2/76.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            }
+        },
+        "rise": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Kraken/tentacle_2/77.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/tentacle_2/78.svg",
+                "../Kraken/tentacle_2/89.svg"
+            ]
+        },
+        "ko": {
+            "start": [
+                "../Kraken/tentacle_2/90.svg",
+                "../Kraken/tentacle_2/100.svg"
+            ],
+            "loop": [
+                "../Kraken/tentacle_2/101.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/tentacle_2/102.svg",
+                null
+            ]
+        }
+    }
+}
