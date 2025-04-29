@@ -57,6 +57,66 @@
             ]
         }
     },
+    "tentacle_1": {
+        "ready": {
+            "_1": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Kraken/tentacle_1/1.svg",
+                    "../Kraken/tentacle_1/42.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "_2": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Kraken/tentacle_1/43.svg",
+                    "../Kraken/tentacle_1/81.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            }
+        },
+        "rise": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Kraken/tentacle_1/82.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/tentacle_1/83.svg",
+                "../Kraken/tentacle_1/123.svg"
+            ]
+        },
+        "ko": {
+            "start": [
+                "../Kraken/tentacle_1/124.svg",
+                "../Kraken/tentacle_1/163.svg"
+            ],
+            "loop": [
+                "../Kraken/tentacle_1/164.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/tentacle_1/165.svg",
+                null
+            ]
+        }
+    },
     "tentacle_2": {
         "ready": {
             "_1": {
