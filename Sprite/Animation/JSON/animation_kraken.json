@@ -57,30 +57,118 @@
             ]
         }
     },
-    "tentacle_1": {
-        "ready": {
-            "_1": {
+    "tentacle": {
+        "base": {
+            "melee": {
+                "default": {
+                    "start": [
+                        "../tentacle/base/1.svg",
+                        "../tentacle/base/72.svg"
+                    ],
+                    "loop": [
+                        null,
+                        null
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                },
+                "fast": {
+                    "start": [
+                        "../tentacle/base/73.svg",
+                        "../tentacle/base/101.svg"
+                    ],
+                    "loop": [
+                        null,
+                        null
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                }
+            },
+            "run": {
                 "start": [
                     null,
                     null
                 ],
                 "loop": [
-                    "../Kraken/tentacle_1/1.svg",
-                    "../Kraken/tentacle_1/42.svg"
+                    "../tentacle/base/102.svg",
+                    "../tentacle/base/124.svg"
                 ],
                 "end": [
                     null,
                     null
                 ]
             },
-            "_2": {
+            "ready": {
                 "start": [
                     null,
                     null
                 ],
                 "loop": [
-                    "../Kraken/tentacle_1/43.svg",
-                    "../Kraken/tentacle_1/81.svg"
+                    "../tentacle/base/185.svg",
+                    "../tentacle/base/197.svg"
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "hit_react": {
+                "default": {
+                    "start": [
+                        null,
+                        null
+                    ],
+                    "loop": [
+                        "../tentacle/base/173.svg",
+                        "../tentacle/base/184.svg"
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                },
+                "flat": {
+                    "start": [
+                        "../tentacle/base/125.svg",
+                        "../tentacle/base/128.svg"
+                    ],
+                    "loop": [
+                        "../tentacle/base/129.svg",
+                        "../tentacle/base/131.svg"
+                    ],
+                    "end": [
+                        "../tentacle/base/132.svg",
+                        "../tentacle/base/142.svg"
+                    ]
+                }
+            },
+            "koed": {
+                "start": [
+                    "../tentacle/base/143.svg",
+                    "../tentacle/base/170.svg"
+                ],
+                "loop": [
+                    null,
+                    null
+                ],
+                "end": [
+                    null,
+                    null
+                ]
+            },
+            "sleep": {
+                "start": [
+                    "../tentacle/base/198.svg",
+                    "../tentacle/base/238.svg"
+                ],
+                "loop": [
+                    null,
+                    null
                 ],
                 "end": [
                     null,
@@ -88,93 +176,125 @@
                 ]
             }
         },
-        "rise": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Kraken/tentacle_1/82.svg",
-                null
-            ],
-            "end": [
-                "../Kraken/tentacle_1/83.svg",
-                "../Kraken/tentacle_1/123.svg"
-            ]
-        },
-        "ko": {
-            "start": [
-                "../Kraken/tentacle_1/124.svg",
-                "../Kraken/tentacle_1/163.svg"
-            ],
-            "loop": [
-                "../Kraken/tentacle_1/164.svg",
-                null
-            ],
-            "end": [
-                "../Kraken/tentacle_1/165.svg",
-                null
-            ]
-        }
-    },
-    "tentacle_2": {
-        "ready": {
-            "_1": {
+        "long": {
+            "ready": {
+                "_1": {
+                    "start": [
+                        null,
+                        null
+                    ],
+                    "loop": [
+                        "../Kraken/tentacle/long/1.svg",
+                        "../Kraken/tentacle/long/42.svg"
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                },
+                "_2": {
+                    "start": [
+                        null,
+                        null
+                    ],
+                    "loop": [
+                        "../Kraken/tentacle/long/43.svg",
+                        "../Kraken/tentacle/long/81.svg"
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                }
+            },
+            "rise": {
                 "start": [
                     null,
                     null
                 ],
                 "loop": [
-                    "../Kraken/tentacle_2/1.svg",
-                    "../Kraken/tentacle_2/39.svg"
+                    "../Kraken/tentacle/long/82.svg",
+                    null
                 ],
                 "end": [
-                    null,
-                    null
+                    "../Kraken/tentacle/long/83.svg",
+                    "../Kraken/tentacle/long/123.svg"
                 ]
             },
-            "_2": {
+            "ko": {
                 "start": [
-                    null,
-                    null
+                    "../Kraken/tentacle/long/124.svg",
+                    "../Kraken/tentacle/long/163.svg"
                 ],
                 "loop": [
-                    "../Kraken/tentacle_2/40.svg",
-                    "../Kraken/tentacle_2/76.svg"
+                    "../Kraken/tentacle/long/164.svg",
+                    null
                 ],
                 "end": [
-                    null,
+                    "../Kraken/tentacle/long/165.svg",
                     null
                 ]
             }
         },
-        "rise": {
-            "start": [
-                null,
-                null
-            ],
-            "loop": [
-                "../Kraken/tentacle_2/77.svg",
-                null
-            ],
-            "end": [
-                "../Kraken/tentacle_2/78.svg",
-                "../Kraken/tentacle_2/89.svg"
-            ]
-        },
-        "ko": {
-            "start": [
-                "../Kraken/tentacle_2/90.svg",
-                "../Kraken/tentacle_2/100.svg"
-            ],
-            "loop": [
-                "../Kraken/tentacle_2/101.svg",
-                null
-            ],
-            "end": [
-                "../Kraken/tentacle_2/102.svg",
-                null
-            ]
+        "short": {
+            "ready": {
+                "_1": {
+                    "start": [
+                        null,
+                        null
+                    ],
+                    "loop": [
+                        "../Kraken/tentacle/short/1.svg",
+                        "../Kraken/tentacle/short/39.svg"
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                },
+                "_2": {
+                    "start": [
+                        null,
+                        null
+                    ],
+                    "loop": [
+                        "../Kraken/tentacle/short/40.svg",
+                        "../Kraken/tentacle/short/76.svg"
+                    ],
+                    "end": [
+                        null,
+                        null
+                    ]
+                }
+            },
+            "rise": {
+                "start": [
+                    null,
+                    null
+                ],
+                "loop": [
+                    "../Kraken/tentacle/short/77.svg",
+                    null
+                ],
+                "end": [
+                    "../Kraken/tentacle/short/78.svg",
+                    "../Kraken/tentacle/short/89.svg"
+                ]
+            },
+            "ko": {
+                "start": [
+                    "../Kraken/tentacle/short/90.svg",
+                    "../Kraken/tentacle/short/100.svg"
+                ],
+                "loop": [
+                    "../Kraken/tentacle/short/101.svg",
+                    null
+                ],
+                "end": [
+                    "../Kraken/tentacle/short/102.svg",
+                    null
+                ]
+            }
         }
     }
 }
