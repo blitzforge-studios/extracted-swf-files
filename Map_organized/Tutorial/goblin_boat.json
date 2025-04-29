@@ -1,0 +1,9 @@
+{
+    "boat": "./assets/goblin_boat/boat.svg",
+    "flag": {
+        "loop": [
+            "./assets/goblin_boat/flag/1.svg",
+            "./assets/goblin_boat/flag/12.svg"
+        ]
+    }
+}
