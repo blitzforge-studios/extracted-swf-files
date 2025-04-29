@@ -1,0 +1,116 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Psychophage/1.svg",
+            "../Psychophage/11.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "hit_react": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Psychophage/13.svg",
+            "../Psychophage/17.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Psychophage/20.svg",
+            "../Psychophage/25.svg"
+        ],
+        "loop": [
+            "../Psychophage/26.svg",
+            "../Psychophage/29.svg"
+        ],
+        "end": [
+            "../Psychophage/30.svg",
+            "../Psychophage/31.svg"
+        ]
+    },
+    "final_splat": {
+        "start": [
+            "../Psychophage/32.svg",
+            "../Psychophage/54.svg"
+        ],
+        "loop": [
+            "../Psychophage/55.svg",
+            null
+        ],
+        "end": [
+            "../Psychophage/56.svg",
+            "../Psychophage/60.svg"
+        ]
+    },
+    "shoot": {
+        "_1": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Psychophage/62.svg",
+                "../Psychophage/71.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "_2": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Psychophage/98.svg",
+                "../Psychophage/107.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Psychophage/73.svg",
+            "../Psychophage/81.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Psychophage/83.svg",
+            "../Psychophage/96.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    }
+}
