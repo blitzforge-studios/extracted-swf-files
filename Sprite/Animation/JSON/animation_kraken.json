@@ -1,4 +1,62 @@
 {
+    "face": {
+        "ready": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Kraken/face/1.svg",
+                "../Kraken/face/53.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "hit_react": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Kraken/face/54.svg",
+                "../Kraken/face/62.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "ko": {
+            "start": [
+                "../Kraken/face/64.svg",
+                "../Kraken/face/84.svg"
+            ],
+            "loop": [
+                "../Kraken/face/85.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/face/86.svg",
+                null
+            ]
+        },
+        "rise": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Kraken/face/87.svg",
+                null
+            ],
+            "end": [
+                "../Kraken/face/88.svg",
+                "../Kraken/face/97.svg"
+            ]
+        }
+    },
     "tentacle_2": {
         "ready": {
             "_1": {
