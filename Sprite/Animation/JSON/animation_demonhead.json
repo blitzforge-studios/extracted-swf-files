@@ -1,0 +1,111 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/1.svg",
+            "../Demonhead/11.svg"
+        ],
+        "end": []
+    },
+    "hit_react": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/13.svg",
+            "../Demonhead/18.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Demonhead/21.svg",
+            "../Demonhead/27.svg"
+        ],
+        "loop": [
+            "../Demonhead/28.svg",
+            "../Demonhead/31.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "final_splat": {
+        "start": [
+            "../Demonhead/34.svg",
+            "../Demonhead/56.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            "../Demonhead/57.svg",
+            "../Demonhead/62.svg"
+        ]
+    },
+    "shoot": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/64.svg",
+            "../Demonhead/73.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/75.svg",
+            "../Demonhead/79.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/85.svg",
+            "../Demonhead/98.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "melee": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Demonhead/100.svg",
+            "../Demonhead/135.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    }
+}
