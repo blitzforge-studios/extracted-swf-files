@@ -1,0 +1,200 @@
+{
+    "sleep": {
+        "start": [
+            "../Devourer/1.svg",
+            "../Devourer/20.svg"
+        ],
+        "loop": [
+            "../Devourer/21.svg",
+            null
+        ],
+        "end": [
+            "../Devourer/22.svg",
+            "../Devourer/35.svg"
+        ]
+    },
+    "spawn": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            "../Devourer/37.svg",
+            "../Devourer/42.svg"
+        ]
+    },
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/54.svg",
+            "../Devourer/82.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/84.svg",
+            "../Devourer/102.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "fall": {
+        "start": [
+            "../Devourer/104.svg",
+            "../Devourer/106.svg"
+        ],
+        "loop": [
+            "../Devourer/107.svg",
+            "../Devourer/108.svg"
+        ],
+        "end": [
+            "../Devourer/109.svg",
+            "../Devourer/112.svg"
+        ]
+    },
+    "backpedal": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/115.svg",
+            "../Devourer/133.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Devourer/136.svg",
+            "../Devourer/154.svg"
+        ],
+        "loop": [
+            "../Devourer/155.svg",
+            "../Devourer/156.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/158.svg",
+            "../Devourer/158.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/165.svg",
+            "../Devourer/184.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "melee": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/186.svg",
+            "../Devourer/204.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "shoot": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/221.svg",
+            "../Devourer/242.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "hit_react": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Devourer/243.svg",
+            "../Devourer/252.svg"
+        ],
+        "end": [
+            "../Devourer/253.svg",
+            "../Devourer/255.svg"
+        ]
+    },
+    "cast": {
+        "_1": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Devourer/269.svg",
+                "../Devourer/345.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        },
+        "_2": {
+            "start": [
+                null,
+                null
+            ],
+            "loop": [
+                "../Devourer/347.svg",
+                "../Devourer/380.svg"
+            ],
+            "end": [
+                null,
+                null
+            ]
+        }
+    }
+}
