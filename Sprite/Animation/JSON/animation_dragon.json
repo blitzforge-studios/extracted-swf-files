@@ -1,0 +1,142 @@
+{
+    "ready": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Dragon/1.svg",
+            "../Dragon/71.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "run": {
+        "start": [
+            "../Dragon/92.svg",
+            "../Dragon/111.svg"
+        ],
+        "loop": [
+            "../Dragon/112.svg",
+            "../Dragon/146.svg"
+        ],
+        "end": [
+            "../Dragon/147.svg",
+            "../Dragon/157.svg"
+        ]
+    },
+    "take_off": {
+        "start": [
+            "../Dragon/159.svg",
+            "../Dragon/194.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "land": {
+        "start": [
+            "../Dragon/197.svg",
+            "../Dragon/222.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "hop": {
+        "start": [
+            "../Dragon/224.svg",
+            "../Dragon/265.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "hit_react": {
+        "start": [
+            "../Dragon/267.svg",
+            "../Dragon/280.svg"
+        ],
+        "loop": [
+            null,
+            null
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "koed": {
+        "start": [
+            "../Dragon/282.svg",
+            "../Dragon/333.svg"
+        ],
+        "loop": [
+            "../Dragon/334.svg",
+            "../Dragon/335.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "frozen": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Dragon/338.svg",
+            "../Dragon/339.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    },
+    "stunned": {
+        "start": [
+            "../Dragon/344.svg",
+            "../Dragon/357.svg"
+        ],
+        "loop": [
+            "../Dragon/358.svg",
+            "../Dragon/420.svg"
+        ],
+        "end": [
+            "../Dragon/421.svg",
+            "../Dragon/434.svg"
+        ]
+    },
+    "sleep": {
+        "start": [
+            null,
+            null
+        ],
+        "loop": [
+            "../Dragon/436.svg",
+            "../Dragon/437.svg"
+        ],
+        "end": [
+            null,
+            null
+        ]
+    }
+}
